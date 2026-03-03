@@ -17,6 +17,7 @@
 #include <godot_cpp/classes/global_constants.hpp>
 #include <godot_cpp/classes/image.hpp>
 #include <godot_cpp/classes/input_event_key.hpp>
+#include <godot_cpp/classes/node.hpp>
 #include <godot_cpp/classes/tile_map.hpp>
 #include <godot_cpp/classes/tile_set.hpp>
 #include <godot_cpp/classes/tween.hpp>

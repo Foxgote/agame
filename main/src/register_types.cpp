@@ -1,4 +1,4 @@
-/* godot-cpp integration testing project.
+﻿/* godot-cpp integration testing project.
  *
  * This is free and unencumbered software released into the public domain.
  */
@@ -12,6 +12,10 @@
 #include <godot_cpp/godot.hpp>
 
 #include "example.h"
+#include "hello_world.h"
+#include "blackhole.h"
+#include "spaceship.h"
+#include "debug_grid.h"
 #include "tests.h"
 
 using namespace godot;
@@ -30,8 +34,11 @@ void initialize_example_module(ModuleInitializationLevel p_level) {
 	GDREGISTER_CLASS(ExampleBase);
 	GDREGISTER_CLASS(ExampleChild);
 	GDREGISTER_RUNTIME_CLASS(ExampleRuntime);
-	GDREGISTER_CLASS(ExamplePrzykład);
 	GDREGISTER_INTERNAL_CLASS(ExampleInternal);
+	GDREGISTER_CLASS(HelloWorld);
+	GDREGISTER_CLASS(BlackHole);
+	GDREGISTER_CLASS(Spaceship);
+	GDREGISTER_CLASS(DebugGrid);
 }
 
 void uninitialize_example_module(ModuleInitializationLevel p_level) {
@@ -52,3 +59,4 @@ GDExtensionBool GDE_EXPORT example_library_init(GDExtensionInterfaceGetProcAddre
 	return init_obj.init();
 }
 }
+

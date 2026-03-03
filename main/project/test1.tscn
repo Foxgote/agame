@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://cv5tb8gb1r8yr"]
+
+[node name="Node" type="Node" unique_id=514355809]
+
+[node name="BlackHole" type="BlackHole" parent="." unique_id=110121170]
+mu = 10000.0
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.3841858e-07, -0.14776921, 6.112994)
+
+[node name="Spaceship" type="Spaceship" parent="." unique_id=1984455966]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -6.110123)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1507588468]
+transform = Transform3D(0.05630157, 0.37373254, -0.92582625, -0.022685606, 0.9275365, 0.37304348, 0.9981561, -5.5711076e-09, 0.06070011, -10.163771, 4.3489227, 0)
+
+[node name="OmniLight3D" type="OmniLight3D" parent="." unique_id=2086922393]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 22.890915, -2.2380764)
+light_energy = 16.0
+light_indirect_energy = 16.0
+light_volumetric_fog_energy = 16.0
+light_size = 1.36
+omni_range = 4096.0
+
+[node name="OmniLight3D2" type="OmniLight3D" parent="." unique_id=73031539]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.8146973e-06, -12.522619, -23.081413)
+light_energy = 16.0
+light_indirect_energy = 16.0
+light_volumetric_fog_energy = 16.0
+light_size = 1.36
+omni_range = 4096.0
+
+[node name="DebugGrid" type="DebugGrid" parent="." unique_id=89586990]
