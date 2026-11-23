@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: WWMRProfile
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 290df9c8adf194c42b31139255144c35, type: 2}
+  - {fileID: 11400000, guid: 89a4618ff1661ad4aa4659060b0ab115, type: 2}
+  - {fileID: 11400000, guid: 3d5fc80498aa45047a387e4cdecb1bdd, type: 2}
+  - {fileID: 11400000, guid: 7d0e0f36633b0d84482f971aca4f953c, type: 2}
+  - {fileID: 11400000, guid: 47b0fd14c2e6ceb4383666e6e818fb1d, type: 2}
+  - {fileID: 11400000, guid: 235ddd40ad1b91349828c693a15dce06, type: 2}
+  - {fileID: 11400000, guid: 92c05a982a180ee4894ac49fc07c6b44, type: 2}

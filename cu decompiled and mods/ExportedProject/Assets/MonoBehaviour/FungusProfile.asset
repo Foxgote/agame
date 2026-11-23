@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: FungusProfile
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: 3503ef8660d85664a9c1c815f15cd1f9, type: 2}
+  - {fileID: 11400000, guid: ab3bfd8935341ad40a1ab52af6ee6b82, type: 2}
+  - {fileID: 11400000, guid: fe22b2c0e1f763b41b22145721ab41f7, type: 2}
+  - {fileID: 11400000, guid: f60597fb2a640ec46a4ea269b9c9c66f, type: 2}
+  - {fileID: 11400000, guid: 587cc853d75995d46b757b98bf7bfc77, type: 2}
+  - {fileID: 11400000, guid: cfce7db8b38fa24419e014dc051db2d1, type: 2}

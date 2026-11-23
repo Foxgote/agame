@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{26B6E1B1-F2FC-4DC2-8D78-6152CD5BEBF3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LewdStatus</RootNamespace>
+    <AssemblyName>LewdStatus</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony" />
+    <Reference Include="Assembly-CSharp" />
+    <Reference Include="BepInEx" />
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.AnimationModule" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.ImageConversionModule" />
+    <Reference Include="UnityEngine.InputLegacyModule" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="UnityEngine.Physics2DModule" />
+    <Reference Include="UnityEngine.TextCoreFontEngineModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="UnityEngine.TilemapModule" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.UIModule" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutKeys.cs" />
+    <Compile Include="AboutMod.cs" />
+    <Compile Include="AdultAgePatch.cs" />
+    <Compile Include="Antiserum.cs" />
+    <Compile Include="Antivenom.cs" />
+    <Compile Include="AntivenomLoadPatch.cs" />
+    <Compile Include="AntivenomNamePatch.cs" />
+    <Compile Include="AntivenomRegisterPatch.cs" />
+    <Compile Include="Belly.cs" />
+    <Compile Include="Biome.cs" />
+    <Compile Include="BioWarning.cs" />
+    <Compile Include="Blanket.cs" />
+    <Compile Include="BlanketWarmthPatch.cs" />
+    <Compile Include="BlastFreesHerPatch.cs" />
+    <Compile Include="BodyUpdatePatch.cs" />
+    <Compile Include="BoundArms.cs" />
+    <Compile Include="BoundArmsLyingPatch.cs" />
+    <Compile Include="BoundArmsStandPatch.cs" />
+    <Compile Include="Bridge.cs" />
+    <Compile Include="BridgeMenuPatch.cs" />
+    <Compile Include="BroodJumpPatch.cs" />
+    <Compile Include="BroodSpeedPatch.cs" />
+    <Compile Include="Burning.cs" />
+    <Compile Include="Bust.cs" />
+    <Compile Include="Clothes.cs" />
+    <Compile Include="ClothesRepairPatch.cs" />
+    <Compile Include="ConsoleSpawnPatch.cs" />
+    <Compile Include="Counter.cs" />
+    <Compile Include="CounterItemNamePatch.cs" />
+    <Compile Include="CounterLiquidNamePatch.cs" />
+    <Compile Include="CounterLoadPatch.cs" />
+    <Compile Include="CounterRecipePatch.cs" />
+    <Compile Include="CounterRegisterPatch.cs" />
+    <Compile Include="CrouchGuidePatch.cs" />
+    <Compile Include="DebugAlt.cs" />
+    <Compile Include="DebugBinds.cs" />
+    <Compile Include="DeviceBagPatch.cs" />
+    <Compile Include="DeviceDrinkPatch.cs" />
+    <Compile Include="DeviceDropPatch.cs" />
+    <Compile Include="DeviceGagTalkListPatch.cs" />
+    <Compile Include="DeviceGagTalkPatch.cs" />
+    <Compile Include="DeviceGagTalkPatchHelper.cs" />
+    <Compile Include="DeviceHandsPatch.cs" />
+    <Compile Include="DeviceHobbleJumpPatch.cs" />
+    <Compile Include="DeviceHobblePatch.cs" />
+    <Compile Include="DevicePlayerTakePatch.cs" />
+    <Compile Include="Devices.cs" />
+    <Compile Include="DeviceSellCoreLibPatch.cs" />
+    <Compile Include="DeviceSellPatch.cs" />
+    <Compile Include="DeviceUsePatch.cs" />
+    <Compile Include="DeviceWearPatch.cs" />
+    <Compile Include="Diff.cs" />
+    <Compile Include="Engulfed.cs" />
+    <Compile Include="External.cs" />
+    <Compile Include="Flesh.cs" />
+    <Compile Include="FleshArt.cs" />
+    <Compile Include="FleshBurn.cs" />
+    <Compile Include="FleshJumpPatch.cs" />
+    <Compile Include="FleshPatch.cs" />
+    <Compile Include="FleshSlowPatch.cs" />
+    <Compile Include="FleshWall.cs" />
+    <Compile Include="FleshZones.cs" />
+    <Compile Include="FlowerArt.cs" />
+    <Compile Include="FlowerBlindness.cs" />
+    <Compile Include="FlowerPlant.cs" />
+    <Compile Include="Flowers.cs" />
+    <Compile Include="FurRealCompat.cs" />
+    <Compile Include="GameOverPic.cs" />
+    <Compile Include="GameOverPicPatch.cs" />
+    <Compile Include="GasVentHit.cs" />
+    <Compile Include="Glitch.cs" />
+    <Compile Include="Habit.cs" />
+    <Compile Include="Heart.cs" />
+    <Compile Include="HeldWearableSpritesPatch.cs" />
+    <Compile Include="HostConversion.cs" />
+    <Compile Include="InvasionPopup.cs" />
+    <Compile Include="Keys.cs" />
+    <Compile Include="Larva.cs" />
+    <Compile Include="LatexArt.cs" />
+    <Compile Include="LatexBlob.cs" />
+    <Compile Include="Latexes.cs" />
+    <Compile Include="LatexHud.cs" />
+    <Compile Include="LatexKind.cs" />
+    <Compile Include="LatexMites.cs" />
+    <Compile Include="LatexMood.cs" />
+    <Compile Include="LatexNightVisionPatch.cs" />
+    <Compile Include="LatexPond.cs" />
+    <Compile Include="LatexPondHit.cs" />
+    <Compile Include="LatexTakeover.cs" />
+    <Compile Include="LatexVoice.cs" />
+    <Compile Include="LewdHealthPanel.cs" />
+    <Compile Include="LewdLanguageFollowPatch.cs" />
+    <Compile Include="LewdSettings.cs" />
+    <Compile Include="LewdSettingsListPatch.cs" />
+    <Compile Include="LewdSettingsTabPatch.cs" />
+    <Compile Include="LewdSettingsTextPatch.cs" />
+    <Compile Include="LewdWall.cs" />
+    <Compile Include="LoadPatch.cs" />
+    <Compile Include="Lockpick.cs" />
+    <Compile Include="LustGas.cs" />
+    <Compile Include="Mercy.cs" />
+    <Compile Include="Microsoft\CodeAnalysis\EmbeddedAttribute.cs" />
+    <Compile Include="Mood.cs" />
+    <Compile Include="MoodleFilter.cs" />
+    <Compile Include="MoodleHidePatch.cs" />
+    <Compile Include="MoodleIconsPatch.cs" />
+    <Compile Include="MoodleRowPatch.cs" />
+    <Compile Include="MoodlesPatch.cs" />
+    <Compile Include="Neck.cs" />
+    <Compile Include="NoBitesWhileHeldPatch.cs" />
+    <Compile Include="Noise.cs" />
+    <Compile Include="NoiseBlastPatch.cs" />
+    <Compile Include="NoiseDigPatch.cs" />
+    <Compile Include="NoiseGunPatch.cs" />
+    <Compile Include="NoiseSoundPatch.cs" />
+    <Compile Include="NudeMood.cs" />
+    <Compile Include="OutfitArmorPatch.cs" />
+    <Compile Include="OutfitCorpsePatch.cs" />
+    <Compile Include="OutfitCratePatch.cs" />
+    <Compile Include="OutfitDef.cs" />
+    <Compile Include="OutfitLoadPatch.cs" />
+    <Compile Include="OutfitNamePatch.cs" />
+    <Compile Include="OutfitRegisterPatch.cs" />
+    <Compile Include="Outfits.cs" />
+    <Compile Include="OutfitStepPatch.cs" />
+    <Compile Include="ParasiteAI.cs" />
+    <Compile Include="ParasiteArt.cs" />
+    <Compile Include="ParasiteNamePatch.cs" />
+    <Compile Include="Parasites.cs" />
+    <Compile Include="Pit.cs" />
+    <Compile Include="PitKind.cs" />
+    <Compile Include="Pits.cs" />
+    <Compile Include="PlugDropPatch.cs" />
+    <Compile Include="Plugin.cs" />
+    <Compile Include="Plugs.cs" />
+    <Compile Include="PlugWearPatch.cs" />
+    <Compile Include="PoseKit\HerPuppet.cs" />
+    <Compile Include="PoseKit\Kit.cs" />
+    <Compile Include="PoseKit\Poses.cs" />
+    <Compile Include="PoseKit\PuppetDrivePatch.cs" />
+    <Compile Include="PoseKit\ScenePose.cs" />
+    <Compile Include="PoseNoRagdollPatch.cs" />
+    <Compile Include="Potion.cs" />
+    <Compile Include="PotionItemNamePatch.cs" />
+    <Compile Include="PotionLiquidNamePatch.cs" />
+    <Compile Include="PotionLoadPatch.cs" />
+    <Compile Include="PotionRegisterPatch.cs" />
+    <Compile Include="Prof.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Puppet.cs" />
+    <Compile Include="PuppetAttackPatch.cs" />
+    <Compile Include="PuppetInputPatch.cs" />
+    <Compile Include="PuppetJumpPatch.cs" />
+    <Compile Include="RecipeFixupPatch.cs" />
+    <Compile Include="Relief.cs" />
+    <Compile Include="RunStats.cs" />
+    <Compile Include="SavePatch.cs" />
+    <Compile Include="Scalpel.cs" />
+    <Compile Include="ScavArmory\AmmoClickPatch.cs" />
+    <Compile Include="ScavArmory\AmmoHudPatch.cs" />
+    <Compile Include="ScavArmory\AmmoInfo.cs" />
+    <Compile Include="ScavArmory\AmmoLines.cs" />
+    <Compile Include="ScavArmory\AmmoRecipePatch.cs" />
+    <Compile Include="ScavArmory\AmmoShotPatch.cs" />
+    <Compile Include="ScavArmory\AmmoStockPatch.cs" />
+    <Compile Include="ScavArmory\AmmoTooltipPatch.cs" />
+    <Compile Include="ScavArmory\AmmoTrade.cs" />
+    <Compile Include="ScavArmory\ArmDef.cs" />
+    <Compile Include="ScavArmory\Armory.cs" />
+    <Compile Include="ScavArmory\BoxFillsMagPatch.cs" />
+    <Compile Include="ScavArmory\BoxNotMagPatch.cs" />
+    <Compile Include="ScavArmory\Camp.cs" />
+    <Compile Include="ScavArmory\Camps.cs" />
+    <Compile Include="ScavArmory\Capture.cs" />
+    <Compile Include="ScavArmory\CaptureTickPatch.cs" />
+    <Compile Include="ScavArmory\CorpsePatch.cs" />
+    <Compile Include="ScavArmory\CraftedBoxPatch.cs" />
+    <Compile Include="ScavArmory\CratePatch.cs" />
+    <Compile Include="ScavArmory\Deal.cs" />
+    <Compile Include="ScavArmory\DebugLoadPatch.cs" />
+    <Compile Include="ScavArmory\EarPro.cs" />
+    <Compile Include="ScavArmory\EarProOwnShotPatch.cs" />
+    <Compile Include="ScavArmory\EarProTinnitusPatch.cs" />
+    <Compile Include="ScavArmory\EarProVolumePatch.cs" />
+    <Compile Include="ScavArmory\GunAutoPickUpPatch.cs" />
+    <Compile Include="ScavArmory\GunControls.cs" />
+    <Compile Include="ScavArmory\GunControlsPatch.cs" />
+    <Compile Include="ScavArmory\GunFinds.cs" />
+    <Compile Include="ScavArmory\GunIntPatch.cs" />
+    <Compile Include="ScavArmory\GunPickUpPatch.cs" />
+    <Compile Include="ScavArmory\Kind.cs" />
+    <Compile Include="ScavArmory\LewdLink.cs" />
+    <Compile Include="ScavArmory\LoadPatch.cs" />
+    <Compile Include="ScavArmory\MagazineTagPatch.cs" />
+    <Compile Include="ScavArmory\MagPatch.cs" />
+    <Compile Include="ScavArmory\NamePatch.cs" />
+    <Compile Include="ScavArmory\Plugin.cs" />
+    <Compile Include="ScavArmory\PodRifle.cs" />
+    <Compile Include="ScavArmory\PouchCountPatch.cs" />
+    <Compile Include="ScavArmory\RegisterPatch.cs" />
+    <Compile Include="ScavArmory\ReloadAnim.cs" />
+    <Compile Include="ScavArmory\RoundPatch.cs" />
+    <Compile Include="ScavArmory\ScavArt.cs" />
+    <Compile Include="ScavArmory\Scavenger.cs" />
+    <Compile Include="ScavArmory\Scavengers.cs" />
+    <Compile Include="ScavArmory\ScavHitRelay.cs" />
+    <Compile Include="ScavArmory\ScavNamePatch.cs" />
+    <Compile Include="ScavArmory\ScavRig.cs" />
+    <Compile Include="ScavArmory\ScavTickPatch.cs" />
+    <Compile Include="ScavArmory\ShotLogPatch.cs" />
+    <Compile Include="ScavArmory\ThrownByHer.cs" />
+    <Compile Include="ScavArmory\ThrownByHerPatch.cs" />
+    <Compile Include="ScavArmory\TwoHandGripPatch.cs" />
+    <Compile Include="ScavArmory\Ultimatum.cs" />
+    <Compile Include="ScavArmory\UltimatumShotPatch.cs" />
+    <Compile Include="ScavArmory\WallMount.cs" />
+    <Compile Include="ScavArmory\WeaponDef.cs" />
+    <Compile Include="Scenes.cs" />
+    <Compile Include="SecondChance.cs" />
+    <Compile Include="SecondChancePatch.cs" />
+    <Compile Include="Semen.cs" />
+    <Compile Include="SemenDrinkPatch.cs" />
+    <Compile Include="SemenFluid.cs" />
+    <Compile Include="SemenInfoPatch.cs" />
+    <Compile Include="SemenNamePatch.cs" />
+    <Compile Include="SemenRenderPatch.cs" />
+    <Compile Include="SetBodyFieldAutofillPatch.cs" />
+    <Compile Include="SetBodyFieldPatch.cs" />
+    <Compile Include="SewingKit.cs" />
+    <Compile Include="SewingKitLoadPatch.cs" />
+    <Compile Include="SewingKitNamePatch.cs" />
+    <Compile Include="SewingKitRecipePatch.cs" />
+    <Compile Include="SewingKitRegisterPatch.cs" />
+    <Compile Include="Sfx.cs" />
+    <Compile Include="SkinVoice.cs" />
+    <Compile Include="SlimeBog.cs" />
+    <Compile Include="SlimeDrinkPatch.cs" />
+    <Compile Include="SlimeFluid.cs" />
+    <Compile Include="SlimeInfectionPatch.cs" />
+    <Compile Include="SlimeInfoPatch.cs" />
+    <Compile Include="SlimeInstallPatch.cs" />
+    <Compile Include="SlimeNamePatch.cs" />
+    <Compile Include="SlimeRenderPatch.cs" />
+    <Compile Include="SlimeSuitWarmthPatch.cs" />
+    <Compile Include="SlimeWall.cs" />
+    <Compile Include="SlimeWallPatch.cs" />
+    <Compile Include="SlitArt.cs" />
+    <Compile Include="SlitMouth.cs" />
+    <Compile Include="Slits.cs" />
+    <Compile Include="SoundLog.cs" />
+    <Compile Include="SoundLogPatch.cs" />
+    <Compile Include="Spots.cs" />
+    <Compile Include="State.cs" />
+    <Compile Include="Suit.cs" />
+    <Compile Include="SuitArmorPatch.cs" />
+    <Compile Include="SuitCut.cs" />
+    <Compile Include="SuitLed.cs" />
+    <Compile Include="Suppressant.cs" />
+    <Compile Include="SymbiosisJumpPatch.cs" />
+    <Compile Include="SymbiosisSpeedPatch.cs" />
+    <Compile Include="SymbioteVoice.cs" />
+    <Compile Include="System\Runtime\CompilerServices\RefSafetyRulesAttribute.cs" />
+    <Compile Include="TentacleArt.cs" />
+    <Compile Include="Tentacles.cs" />
+    <Compile Include="TentacleTrap.cs" />
+    <Compile Include="TornMark.cs" />
+    <Compile Include="ToyAutoPickUpPatch.cs" />
+    <Compile Include="ToyContainerPatch.cs" />
+    <Compile Include="ToyDef.cs" />
+    <Compile Include="ToyLoadPatch.cs" />
+    <Compile Include="ToyNamePatch.cs" />
+    <Compile Include="ToyPickUpPatch.cs" />
+    <Compile Include="ToyRegisterPatch.cs" />
+    <Compile Include="Toys.cs" />
+    <Compile Include="TraderKeys.cs" />
+    <Compile Include="TraderKeysPatch.cs" />
+    <Compile Include="TraderSuit.cs" />
+    <Compile Include="TraderSuitLoadPatch.cs" />
+    <Compile Include="TraderSuitNamePatch.cs" />
+    <Compile Include="TraderSuitPatch.cs" />
+    <Compile Include="TraderSuitPricePatch.cs" />
+    <Compile Include="TraderSuitPurchasePatch.cs" />
+    <Compile Include="TraderSuitRegisterPatch.cs" />
+    <Compile Include="TraderSuitShowPatch.cs" />
+    <Compile Include="TurretsShootTheWorm.cs" />
+    <Compile Include="VoicePantPatch.cs" />
+    <Compile Include="VoicePantVolumePatch.cs" />
+    <Compile Include="VoicePlayPatch.cs" />
+    <Compile Include="WallArt.cs" />
+    <Compile Include="WallCrawl.cs" />
+    <Compile Include="WallCrawlInputPatch.cs" />
+    <Compile Include="WallCrawlPhysicsPatch.cs" />
+    <Compile Include="WallKind.cs" />
+    <Compile Include="Walls.cs" />
+    <Compile Include="WardrobeEffects.cs" />
+    <Compile Include="Wav.cs" />
+    <Compile Include="WebArt.cs" />
+    <Compile Include="WebJumpPatch.cs" />
+    <Compile Include="Webs.cs" />
+    <Compile Include="WebSlowPatch.cs" />
+    <Compile Include="Witness.cs" />
+    <Compile Include="Womb.cs" />
+    <Compile Include="Worm.cs" />
+    <Compile Include="WormArt.cs" />
+    <Compile Include="WormBeast.cs" />
+    <Compile Include="WormHitRelay.cs" />
+    <Compile Include="WormStabPatch.cs" />
+    <Compile Include="ZhTalkPatch.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

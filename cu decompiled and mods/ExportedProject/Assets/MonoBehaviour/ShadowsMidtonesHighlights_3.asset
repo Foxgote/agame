@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 815276277, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+  m_Name: ShadowsMidtonesHighlights
+  m_EditorClassIdentifier:
+  active: 1
+  shadows:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 0.9653064, z: 0.99754745, w: -0.086159274}
+  midtones:
+    m_OverrideState: 1
+    m_Value: {x: 0.9891477, y: 1, z: 0.9915809, w: -0.07604562}
+  highlights:
+    m_OverrideState: 1
+    m_Value: {x: 1, y: 0.99064106, z: 0.7946955, w: 0.19011405}
+  shadowsStart:
+    m_OverrideState: 1
+    m_Value: 0
+  shadowsEnd:
+    m_OverrideState: 1
+    m_Value: 0.15
+  highlightsStart:
+    m_OverrideState: 1
+    m_Value: 0.9
+  highlightsEnd:
+    m_OverrideState: 1
+    m_Value: 1

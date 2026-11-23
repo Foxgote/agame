@@ -3,9 +3,19 @@ entry_symbol = "example_library_init"
 compatibility_minimum = "4.1"
 
 [libraries]
-windows.debug.x86_64 = "res://bin/agame_ext.dll"
-windows.release.x86_64 = "res://bin/agame_ext.dll"
+windows.debug.x86_64 = "res://bin/libagame_ext.dll"
+windows.release.x86_64 = "res://bin/libagame_ext.dll"
 [dependencies]
+windows.debug = {
+  "res://bin/libgcc_s_seh-1.dll": "",
+  "res://bin/libstdc++-6.dll": "",
+  "res://bin/libwinpthread-1.dll": ""
+}
+windows.release = {
+  "res://bin/libgcc_s_seh-1.dll": "",
+  "res://bin/libstdc++-6.dll": "",
+  "res://bin/libwinpthread-1.dll": ""
+}
 ios.debug = {
   "res://bin/libgodot-cpp.ios.template_debug.xcframework": ""
 }

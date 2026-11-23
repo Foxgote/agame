@@ -16,7 +16,12 @@
 #include "blackhole.h"
 #include "spaceship.h"
 #include "debug_grid.h"
+#include "interactable_3d.h"
+#include "player_controller.h"
+#include "ship_module_system.h"
+#include "simulation_runner.h"
 #include "tests.h"
+#include "vertical_slice.h"
 
 using namespace godot;
 
@@ -39,6 +44,17 @@ void initialize_example_module(ModuleInitializationLevel p_level) {
 	GDREGISTER_CLASS(BlackHole);
 	GDREGISTER_CLASS(Spaceship);
 	GDREGISTER_CLASS(DebugGrid);
+	GDREGISTER_CLASS(SimulationRunner);
+	GDREGISTER_CLASS(Interactable3D);
+	GDREGISTER_CLASS(PushButton3D);
+	GDREGISTER_CLASS(RotaryKnob3D);
+	GDREGISTER_CLASS(LinearSlider3D);
+	GDREGISTER_CLASS(Seat3D);
+	GDREGISTER_CLASS(Inspectable3D);
+	GDREGISTER_CLASS(EdibleItem3D);
+	GDREGISTER_CLASS(PlayerController);
+	GDREGISTER_CLASS(ShipModuleSystem);
+	GDREGISTER_CLASS(VerticalSlice);
 }
 
 void uninitialize_example_module(ModuleInitializationLevel p_level) {
@@ -59,4 +75,3 @@ GDExtensionBool GDE_EXPORT example_library_init(GDExtensionInterfaceGetProcAddre
 	return init_obj.init();
 }
 }
-

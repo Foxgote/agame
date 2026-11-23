@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TraderLimbMat
+  m_Shader: {fileID: 4800000, guid: 4924247229c92394db42c783e10ccd33, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 33fd93ab55d216d43aa1015e49287166, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _OverlayTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleTexture2D_2b1c14afc7804182bca65b5e1d40c654_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 9b04913dad3ef624d816f544919f892b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleTexture2D_722a3646334c45d58299ef3dd9fd21be_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 11a5dd466fb06bc438bd60169c34e750, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleTexture2D_7c98fa358cda470586a331202c5ca577_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 1c9f8371bc56bf640b0c1df41cefeaca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleTexture2D_b18c07c6f1ad40fbb83aa524debfc19c_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 04e2b3839dba74440877dadd76529229, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _SampleTexture2D_e790f639f30e4348add2107bda1c0181_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 45d52af0569a0704abf7ca63ec21a00d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BloodOverlay: 0
+      _Dirtyness: 0
+      _EnableExternalAlpha: 0
+      _InfectionPercent: 0
+      _MuscleDamage: 0
+      _OverlayVis: 0
+      _Pain: 0
+      _RandomSeed: 0
+      _SkinDamage: 0
+      _SnowAmount: 0
+      _Wetness: 0
+    m_Colors:
+      _BloodDark: {r: 0.6509434, g: 0.38033986, b: 0.089044146, a: 0}
+      _BloodLight: {r: 1, g: 0.801364, b: 0.09905658, a: 0}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _Flip: {r: 1, g: 1, b: 1, a: 1}
+      _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

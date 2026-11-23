@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250344640, guid: 57c9a3e5193e26c4b968cc86e528416d, type: 3}
+  m_Name: GravelProfile
+  m_EditorClassIdentifier:
+  components:
+  - {fileID: 11400000, guid: d919ccbe9c06c5c4d80461cbf2161e9b, type: 2}
+  - {fileID: 11400000, guid: c06251a1fb45d164aaebd9a713847e4b, type: 2}
+  - {fileID: 11400000, guid: 3a8cfb04e49775e41987ea0e021ed522, type: 2}
+  - {fileID: 11400000, guid: 1b7b3f55cd3edff4a80ea8d1e00f8c3e, type: 2}
+  - {fileID: 11400000, guid: eef4b36e073daf04ea0731216c6f1666, type: 2}
+  - {fileID: 11400000, guid: 7cad93253366dcb4a8a0a32d981a34af, type: 2}

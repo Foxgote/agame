@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1561790554, guid: c88ab7b37c4f350242674d2efd621c19, type: 3}
+  m_Name: Renderer2D
+  m_EditorClassIdentifier:
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: 56e04d3c6411e634da1517b067e29867, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: e378407953390f74e9c50183f233ac9b, type: 3}
+  m_RendererFeatures:
+  - {fileID: 11400000, guid: 530e8a3cc5f3a0b4c8b35a7bb39e0ce3, type: 2}
+  - {fileID: 11400000, guid: 137f6c851abbf70449b8abd244635cb8, type: 2}
+  - {fileID: 11400000, guid: 3fe798ac9023bed48a5bb466ec9631ae, type: 2}
+  - {fileID: 11400000, guid: 67f26bd46472d814ca769689c743bec1, type: 2}
+  m_RendererFeatureMap: 1319590b93e2aa117f6640499f83878946c1eb9e40afa481e86e15f587a71ab3
+  m_UseNativeRenderPass: 0
+  m_LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 1, z: 0}
+  m_HDREmulationScale: 1
+  m_LightRenderTextureScale: 0.5
+  m_LightBlendStyles:
+  - name: Multiply
+    maskTextureChannel: 0
+    blendMode: 1
+  - name: Additive
+    maskTextureChannel: 0
+    blendMode: 0
+  - name: Multiply with Mask
+    maskTextureChannel: 1
+    blendMode: 1
+  - name: Additive with Mask
+    maskTextureChannel: 1
+    blendMode: 0
+  m_UseDepthStencilBuffer: 1
+  m_UseCameraSortingLayersTexture: 1
+  m_CameraSortingLayersTextureBound: 0
+  m_CameraSortingLayerDownsamplingMethod: 0
+  m_MaxLightRenderTextureCount: 16
+  m_MaxShadowRenderTextureCount: 1
+  m_ShapeLightShader: {fileID: 4800000, guid: 24520f0e60ae8934faae3f1d6cbea36b, type: 3}
+  m_ShapeLightVolumeShader: {fileID: 4800000, guid: 54ae6647df73bae49b4004e6598d7f2e, type: 3}
+  m_PointLightShader: {fileID: 4800000, guid: 9d66d7d1c29bb1f4daa121c4f975a391, type: 3}
+  m_PointLightVolumeShader: {fileID: 4800000, guid: 56f1d2001db629546be18462bbd231ec, type: 3}
+  m_CoreBlitShader: {fileID: 4800000, guid: 47607806bb1ce464a838e46271d13e2a, type: 3}
+  m_BlitHDROverlay: {fileID: 4800000, guid: fe32d2ee499f2dc47bccbf2918ca4d7a, type: 3}
+  m_CoreBlitColorAndDepthPS: {fileID: 4800000, guid: 6e692c195451c97488db874eb52df07e, type: 3}
+  m_SamplingShader: {fileID: 4800000, guid: 06fcfa5246600f846bb42d9c64e46752, type: 3}
+  m_ProjectedShadowShader: {fileID: 4800000, guid: e2f50aa4a4082ae468f5aa16b6ebaec5, type: 3}
+  m_SpriteShadowShader: {fileID: 4800000, guid: 89f3cb7a49892634ba43062b385a04e6, type: 3}
+  m_SpriteUnshadowShader: {fileID: 4800000, guid: 5a91cf30603a2bd4d822d99522266042, type: 3}
+  m_GeometryUnshadowShader: {fileID: 4800000, guid: df86aebf07732fa4d98052f6b7a937f1, type: 3}
+  m_FallbackErrorShader: {fileID: 4800000, guid: a24f96b19416d9c41a3eb29146dc3aac, type: 3}
+  m_PostProcessData: {fileID: 11400000, guid: 939545d2c9095bb458e749e6145a6783, type: 2}
+  m_FallOffLookup: {fileID: 2800000, guid: 79ac9370a25756f45bb7bcb005c4fb1e, type: 3}

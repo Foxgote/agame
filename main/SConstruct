@@ -12,7 +12,7 @@ env = SConscript("../SConstruct")
 
 # tweak this if you want to use different folders, or more folders, to store your source code in.
 env.Append(CPPPATH=["src/"])
-sources = Glob("src/*.cpp")
+sources = Glob("src/*.cpp") + Glob("src/sim/*.cpp") + Glob("src/gameplay/*.cpp")
 
 if env["target"] in ["editor", "template_debug"]:
     doc_data = env.GodotCPPDocData("src/gen/doc_data.gen.cpp", source=Glob("doc_classes/*.xml"))
@@ -38,7 +38,7 @@ elif env["platform"] == "ios":
         )
 else:
     library = env.SharedLibrary(
-        "project/bin/libgdexample{}{}".format(env["suffix"], env["SHLIBSUFFIX"]),
+        "project/bin/libagame_ext{}".format(env["SHLIBSUFFIX"]),
         source=sources,
     )
 
