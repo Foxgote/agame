@@ -1,0 +1,8 @@
+.godot/
+**/bin/
+**/obj/
+simulation/replays/
+simulation/reports/*
+!simulation/reports/parry-regen-validation/
+simulation/reports/parry-regen-validation/*
+!simulation/reports/parry-regen-validation/balance-report.md
