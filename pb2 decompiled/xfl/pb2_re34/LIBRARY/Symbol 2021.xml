@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2021" itemID="6b03b500-000005f8" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2021" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#152569" alpha="0.29803923"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 960 -260[ 1240 20 1440 -140[ 1440 -600 960 -660[ 660 -660 960 -260"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! -1940 -900[ -1340 -460 -1100 -940[ -1300 -2000 -2120 -1840[ -2600 -1700 -1940 -900"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! -960 300[ -1080 -360 -1560 -260[ -1840 -160 -1460 340[ -1100 600 -960 300"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="173.0" ty="-262.0" a="0.6201171875" d="0.6201171875"/>
+</matrix>
+<GradientEntry color="#23ff5b" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#3fffba" alpha="1.0" ratio="0.27450982"/>
+<GradientEntry color="#3fafff" alpha="1.0" ratio="0.5019608"/>
+<GradientEntry color="#0400ff" alpha="1.0" ratio="0.90588236"/>
+<GradientEntry color="#ff1305" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#040a2e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -3600 -2360| -2440 -2380[ -1080 -2320 60 -1800| 1840 -680[ 2100 -40 1840 640| 1260 2140[ -980 2100 -2260 520[ -2280 -1160 -3600 -2360"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

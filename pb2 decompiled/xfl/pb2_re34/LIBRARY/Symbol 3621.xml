@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3621" itemID="6b03b580-00000985" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3621" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 3620.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="0.0" ty="-491.0" a="139.129638671875" d="139.1357421875"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 0 -9820| 16000 -9820| 16000 6320| 0 6320| 0 -9820"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

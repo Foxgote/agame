@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1193" itemID="6b03b500-000003f7" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1193" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="20.0">
+<fill>
+<SolidColor color="#cccccc" alpha="1.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -2520 -8100| -3500 -7700| -1900 -2960[ -1400 -940 -140 1020[ 1140 3000 2420 2900[ 940 340 -60 -2220| -2520 -8100"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-31.0" ty="-104.0" a="-0.3643798828125" d="-0.52734375" b="0.16448974609375" c="-0.2471923828125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="0.3019608" ratio="0.3372549"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 6520 -260[ 6780 3400 4880 5460[ 2960 7520 20 6780[ -2940 6000 -5260 2860[ -7540 -260 -7820 -3880[ -8080 -7560 -6160 -9600[ -4260 -11640 -1300 -10860[ 1680 -10160 3940 -7060[ 6240 -3940 6520 -260"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

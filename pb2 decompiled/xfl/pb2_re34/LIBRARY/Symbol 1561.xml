@@ -1,0 +1,3139 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1561" itemID="6b03b500-000004e4" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1561">
+<layers>
+<DOMLayer name="Labels Layer" color="#fa19a3">
+<frames>
+<DOMFrame index="0" duration="19" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="19" keyMode="9728" name="reserved" labelType="name">
+<elements/>
+</DOMFrame>
+<DOMFrame index="20" duration="9" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728" name="reserved" labelType="name">
+<elements/>
+</DOMFrame>
+<DOMFrame index="30" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="32" keyMode="9728" name="exist_just_invisible" labelType="name">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#4eb9b1">
+<frames>
+<DOMFrame index="0" duration="212" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="212" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1547" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="213" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f29905">
+<frames>
+<DOMFrame index="0" duration="162" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="162" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1470" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="163" duration="57" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#bbac43">
+<frames>
+<DOMFrame index="0" duration="170" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="170" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1478" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="171" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="176" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1486" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="177" duration="43" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#06c1e5">
+<frames>
+<DOMFrame index="0" duration="163" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="163" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1471" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="164" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1472" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="165" duration="55" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#9093cf">
+<frames>
+<DOMFrame index="0" duration="144" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="144" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1455" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="145" duration="75" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#af2de3">
+<frames>
+<DOMFrame index="0" duration="146" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="146" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1456" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.8" ty="2.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="148" duration="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="151" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1460" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="152" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="154" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1463" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="155" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="157" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1465" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="158" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="160" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1468" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="161" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#23b9ef">
+<frames>
+<DOMFrame index="0" duration="150" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="150" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1459" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="151" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="152" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1461" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="153" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1462" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="154" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="156" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1464" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="157" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="158" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1466" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="159" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1467" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="160" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="166" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1474" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="167" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="169" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1477" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="170" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="171" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1479" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="172" duration="48" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#36abd7">
+<frames>
+<DOMFrame index="0" duration="168" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="168" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1476" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="169" duration="28" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="197" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1520" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="198" duration="15" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="213" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1548" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="214" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#c6fd27">
+<frames>
+<DOMFrame index="0" duration="18" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="18" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1417" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="19" duration="67" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="86" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1441" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="87" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1442" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="88" duration="60" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="148" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1457" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="149" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1458" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="150" duration="70" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#ede658">
+<frames>
+<DOMFrame index="0" duration="36" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1425" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" duration="124" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="161" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1469" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="162" duration="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="165" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1473" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="166" duration="12" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="178" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1489" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-5.35" ty="-2.85" a="0.049974821507930756" d="0.049974821507930756" b="0.001529693603515625" c="-0.001529693603515625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="179" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="184" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1489" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-5.25" ty="-2.75" a="0.04998779296875" d="0.04998779296875" b="0.0010581969982013106" c="-0.0010581969982013106"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="185" duration="35" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#f56843" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1402" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1403" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1404" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#999999" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#999999"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#666666"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#404040"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -39 -7[ -10 -32 7 -34[ 25 -36 47 -17[ 69 3 82 8| 112 5"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="4" edges="! 112 5[ 126 7 144 15[ 162 22 175 42[ 197 75 196 94[ 196 110 185 124| 77 124"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 77 124| -97 124| -97 90"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="4" edges="! -97 90| -90 52"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="4" edges="! -90 52[ -98 -11 -39 -7"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="3" edges="! -39 -7[ 35 20 65 22[ 97 25 112 5"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="2" edges="! 157 88| 148 56"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="2" edges="! 127 91| 120 69"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="3" edges="! 77 124| 14 95| -97 90"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="3" edges="! -39 -7[ -42 57 -90 52"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#cccccc" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#999999" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#333333"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#666666"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -88 36[ -46 -61 26 -40| 130 -12"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 130 -12[ 182 7 203 26[ 224 44 230 60"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 230 60[ 248 90 243 124| 205 124"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 205 124| 46 124| 4 124"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 4 124[ -27 86 -50 124"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -50 124| -122 124[ -130 61 -88 36"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! -88 36| -50 124"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 230 60[ 216 111 205 124"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 30 89[ 8 93 6 109| 4 124"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 30 89| 46 124"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 130 -12[ 82 45 30 89"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#615a47" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#484232" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#7b6b52" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232018"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 123 11| 79 -1| 55 -37| 10 -34| -68 -27| -88 49"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -88 49| 29 75| 29 116"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 29 116| 75 116"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 75 116| 75 69| 123 11"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 123 11| 165 11| 211 71| 211 116| 75 116"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -88 49| -120 75| -116 116| 29 116"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="7" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#615a47" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#484232" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#7b6b52" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232018"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 104 11| 60 -1| 38 -39| 1 -35| -68 -27| -82 19| -88 29"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -88 29| -35 75| -35 116"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -35 116| 56 116"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 56 116| 56 69| 104 11"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 104 11| 148 25| 192 71| 192 116| 56 116"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -88 29| -120 75| -116 116| -35 116"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="8" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#cccccc" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#484848"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -55 67| -23 17| -23 -35[ 1 -61 64 -50[ 106 -42 122 -25[ 135 -11 136 17"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 136 17[ 152 7 169 -21[ 250 -15 268 124| 103 124| 26 124| 50 84"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 50 84| 14 73| -16 94[ -35 108 -53 114"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! -53 114| -158 114[ -151 61 -120 41[ -89 21 -58 36| -55 67"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! -55 67| -53 114"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 50 84[ 120 66 136 17"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="9" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="10" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#615a47" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#484232" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#ff3333" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232018"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 123 11| 79 -1| 55 -37| 10 -34| -68 -27| -88 49"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -88 49| 29 75| 29 116"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 29 116| 75 116"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 75 116| 75 69| 123 11"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 123 11| 165 11| 211 71| 211 116| 75 116"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -88 49| -120 75| -116 116| 29 116"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="11" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1411" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1412" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#4b0101" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#760101" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2b0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#290101"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#151515"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! -122 -90| -75 -87| -60 -183"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -60 -183| -105 -173"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! -105 -173| -122 -90"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -122 -90| -148 -92| -155 -49| -130 -48"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! -130 -48| -86 -45| -78 16| -125 25"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -125 25| -146 28| -142 52"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! -142 52| -137 51| -89 49[ -13 49 40 76| 108 84| 167 73| 169 73"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 169 73[ 138 56 114 29"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="1" edges="! 114 29| 36 11| 9 -39"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="3" edges="! 169 73| 170 73[ 198 65 217 93[ 236 121 218 123| 182 128| 137 137| 55 140[ -1 135 -105 141[ -131 142 -139 133[ -147 125 -153 96[ -160 60 -144 53[ -145 51 -142 52"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! -60 -183| 17 -149[ 59 -47 94 3| 114 29"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -125 25[ -137 -18 -130 -48"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#a47a4d" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#f0c468" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4a3624"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#513c1e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ab7a32"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000" alpha="0.8"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="4" edges="! 71 -72[ 78 -111 96 -131"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="4" edges="! 103 -69[ 118 -135 180 -163"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 103 -69| 121 -67| 138 -10| 134 25[ 153 28 166 38[ 185 53 192 75"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 192 75[ 223 83 230 105| 231 129| 188 129"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 188 129| 7 129"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 7 129| -158 129[ -174 100 -143 73| -137 72"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -137 72| -142 52| -146 28| -125 25"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -125 25[ -137 -18 -130 -48"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -130 -48| -155 -49| -148 -92| -122 -90"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -122 -90| -105 -173| -60 -183"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -60 -183| 17 -149| 50 -75| 71 -72| 103 -69"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -122 -90| -75 -87| -60 -183"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -125 25| -78 16| -86 -45| -130 -48"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 7 129| -11 84[ -105 88 -137 72"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 192 75| 194 87[ 198 115 188 129"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 134 25| 110 24| 98 25| 85 27[ 48 29 -11 84"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 98 25| 36 11"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 36 11| 9 -39"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="15" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#996600" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#d27e02" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1a1a1a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#653d01"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 148 119| 81 59| 114 -3| 122 -1"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 122 -1[ 102 -23 91 -68| -8 -68[ -74 -28 -86 7"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! -86 7| -28 24| -15 56"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! -15 56| 36 34| 77 108"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 77 108| 148 119"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 148 119| 153 124| 277 124| 226 29| 122 -1"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 11 118| 13 124| -141 124| -122 28| -86 7"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! 11 118| 77 108"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! -15 56| 11 118"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1411" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="17" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 137 81| 201 81| 201 145| -54 145| -54 17| 137 17| 137 81"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="18" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="20" duration="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1402" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="26" duration="2" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#666666" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3a3a3a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1c1c1c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -108 75[ -105 33 -94 9[ -82 -21 -8 -68| 91 -68[ 100 -34 125 -5"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 125 -5| 139 9[ 211 12 227 61"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 227 61| 227 95"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 227 95[ 248 90 243 124| -123 124[ -128 87 -108 75"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -108 75| 227 95"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 125 -5[ 143 30 -100 32[ -95 54 227 61"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="28" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#760101" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#202020" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#4b0101" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2b0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#151515"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#290101"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -113 -31| -131 -37[ -135 -48 -124 -72| -86 -99| 39 -92[ 81 -42 107 -32| 175 -26| 185 -46[ 236 -24 243 20"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 243 20[ 249 34 275 54"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 275 54[ 319 83 311 116[ 302 148 188 137"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="2" edges="! 188 137| -100 137[ -129 131 -129 116[ -131 100 -145 96"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -145 96[ -157 86 -149 60| -147 52| -124 39"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="3" edges="! -124 39[ -123 1 -113 -31"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="! -113 -31| -76 -31| -83 39| -124 39"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 243 20[ 160 12 106 94| 101 94"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! 101 94| 188 103"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 188 103[ 215 47 275 54"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 101 94| 24 91[ -12 77 -59 75| -97 76| -145 96"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="2" edges="! 188 103| 188 137"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 175 -26| 85 42| 41 40"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 0 19| 42 -48"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -45 22| -4 -50"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="30" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#507679" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#324144" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#435f62" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#18332e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#415f62"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 135 2| 87 -35[ 67 -78 24 -82[ -15 -83 -35 -53| -72 10"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! -72 10| -15 60| -1 95"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -1 95| 69 95"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 69 95| 89 41| 135 2"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 135 2| 166 5| 183 -20| 247 64| 227 113| 88 112| 69 95"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 36 5| 46 48"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 9 26| 0 5"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! -1 95| -26 116| -98 110| -108 59| -72 10"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="31" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#353f4b" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#414d5d" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#212832"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -69 15| -30 -56[ 38 -132 106 -48| 149 4"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 149 4| 157 2[ 233 30 218 106| 100 105"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 100 105| -37 105"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -37 105| -96 106| -103 79| -90 21| -69 15"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -69 15| -39 46| -37 105"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 100 105| 98 58| 149 4"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="32" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#596470" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#323232" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#454c56"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2e343a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232323"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal" caps="none">
+<fill>
+<SolidColor color="#232323"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232323"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#232323"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! -53 -40| -27 -36| 10 0| 62 9"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="5" edges="! 62 9| 106 39"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="6" edges="! 106 39| 123 -7[ 129 -14 181 8[ 216 23 245 51| 260 114| 71 114| 84 83"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! 84 83| 15 63| -9 108| -237 108| -249 71[ -258 30 -245 2| -225 6"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! -225 6| -200 -53| -103 -109[ -69 -126 -52 -102[ -36 -79 -53 -40"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="3" edges="! -53 -40| -40 -12| -34 33| -85 74| -160 71[ -182 61 -196 12| -214 8| -225 6"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -145 24| -97 24| -72 -2"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="6" edges="! 84 83[ 106 59 106 39"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#56748f" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.15" ty="0.55" a="-9.46044921875E-4" d="-9.002685546875E-4" b="0.0061798095703125" c="-0.0057525634765625"/>
+</matrix>
+<GradientEntry color="#3c5265" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#1d2732" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#6d7b83" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#141b22"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#131a22"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1b1c1d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1d262f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#17222c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1c1c1c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="7">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2a2f33"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="5" edges="! 18 124| 29 113[ 38 102 42 67[ 49 32 94 -1| 103 -12"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 103 -12| 103 -13[ 84 -99 35 -117[ -15 -135 -48 -93[ -81 -51 -85 -21"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="6" edges="! -85 -21| -92 0[ -95 23 -88 59[ -83 88 -69 101| -28 121"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -28 121| -11 124| 18 124"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="3" edges="! 18 124| 211 122"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="4" edges="! 211 122[ 213 5 103 -12"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 2 77| -10 88[ -20 90 -28 84| -37 71| -34 54[ -30 47 -20 45| -4 47| 5 61| 2 77"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="7" edges="! -85 -21[ -127 10 -140 95[ -141 116 -116 117| -28 121"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#505050" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#e1e1e1" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#cbcbcb" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal" caps="none" joints="miter" miterLimit="10.0">
+<fill>
+<SolidColor color="#353535"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#5b5b5b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#8a8b8b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#737373"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -62 35[ -54 0 -40 -21[ -27 -42 0 -43[ 26 -44 49 -10[ 71 24 110 31| 122 31"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="4" edges="! 122 31| 129 24| 152 28[ 181 39 204 67| 204 114| 173 137| -61 137| -74 122"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! -74 122| -88 131"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="2" edges="! -88 131| -96 137| -126 137| -135 137| -101 50| -92 47| -62 35"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="2" edges="! -62 35| -54 31[ -39 61 -9 73| -37 94"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="4" edges="! -37 94| 85 94| 85 66| 122 31"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! -37 94| -62 112"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! -62 112| -74 122"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="2" edges="! -62 112| -88 131"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="3" edges="! -92 47| -126 137"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1412" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1426" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="4.5" ty="-0.45" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" duration="9" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#666666" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#404040"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#595959"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#555555"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#737373"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#222222"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#aaaaaa"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="3" edges="! 194 111| 157 -59| 124 -139"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 124 -139[ 93 -203 -19 -199| -51 -186"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="4" edges="! -51 -186| -38 -162| -23 -118| -40 -72| -78 -26| -97 7"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -97 7| -97 9"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -97 9| -71 42| -16 73| 37 89| 62 110| 64 126"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="4" edges="! 64 126| 130 130| 194 111"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="5" edges="! 194 111| 201 154| 66 150"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 66 150| 13 151"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 13 151| -7 151"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="5" edges="! -7 151| -170 105| -168 71"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -168 71[ -178 -2 -133 -78"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="5" edges="! -133 -78| -96 -138| -81 -190"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! -81 -190| -51 -186"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 64 126| 66 150"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="6" edges="! 109 67| 52 56"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 83 -93[ 116 -4 109 67"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -97 9| -98 7| -97 7"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! -97 7| -133 -78"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 13 151| -21 116| -106 84| -168 71"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" duration="11" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1404" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="68" duration="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1403" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#434343" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="6.05" ty="4.25" a="0.004669189453125" d="0.004638671875" b="-0.0026702880859375" c="0.002655029296875"/>
+</matrix>
+<GradientEntry color="#a6a6a6" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#7b7b7b" alpha="1.0" ratio="0.21176471"/>
+<GradientEntry color="#dddddd" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#959595" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#888888" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#222222"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4d4d4d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#484848"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#6a6a6a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="4" edges="! 75 -48| 141 -3"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="5" edges="! 141 -3[ 229 30 219 131"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! 219 131| 32 125[ 10 113 12 89"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="3" edges="! 12 89| -10 111| -86 111| -96 94[ -77 9 -43 4"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! -43 4[ -10 -105 75 -48"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="4" edges="! 75 -48[ 19 -53 13 8"/>
+<Edge fillStyle0="3" fillStyle1="4" strokeStyle="4" edges="! 13 8| 3 53"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="4" edges="! 3 53[ 63 64 141 -3"/>
+<Edge fillStyle0="4" fillStyle1="2" strokeStyle="3" edges="! 12 89| 3 53"/>
+<Edge fillStyle0="4" fillStyle1="1" strokeStyle="2" edges="! 13 8| -43 4"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1426" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="4.5" ty="-0.45" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1429" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1430" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1431" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1432" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="78" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1433" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="79" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1434" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="80" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1435" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="81" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1436" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="82" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1437" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="83" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1438" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="84" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1439" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="85" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1440" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="86" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="88" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#16202c" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="10.4" a="0.014404296875" d="0.014404296875"/>
+</matrix>
+<GradientEntry color="#1d2b38" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#27363f" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#4d6277" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0d141c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -69 15| -30 -56[ 38 -132 106 -48| 149 4"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 149 4| 157 2[ 233 30 218 106| 100 105"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 100 105| -37 105"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -37 105| -96 106| -103 79| -90 21| -69 15"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -69 15| -39 46| -37 105"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 100 105| 98 58| 149 4"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="89" duration="40" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#2c1717" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="10.4" a="0.014404296875" d="0.014404296875"/>
+</matrix>
+<GradientEntry color="#381d1d" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#3e2828" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#774d4d" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1c0d0d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -69 15| -30 -56[ 38 -132 106 -48| 149 4"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 149 4| 157 2[ 233 30 218 106| 100 105"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 100 105| -37 105"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -37 105| -96 106| -103 79| -90 21| -69 15"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -69 15| -39 46| -37 105"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 100 105| 98 58| 149 4"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="129" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#4d4844" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#97856f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2b2a29"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#655447"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ecbe3e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -114 35| -39 -20| -39 -42| 43 -42| 43 -20| 109 29"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 109 29| 118 14| 138 32"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! 138 32| 172 62"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 172 62| 189 75| 161 127| 47 127| 47 90| 79 75| 91 58"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 91 58| 44 27| -40 27| -96 65"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -96 65| -89 75| -58 90| -58 127| -171 127| -199 75| -182 61"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! -182 61| -155 37"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -155 37| -128 14| -114 35"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -114 35| -96 65"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 91 58| 109 29"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="130" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#353a40" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#22262a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 55 -10| 55 -11"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 55 -11| 53 -10"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 53 -10| 55 -10"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 55 -10| 140 2| 194 39| 209 71[ 218 94 216 121| -117 121| -114 80[ -106 39 -88 15| 51 -10"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 51 -10| 51 -11"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 51 -11| 53 -10"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 53 -10| 51 -10"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="131" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#3f474c" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#353a40" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#22262a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -67 11| -68 7| -55 -21[ -39 -52 -21 -63| -5 -69| 26 -76| 74 -73[ 109 -40 123 -9| 115 2"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 115 2| 125 7[ 176 37 179 46| 195 77[ 205 102 201 121| -141 128| -138 89[ -129 44 -111 21| -67 11"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -67 11| -32 114| 33 117| 115 2"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="132" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#302f23" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#565545" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#3b3a30" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#7b7963" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="5">
+<SolidColor color="#464537" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2b2a1f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#5e5c48"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#434233"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3c3b31"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#313027"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2c2b24"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="7">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#312f24"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="8">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#33332a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 58 -34| 52 -56| -35 -56"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="3" edges="! -35 -56| -50 -35"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! -50 -35[ -41 -15 -14 5| 31 5[ 58 -15 58 -34"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 58 -34| 71 -21"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="5" edges="! 71 -21| 151 -13| 218 56| 229 117"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 229 117| 111 115"/>
+<Edge fillStyle0="0" fillStyle1="5" strokeStyle="6" edges="! 111 115| 43 114"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 43 114| 15 105| -14 114"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="4" edges="! -14 114| -107 114| -124 78| -96 22| -116 -27| -73 -71| -35 -56"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="6" edges="! 71 -21| 67 -7[ 72 10 88 39| 104 39| 137 77| 137 91| 188 108| 205 112| 229 117"/>
+<Edge fillStyle0="3" fillStyle1="5" strokeStyle="8" edges="! 43 114| 4 64| 16 43| 51 43| 70 76| 96 76| 111 115"/>
+<Edge fillStyle0="4" fillStyle1="3" strokeStyle="7" edges="! -59 -14| -50 -35"/>
+<Edge fillStyle0="4" fillStyle1="3" strokeStyle="7" edges="! -14 114| -20 85| -43 75| -28 45| -33 20| -59 -14"/>
+<Edge fillStyle0="4" fillStyle1="4" strokeStyle="2" edges="! -59 -14| -96 22"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="133" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#4b5975" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#738aa1" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2e2d3f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#424651"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#576879"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -25 89| -54 124| -137 124| -156 59| -103 -16| -54 -35"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -54 -35| 73 -41| 122 12| 162 24| 185 49| 198 96| 155 124| 32 124| -6 80| -25 88"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -25 88| -25 89"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -25 89| -27 80"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -27 80| -27 77| -28 73| -54 -35"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! -27 80| -25 88"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 36 72| 58 99| 90 99"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="134" duration="2" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#b39a82" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#4e3e39" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#917563" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#745b52"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#252323"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#56433d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 97 -6| 66 -34[ 6 -98 -47 -29| -65 21"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! -65 21| -57 33"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="3" edges="! -57 33| -55 36| -51 41| -58 106"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! -58 106| -6 107"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -6 107| -6 80| 35 80| 35 63| 67 54| 97 -6"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 97 -6| 97 -7[ 159 4 181 63[ 193 93 192 120"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 192 120| -6 120"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -6 120| -6 107"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 115 31| 101 57"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="3" edges="! -72 10| -65 21"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! -65 21| -65 22"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! -65 22| -57 33"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! -65 22| -72 10"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="3" edges="! -72 10[ -97 13 -107 66| -112 120| -71 120| -58 106"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="136" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#323232" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#444444" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1a1a1a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal" joints="miter" miterLimit="4.0">
+<fill>
+<SolidColor color="#1a1a1a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -95 47| -62 37| -55 42| -32 53| 17 70| 31 113"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 31 113| 72 113"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 72 113| 58 50| 94 1"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 94 1| 54 -15"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 54 -15[ -20 -53 -76 1"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! -76 1| -87 16[ -96 33 -95 47"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -95 47| -108 51| -96 113| 31 113"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 94 1| 109 -21| 145 0[ 184 30 199 68| 185 109| 72 113"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="137" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#cccccc" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#606263" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#777777"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#25262b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4c4c4c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#999999"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#b0ff7b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="1.0" scaleMode="normal" joints="miter" miterLimit="4.0">
+<fill>
+<SolidColor color="#25262b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="7">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#373737"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 81 -82[ 68 -92 12 -106| -38 -75"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! -38 -75| -40 -41"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! -40 -41| -19 -30[ 4 -17 16 -13"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 16 -13| 29 -64| 81 -82"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 81 -82| 96 -88| 165 11| 227 55| 241 107| 101 111"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="6" edges="! 101 111| -11 111"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -11 111| -103 114| -100 66| -75 26"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -75 26| -63 -29| -41 -41| -40 -41"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="4" edges="! 112 14| 75 0"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="5" edges="! 11 91| 21 91"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="! 119 53| 114 70| 101 111"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="! 16 -13| 11 7| 119 53"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 119 53| 165 11"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="! -11 111| -18 70"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -18 70| -21 61"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="! -21 61| -75 26"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="7" edges="! -40 13| -36 -3"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="6" edges="! -18 70| 114 70"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="138" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1453" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.1" ty="2.1" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="140" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1454" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.1" ty="1.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="141" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1453" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.9" ty="2.1" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="143" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1454" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.8" ty="1.5" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="144" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="145" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1453" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="3.75" ty="2.6" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="146" duration="9" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="155" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1426" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="156" duration="11" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="167" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="5.55" ty="3.1" a="0.0128936767578125" d="0.027008056640625" b="1.220703125E-4" c="3.814697265625E-4"/>
+</matrix>
+<GradientEntry color="#28282a" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#545459" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#171718"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 35 124| 35 126| 234 125[ 244 85 239 64[ 231 30 193 6[ 165 -14 92 -22| -19 -26| -42 -23[ -38 -17 -43 -12[ -45 -1 -70 10[ -93 19 -95 32[ -105 102 -93 122| -47 121| 35 124"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 35 124| 38 104| 44 78"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 44 78| 42 60[ 39 40 9 8| -19 -20| 16 9[ 46 38 45 58| 44 78"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 44 78| 41 103| 35 124"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="168" duration="4" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="172" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#202020" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#131313"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#343434"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 196 56| 159 76| 76 54| 42 -11| -58 -42| -76 -14| -48 42| -69 76| -132 75"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -132 75| -111 118| -61 119| -37 88| 4 88| 26 126| 210 131| 236 110| 196 56| 183 39| 55 -61| -45 -91| -88 -59| -132 75"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="173" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1481" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-2.05" ty="-1.3" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="174" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1483" centerPoint3DX="4.1" centerPoint3DY="1.8">
+<matrix>
+<Matrix tx="-4.4" ty="-4.65"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="175" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1485" centerPoint3DX="3.0" centerPoint3DY="1.4">
+<matrix>
+<Matrix tx="-5.2" ty="-4.45" a="0.971649169921875" d="1.1290283203125" b="-0.0369873046875" c="0.0425262451171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="176" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="177" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1488" centerPoint3DX="2.25" centerPoint3DY="1.75">
+<matrix>
+<Matrix tx="-7.2" ty="-4.6" a="0.84149169921875" d="0.84149169921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="178" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="179" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="1.45" ty="6.35" a="0.011444091796875" d="0.011444091796875"/>
+</matrix>
+<GradientEntry color="#222222" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#444444" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#676767" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="1.5" ty="-0.9" a="0.0068359375" d="0.0068359375"/>
+</matrix>
+<GradientEntry color="#222222" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#444444" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#676767" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#202020" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#131313"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#040404"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 75 -48| 141 -3"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 141 -3[ 229 30 219 131| 32 125[ 10 113 12 89| -10 111| -86 111| -96 94[ -77 9 -43 4"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! -43 4[ -10 -105 75 -48"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! 75 -48[ 19 -53 13 8"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 13 8| 3 53[ 63 64 141 -3"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 12 89| 3 53"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="3" edges="! 13 8| -43 4"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="180" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1492" centerPoint3DX="3.65" centerPoint3DY="4.7">
+<matrix>
+<Matrix tx="-4.85" ty="-1.75" a="1.06463623046875" d="1.0632781982421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="181" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1493" centerPoint3DX="4.15" centerPoint3DY="0.75">
+<matrix>
+<Matrix tx="-4.35" ty="-5.7" a="1.0621795654296875" d="1.06329345703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="182" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1495" centerPoint3DX="-1.25" centerPoint3DY="2.25">
+<matrix>
+<Matrix tx="-9.35" ty="-2.65" a="1.0622406005859375" d="1.062713623046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="183" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1497" centerPoint3DX="4.4" centerPoint3DY="0.95">
+<matrix>
+<Matrix tx="-4.0" ty="-4.9" a="1.0794525146484375" d="1.12884521484375" b="-0.0450897216796875" c="0.04669189453125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="184" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="185" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1498" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-7.15" ty="-2.75" a="0.051894377917051315" d="0.05194701999425888"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="186" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1502" centerPoint3DX="3.45" centerPoint3DY="8.0">
+<matrix>
+<Matrix tx="-10.35" ty="2.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="187" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1504" centerPoint3DX="1.75" centerPoint3DY="6.8">
+<matrix>
+<Matrix tx="-6.75" ty="0.35" a="1.009765625" d="1.00927734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="188" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1506" centerPoint3DX="4.7" centerPoint3DY="2.25">
+<matrix>
+<Matrix tx="-3.9" ty="-3.8" a="0.985687255859375" d="0.9845123291015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="189" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1508" centerPoint3DX="4.65" centerPoint3DY="-0.1">
+<matrix>
+<Matrix tx="-4.95" ty="-7.35"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="190" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1509" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-4.35" ty="-4.7" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="191" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1510" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-6.7" ty="0.05" a="0.04920349270105362" d="0.04920349270105362" b="-0.00888900738209486" c="0.00888900738209486"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="192" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1512" centerPoint3DX="2.75" centerPoint3DY="1.0">
+<matrix>
+<Matrix tx="-5.45" ty="-4.85" a="0.971893310546875" d="1.1292724609375" b="-0.029510498046875" c="0.0338287353515625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="193" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="1.8" ty="6.15" a="0.0145263671875" d="0.0138397216796875"/>
+</matrix>
+<GradientEntry color="#666666" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#cccccc" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#aaaaaa" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#001111"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -55 67| -23 17| -23 -35[ 1 -61 64 -50[ 106 -42 122 -25[ 135 -11 136 17"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 136 17[ 152 7 169 -21[ 250 -15 268 124| 103 124| 26 124| 50 84"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 50 84| 14 73| -16 94[ -35 108 -53 114"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -53 114| -158 114[ -151 61 -120 41[ -89 21 -58 36| -55 67"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -55 67| -53 114"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 50 84[ 120 66 136 17"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="194" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1515" centerPoint3DX="4.35" centerPoint3DY="1.7">
+<matrix>
+<Matrix tx="-4.3" ty="-4.15" a="0.9984130859375" d="0.9990692138671875" b="-0.0680389404296875" c="0.068084716796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="195" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1517" centerPoint3DX="4.1" centerPoint3DY="-0.05">
+<matrix>
+<Matrix tx="-5.35" ty="-6.1" a="1.01995849609375" d="1.0203857421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="196" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1519" centerPoint3DX="4.75" centerPoint3DY="2.65">
+<matrix>
+<Matrix tx="-4.2" ty="-2.2"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="197" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="198" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1d1616" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#2a1f1f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0707"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -88 49| -68 -27| 55 -37| 79 -1| 123 11"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 123 11| 165 11| 211 71| 211 116| 75 116"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 75 116| 29 116"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 29 116| -116 116| -120 75| -88 49"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -88 49| 29 75| 29 116"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 123 11| 75 69| 75 116"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="199" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1523" centerPoint3DX="4.6" centerPoint3DY="0.25">
+<matrix>
+<Matrix tx="-3.8" ty="-5.6" a="0.971832275390625" d="1.129241943359375" b="-0.031890869140625" c="0.0366058349609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="200" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1524" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-3.9" ty="-4.45" a="0.048070527613162994" d="0.05333709716796875" b="-0.0055259703658521175" c="0.0020843506790697575"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="201" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1526" centerPoint3DX="5.5" centerPoint3DY="5.65">
+<matrix>
+<Matrix tx="-3.0" ty="-0.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="202" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1528" centerPoint3DX="4.2" centerPoint3DY="1.7">
+<matrix>
+<Matrix tx="-4.3" ty="-4.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="203" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1530" centerPoint3DX="4.2" centerPoint3DY="1.7">
+<matrix>
+<Matrix tx="-4.3" ty="-4.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="204" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1532" centerPoint3DX="4.2" centerPoint3DY="1.7">
+<matrix>
+<Matrix tx="-4.3" ty="-4.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="205" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1534" centerPoint3DX="4.25" centerPoint3DY="1.8">
+<matrix>
+<Matrix tx="-4.25" ty="-4.65"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="206" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1536" centerPoint3DX="4.2" centerPoint3DY="1.65">
+<matrix>
+<Matrix tx="-4.3" ty="-4.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="207" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1538" centerPoint3DX="4.65" centerPoint3DY="2.05">
+<matrix>
+<Matrix tx="-7.65" ty="-3.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="208" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1540" centerPoint3DX="4.65" centerPoint3DY="2.05">
+<matrix>
+<Matrix tx="-7.65" ty="-3.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="209" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1542" centerPoint3DX="4.65" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-7.65" ty="-3.55"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="210" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1544" centerPoint3DX="2.0" centerPoint3DY="2.3">
+<matrix>
+<Matrix tx="-9.6" ty="-3.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="211" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1546" centerPoint3DX="8.85" centerPoint3DY="3.45">
+<matrix>
+<Matrix tx="-3.3" ty="-1.85"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="212" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="214" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1550" centerPoint3DX="2.1" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="-6.85" ty="-2.1"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="215" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1552" centerPoint3DX="2.15" centerPoint3DY="2.85">
+<matrix>
+<Matrix tx="-6.8" ty="-2.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="216" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1554" centerPoint3DX="5.0" centerPoint3DY="3.85">
+<matrix>
+<Matrix tx="-4.4" ty="-0.8" b="-0.00408935546875" c="0.00408935546875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="217" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1556" centerPoint3DX="2.6" centerPoint3DY="5.65">
+<matrix>
+<Matrix tx="-5.9" ty="-0.7" a="0.9214324951171875" d="1.01361083984375" b="-0.0039825439453125" c="0.0043792724609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="218" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1558" centerPoint3DX="4.8" centerPoint3DY="0.0">
+<matrix>
+<Matrix tx="-2.8" ty="-6.35" a="0.996978759765625" d="0.996978759765625" b="0.0772247314453125" c="-0.0772247314453125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="219" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1560" centerPoint3DX="6.5" centerPoint3DY="3.9">
+<matrix>
+<Matrix tx="-1.45" ty="0.0" a="0.989776611328125" d="0.989776611328125" b="0.1426239013671875" c="-0.1426239013671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

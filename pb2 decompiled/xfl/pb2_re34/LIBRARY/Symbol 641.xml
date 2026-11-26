@@ -1,0 +1,147 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 641" itemID="6b03b500-000002ae" lastModified="1789282414" linkageClassName="veh_walker" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 641">
+<layers>
+<DOMLayer name="Layer 1" color="#88e458">
+<frames>
+<DOMFrame index="0" duration="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 638" name="gui" centerPoint3DX="89.7" centerPoint3DY="-157.75">
+<matrix>
+<Matrix tx="-7.2" ty="-173.6"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#fa3cab">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 631" name="leg2b" centerPoint3DX="6.55" centerPoint3DY="182.8">
+<matrix>
+<Matrix tx="-39.3" ty="160.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#b68555">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 631" name="leg1b" centerPoint3DX="217.35" centerPoint3DY="179.8">
+<matrix>
+<Matrix tx="171.5" ty="157.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#fb6a4d">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 610" name="leg1" centerPoint3DX="82.95" centerPoint3DY="270.9">
+<matrix>
+<Matrix tx="-64.8" ty="103.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#eeb681">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 629" name="carbody" centerPoint3DX="111.15" centerPoint3DY="66.85">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#10cbe5">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 640" name="leg2b" centerPoint3DX="0.45" centerPoint3DY="178.85">
+<matrix>
+<Matrix tx="-39.3" ty="160.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#f66a8a" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 610" name="leg2" centerPoint3DX="294.0" centerPoint3DY="270.9">
+<matrix>
+<Matrix tx="146.25" ty="103.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 640" name="leg1b" centerPoint3DX="211.25" centerPoint3DY="175.85">
+<matrix>
+<Matrix tx="171.5" ty="157.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

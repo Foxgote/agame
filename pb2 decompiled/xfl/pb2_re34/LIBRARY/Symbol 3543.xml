@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3543" itemID="6b03b580-0000095e" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3543">
+<layers>
+<DOMLayer name="Layer 1" color="#e7f82f">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3542" name="ttt" centerPoint3DX="406.55" centerPoint3DY="199.9">
+<matrix>
+<Matrix tx="314.0" ty="195.3"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ec2dc1" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient spreadMethod="repeat">
+<matrix>
+<Matrix tx="150.0" ty="125.0" a="0.0018310546875" d="0.1078948974609375" b="0.0018310546875" c="-0.1078948974609375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="0.8117647" ratio="0.39215687"/>
+<GradientEntry color="#000000" alpha="0.8627451" ratio="0.4117647"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 16000 8000| 0 8000| 0 0| 16000 0| 16000 8000"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

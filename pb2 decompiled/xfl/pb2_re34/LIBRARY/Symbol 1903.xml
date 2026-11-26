@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1903" itemID="6b03b500-000005ba" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1903">
+<layers>
+<DOMLayer name="Layer 1" color="#fa34db">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1902" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#b814bc" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1061" blendMode="add" centerPoint3DX="31.05" centerPoint3DY="18.95">
+<matrix>
+<Matrix tx="11.2" ty="1.85" a="0.3205413818359375" d="0.2376708984375" b="0.13067626953125" c="-0.096893310546875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3984375" greenMultiplier="0.0" alphaMultiplier="0.69921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

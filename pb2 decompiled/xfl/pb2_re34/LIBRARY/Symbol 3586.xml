@@ -1,0 +1,253 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3586" itemID="6b03b580-00000971" lastModified="1789282414" linkageClassName="pb2_re34_fla.curr_38" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3586">
+<layers>
+<DOMLayer name="Labels Layer" color="#42da73">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728" name="loading" labelType="name">
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728" name="gaming" labelType="name">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Script Layer" color="#e5c5dd">
+<frames>
+<DOMFrame index="0" duration="4" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c973f8">
+<frames>
+<DOMFrame index="0" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3585" name="ch4" blendMode="hardligh" centerPoint3DX="18.0" centerPoint3DY="18.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#d3d16c">
+<frames>
+<DOMFrame index="0" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3583" name="ch3" blendMode="hardligh" centerPoint3DX="26.5" centerPoint3DY="26.5">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#60dde2">
+<frames>
+<DOMFrame index="0" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="343.95" height="54.25" renderAsHTML="true" isSelectable="false" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-91.95" ty="28.75"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.05" rightMargin="0.0" size="9" bitmapSize="180" face="Europe Ext Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<DropShadowFilter angle="44.999253346524966" blurX="4" blurY="4" color="#000000" distance="1" quality="1" strength="1"/>
+</filters>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#96bf3e">
+<frames>
+<DOMFrame index="0" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3580" name="ch2" blendMode="hardligh" centerPoint3DX="40.5" centerPoint3DY="1.5">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.0" d="0.0" b="1.0" c="-1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#e81c96">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3576" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="5.5" ty="9.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3576" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="5.5" ty="9.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.66796875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3576" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="5.5" ty="9.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.33203125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3576" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="5.5" ty="9.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" duration="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#7682eb" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 3573.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-4.0" ty="-4.0" a="20.0" d="20.0"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -80 -80| 320 -80| 320 420| -80 420| -80 -80"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 3577.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-14.0" ty="-20.0" a="20.0" d="20.0"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -280 -400| 280 -400| 280 420| -280 420| -280 -400"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3580" name="ch1" blendMode="hardligh" centerPoint3DX="40.5" centerPoint3DY="1.5">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

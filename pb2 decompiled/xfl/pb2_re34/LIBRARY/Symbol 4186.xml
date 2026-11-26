@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4186" itemID="6b03b580-00000a09" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4186">
+<layers>
+<DOMLayer name="Layer 1" color="#ced8e7">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4184" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="13.8" ty="-9.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ee56cf">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="352" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-34.2" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>FAST</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="358" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-34.2" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>SLOW</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#90d55f" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3498" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

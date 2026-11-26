@@ -1,0 +1,141 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4180" itemID="6b03b580-00000a07" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4180">
+<layers>
+<DOMLayer name="Layer 1" color="#9aacce">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4179" name="rate5" centerPoint3DX="-17.5" centerPoint3DY="-10.5">
+<matrix>
+<Matrix tx="-23.0" ty="-16.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#e2f242">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4179" name="rate4" centerPoint3DX="-35.5" centerPoint3DY="-10.5">
+<matrix>
+<Matrix tx="-41.0" ty="-16.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#df84c7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4179" name="rate3" centerPoint3DX="-53.5" centerPoint3DY="-10.5">
+<matrix>
+<Matrix tx="-59.0" ty="-16.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#ea9945">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4179" name="rate2" centerPoint3DX="-71.5" centerPoint3DY="-10.5">
+<matrix>
+<Matrix tx="-77.0" ty="-16.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#49ece7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4179" name="rate1" centerPoint3DX="-89.5" centerPoint3DY="-10.5">
+<matrix>
+<Matrix tx="-95.0" ty="-16.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#fab604">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="783" height="221" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-194.2" ty="-16.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Rate this map</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="9.2" bitmapSize="184" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#fd6fe1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4173" name="mappage" symbolType="button">
+<matrix>
+<Matrix tx="-305.0" ty="-20.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#e36dbf" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4097" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-204.0" ty="-20.0" a="2.0399932861328125" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

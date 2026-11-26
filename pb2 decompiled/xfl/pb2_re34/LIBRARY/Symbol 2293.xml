@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2293" itemID="6b03b500-00000699" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2293">
+<layers>
+<DOMLayer name="Layer 1" color="#f9c990">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#6b6b6b" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#353535" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#484848" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#707070" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="5">
+<SolidColor color="#515151" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#151515"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#191919"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.2" scaleMode="normal">
+<fill>
+<SolidColor color="#191919"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 347 627| 347 609| 400 593| 400 627"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 400 627| 406 627| 406 652"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 406 652| 406 713"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 406 713| 406 739| 339 739| 339 713"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 339 713| 339 652"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 339 652| 339 627| 347 627"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 347 627| 400 627"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 249 652| 249 627| 257 627"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 257 627| 257 609| 310 593| 310 627"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 310 627| 316 627| 316 652"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 316 652| 316 713"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 316 713| 316 739| 249 739| 249 713"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 249 713| 249 652"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 249 652| 316 652"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 257 627| 310 627"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 249 713| 316 713"/>
+<Edge fillStyle0="4" fillStyle1="5" strokeStyle="0" edges="! 11 708| 17 736| 30 801"/>
+<Edge fillStyle0="4" fillStyle1="0" strokeStyle="2" edges="! 30 801| 62 791"/>
+<Edge fillStyle0="4" fillStyle1="5" strokeStyle="0" edges="! 62 791| 32 644"/>
+<Edge fillStyle0="4" fillStyle1="0" strokeStyle="2" edges="! 32 644| -1 653"/>
+<Edge fillStyle0="4" fillStyle1="5" strokeStyle="0" edges="! -1 653| 11 708"/>
+<Edge fillStyle0="4" fillStyle1="4" strokeStyle="3" edges="! 11 708| 20 705"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="2" edges="! 62 791| 84 791| 84 774| 59 658| 45 640| 32 644"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="2" edges="! -25 749| -11 796| 3 806| 30 801"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 339 713| 406 713"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 339 652| 406 652"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="2" edges="! -29 719| -25 749"/>
+<Edge fillStyle0="5" fillStyle1="5" strokeStyle="3" edges="! -25 749| 17 736"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="2" edges="! -1 653| -32 665| -32 678| -29 719"/>
+<Edge fillStyle0="5" fillStyle1="5" strokeStyle="3" edges="! -29 719| 11 708"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#71cdb3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2291" centerPoint3DX="23.8" centerPoint3DY="31.85">
+<matrix>
+<Matrix tx="12.25" ty="24.8" a="0.99884033203125" d="0.99884033203125" b="-0.047821044921875" c="0.047821044921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#6f7b9e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2287" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

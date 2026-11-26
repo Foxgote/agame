@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 27" itemID="6b03b500-00000285" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 27">
+<layers>
+<DOMLayer name="Layer 1" color="#bdd3f1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="65.5" centerPoint3DY="195.9">
+<matrix>
+<Matrix tx="-44.0" ty="158.9"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#bb6d6e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="81.5" centerPoint3DY="34.95">
+<matrix>
+<Matrix tx="-28.0" ty="-2.05"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f76fb9" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 25.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-129.0" ty="-55.55" a="20.0" d="20.0"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -2580 -1111| 1420 -1111| 1420 3349| -2580 3349| -2580 -1111"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

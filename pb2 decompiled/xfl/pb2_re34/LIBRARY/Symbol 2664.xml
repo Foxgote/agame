@@ -1,0 +1,242 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2664" itemID="6b03b580-000007aa" lastModified="1789282414" linkageClassName="gun_pistol3" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2664">
+<layers>
+<DOMLayer name="Script Layer" color="#9bc446">
+<frames>
+<DOMFrame index="0" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="7" keyMode="9728">
+<Actionscript>
+<script>--this.curbullets;
+if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.curbullets &lt;= 0 || this.curbullets &lt; this.maxbullets / 2 &amp;&amp; this.picken_by != -1 &amp;&amp; !MovieClip(root).mens[this.picken_by].dead &amp;&amp; MovieClip(root).mens[this.picken_by].curwea == this.idd &amp;&amp; !MovieClip(root).mens[this.picken_by].act_fire)
+      {
+         this.gotoAndPlay(14);
+         this.floatframe = 14;
+      }
+      else
+      {
+         this.xpos1 = 0.9;
+         this.xpos2 = 1;
+         this.ready = true;
+         this.gotoAndStop(2);
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="8" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="16" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(15);
+         this.floatframe = 15;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="17" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="18" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 1;
+this.xpos2 = 0.2;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="19" duration="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="22" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(21);
+         this.floatframe = 21;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="23" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 0.9;
+this.xpos2 = 0.7;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="25" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="26" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(27);
+         this.floatframe = 27;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="28" keyMode="9728">
+<Actionscript>
+<script>this.curbullets = this.maxbullets;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="30" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 0.9;
+this.xpos2 = 1;
+this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ffffca">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2662" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2663" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" duration="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#ee7c6e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="31" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1d1f1f" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#525857" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0d0d0d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#141616"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#292c2b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -44 22| -82 3| -82 -39| -36 -39| 53 -39| 229 -39| 230 7| 206 7"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 206 7| 207 43| 180 43| 172 69| 102 69"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 102 69| 45 51"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 45 51| 44 54| 26 53[ 7 116 7 139| -29 139| -74 129| -44 22"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -44 22[ -15 6 39 12| 55 12"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 55 12| 71 12| 102 12"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 102 12| 175 12| 206 7"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 13 -24| 5 -3"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 35 -24| 28 -3"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 196 -24| 189 -3"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! 174 -24| 166 -3"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 175 12| 180 43"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 102 12| 102 69"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 55 12| 45 51"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 39 12| 26 53"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 71 12| 67 35"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! -9 -24| -17 -3"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! -33 69| -10 97"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! -41 90| -18 119"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! -24 43| -1 74"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

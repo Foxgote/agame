@@ -1,0 +1,36 @@
+{
+  "revision": 1,
+  "name": "Locked Timing",
+  "settings": {
+    "cadence": 0.24,
+    "cadenceSpread": 0.33,
+    "reactionDelay": 0.21443845216943522,
+    "readChance": 0.95,
+    "timingSpread": 0.04
+  },
+  "economy": {
+    "startingStamina": 100,
+    "lightCost": 0,
+    "heavyCost": 0,
+    "regeneration": 45,
+    "defenseReward": 10
+  },
+  "mixups": {
+    "comboChance": 0.72,
+    "comboGap": 0.11885527304502526,
+    "counterUseChance": 0.48,
+    "parryBias": 0.82
+  },
+  "sharedAttackWindup": 0.233333333,
+  "burstLights": true,
+  "lightLaunchInterval": 0.0585,
+  "specialLaunchInterval": 0.172248804,
+  "specialTiming": {
+    "windup": 0.233333333,
+    "contactRecovery": 0.08,
+    "avoidedRecovery": 0.12
+  },
+  "queueLimit": 4,
+  "interruptHeavyStartup": false,
+  "opponentLookahead": 0.24
+}

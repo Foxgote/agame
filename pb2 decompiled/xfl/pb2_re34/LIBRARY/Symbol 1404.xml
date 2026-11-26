@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1404" itemID="6b03b500-0000047f" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1404" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#424f3e" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#4e5c4b" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#434343" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<LinearGradient>
+<matrix>
+<Matrix tx="121.0" ty="85.0" a="0.0933837890625" d="0.0927734375" b="-0.05340576171875" c="0.0531005859375"/>
+</matrix>
+<GradientEntry color="#586149" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#3c4333" alpha="1.0" ratio="0.21176471"/>
+<GradientEntry color="#829985" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4a574b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2f332b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#36392d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2d3429"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#282f26"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="7">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#222222"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="6" edges="! 1500 -960| 2820 -60"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="2" edges="! 2820 -60[ 4580 600 4380 2620"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="3" edges="! 4380 2620| 640 2500"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="4" edges="! 640 2500[ 200 2260 240 1780"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="5" edges="! 240 1780| -200 2220| -1720 2220| -1920 1880[ -1540 180 -860 80"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="7" edges="! -860 80[ -200 -2100 1500 -960"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="6" edges="! 1500 -960[ 380 -1060 260 160"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="6" edges="! 260 160| 60 1060"/>
+<Edge fillStyle0="2" fillStyle1="4" strokeStyle="6" edges="! 60 1060[ 1260 1280 2820 -60"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="4" edges="! 240 1780| 60 1060"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="7" edges="! 260 160| -860 80"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

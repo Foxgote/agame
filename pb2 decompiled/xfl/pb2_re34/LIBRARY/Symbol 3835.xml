@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3835" itemID="6b03b580-000009ac" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3835">
+<layers>
+<DOMLayer name="Layer 1" color="#e1c456">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="-10.25" antiAliasSharpness="0" antiAliasThickness="0" width="120" height="241" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="3.65" ty="-5.75"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>T</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="10.75" bitmapSize="215" letterSpacing="0" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMStaticText left="-10.25" antiAliasSharpness="0" antiAliasThickness="0" width="121" height="241" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="3.7" ty="-5.7"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>M</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="10.75" bitmapSize="215" letterSpacing="0" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#a0a9f5" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3776" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="0.5" scaleMode="normal">
+<fill>
+<SolidColor color="#ffffff"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 244 180| -176 180| -176 -180| 244 -180| 244 180"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

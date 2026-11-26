@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3538" itemID="6b03b580-0000095b" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3538">
+<layers>
+<DOMLayer name="Layer 1" color="#b8ea9a">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1226" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="3.0" ty="-7.9"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>ENTER YOUR NAME:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="191" lineSpacing="0" rightMargin="0" fillColor="#ffffff" alpha="0.9019608" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#c7cc9b">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText fontRenderingMode="standard" name="nickname" width="222.55" height="14.0" renderAsHTML="true" maxCharacters="66">
+<matrix>
+<Matrix tx="141.0" ty="17.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="12" bitmapSize="240" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#51fd34">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#25272f" alpha="0.6"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0a0a" alpha="0.6"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 7312 662| 6234 662| 5893 662| 2772 662| 2772 302| 5893 302| 6234 302| 7312 302| 7312 662"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#7f9bde">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="524" height="276" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="166.0" ty="47.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Accept</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="62" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#79f154">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="back1e2" symbolType="button">
+<matrix>
+<Matrix tx="163.05" ty="44.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#69f082">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3529" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

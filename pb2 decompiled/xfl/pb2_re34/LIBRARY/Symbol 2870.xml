@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2870" itemID="6b03b580-0000082c" lastModified="1789282414" linkageClassName="incompetence_archetype_27xx" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2870">
+<layers>
+<DOMLayer name="Script Layer" color="#faf502">
+<frames>
+<DOMFrame index="0" duration="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#9eddaf">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2703" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-7.85" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" duration="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#a5de56">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2869" name="riflestatus" centerPoint3DX="-0.85" centerPoint3DY="12.3">
+<matrix>
+<Matrix tx="-12.1" ty="1.6"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#8e89a3">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2867" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#a8cf92" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2866" name="ray" centerPoint3DX="63.35" centerPoint3DY="-4.7">
+<matrix>
+<Matrix tx="13.35" ty="-5.2"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="35" greenOffset="227" blueOffset="227"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

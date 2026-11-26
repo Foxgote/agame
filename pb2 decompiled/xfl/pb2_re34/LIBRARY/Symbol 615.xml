@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 615" itemID="6b03b500-000002a4" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 615">
+<layers>
+<DOMLayer name="Layer 1" color="#fc2074" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="4.0" scaleMode="normal" caps="square">
+<fill>
+<SolidColor color="#63623b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -1327 310[ -1238 377 -497 517| 149 284| 975 246| 1085 42| 1002 -104| 1166 -436| 1311 -433| 1327 -517"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

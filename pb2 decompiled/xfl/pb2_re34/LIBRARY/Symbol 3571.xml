@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3571" itemID="6b03b580-0000096b" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3571">
+<layers>
+<DOMLayer name="Layer 1" color="#979afb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="318.2" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="2.0" ty="2.7"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>ohayo</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#d2d961">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3525" name="del" symbolType="button">
+<matrix>
+<Matrix tx="325.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#bdfe66" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3521" name="btn" symbolType="button">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

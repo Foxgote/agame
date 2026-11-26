@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1508" itemID="6b03b500-000004be" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1508">
+<layers>
+<DOMLayer name="Layer 1" color="#b3dc04" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1e1e1e" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0.0703125">
+<matrix>
+<Matrix tx="15.75" ty="7.9" a="0.0066070556640625" d="0.0066070556640625"/>
+</matrix>
+<GradientEntry color="#484848" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#2a2a2a" alpha="1.0" ratio="0.44705883"/>
+<GradientEntry color="#171717" alpha="1.0" ratio="1.0"/>
+<GradientEntry color="#383838" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#101010"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#151515"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 176 251| 114 251| 97 270| 0 270| 10 140| 32 138| 35 57[ 59 24 84 11[ 140 -20 202 40| 205 64| 220 64| 243 114"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 243 114| 316 131| 345 141[ 378 188 353 236| 352 269| 178 270| 176 251"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 176 251| 178 183| 224 173| 239 131| 243 114"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 205 206| 210 206"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 262 147| 267 147"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 32 138| 82 130| 84 111[ 90 85 119 64| 205 64"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 197 149| 202 149"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

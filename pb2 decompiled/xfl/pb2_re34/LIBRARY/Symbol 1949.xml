@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1949" itemID="6b03b500-000005e0" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1949">
+<layers>
+<DOMLayer name="Layer 1" color="#e210c2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1948" name="middle" centerPoint3DX="16.8" centerPoint3DY="31.9">
+<matrix>
+<Matrix tx="-0.3" ty="14.1" a="0.990478515625" d="0.990478515625" b="0.1093597412109375" c="-0.1093597412109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#4ff2df">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1736" name="upper" centerPoint3DX="22.45" centerPoint3DY="23.3">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.98663330078125" d="0.98663330078125" b="0.148162841796875" c="-0.148162841796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f2ea7e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1561" name="lower" centerPoint3DX="10.45" centerPoint3DY="41.5">
+<matrix>
+<Matrix tx="-4.35" ty="29.95" a="0.998199462890625" d="0.998199462890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

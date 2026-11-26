@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2880" itemID="6b03b580-00000833" lastModified="1789282414" linkageClassName="item_grenade_shield" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2880">
+<layers>
+<DOMLayer name="Script Layer" color="#a68ef5">
+<frames>
+<DOMFrame index="0" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="8" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#2dc1d7">
+<frames>
+<DOMFrame index="0" duration="9" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 711" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-0.05" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

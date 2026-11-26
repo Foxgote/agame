@@ -1,0 +1,420 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3252" itemID="6b03b580-000008f2" lastModified="1789282414" linkageClassName="darkstar_1_cs_ragequit" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3252">
+<layers>
+<DOMLayer name="Script Layer" color="#15a3db">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="15" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="17" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="18" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="25" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="37" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="45" duration="12" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="58" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="61" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#64f7e1">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 719" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.4"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" duration="61" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#926c9f">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="42.1" centerPoint3DY="34.1">
+<matrix>
+<Matrix tx="11.2" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="40" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#afbc3c">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="40.85" centerPoint3DY="32.75">
+<matrix>
+<Matrix tx="9.95" ty="1.8" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="42.1" centerPoint3DY="34.1">
+<matrix>
+<Matrix tx="11.2" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" duration="20" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#a28c8e">
+<frames>
+<DOMFrame index="0" duration="60" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="60" duration="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="11.2" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#bc45de">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="39.8" centerPoint3DY="34.1">
+<matrix>
+<Matrix tx="8.9" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="40.85" centerPoint3DY="32.75">
+<matrix>
+<Matrix tx="9.95" ty="1.8" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" duration="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="42.1" centerPoint3DY="34.1">
+<matrix>
+<Matrix tx="11.2" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" duration="4" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#cdc8dc">
+<frames>
+<DOMFrame index="0" duration="44" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="44" duration="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="9.95" ty="1.8" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#ee1eb2">
+<frames>
+<DOMFrame index="0" duration="24" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" duration="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="8.9" ty="3.15" a="0.2579803466796875" d="0.2579803466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#a3f96c">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 718" name="riflestatus" centerPoint3DX="21.85" centerPoint3DY="13.65">
+<matrix>
+<Matrix tx="10.6" ty="2.95" a="0.8061676025390625" d="0.8061676025390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#8fe251">
+<frames>
+<DOMFrame index="0" duration="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3251" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#d225c2" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 715" name="ray" centerPoint3DX="84.45" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="34.45" ty="2.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

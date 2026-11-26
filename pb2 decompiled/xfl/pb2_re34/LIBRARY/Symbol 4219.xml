@@ -1,0 +1,322 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4219" itemID="6b03b580-00000a11" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4219">
+<layers>
+<DOMLayer name="Layer 1" color="#90a57e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4218" name="mp_quicksettings" centerPoint3DX="423.05" centerPoint3DY="52.65">
+<matrix>
+<Matrix tx="347.55" ty="-72.85"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ed56f3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="829" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="22.45" ty="116.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Lobby Chat</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="46" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#1fb0f0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4180" name="mapinfos" centerPoint3DX="660.5" centerPoint3DY="306.0">
+<matrix>
+<Matrix tx="508.0" ty="296.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#ff33a8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="lvli" antiAliasSharpness="0" antiAliasThickness="0" width="209.1" height="11.15" renderAsHTML="true">
+<matrix>
+<Matrix tx="3.25" ty="8.6"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Level is Level</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" letterSpacing="0.25" lineSpacing="2.05" rightMargin="0.0" size="10" bitmapSize="200" face="Europe Ext Bold" fillColor="#00ff00"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#cd74f6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="644" height="229" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="20.8" ty="30.75"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Continue</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="56" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#7d3aed">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1489" height="257" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="22.0" ty="88.05"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Controls/Commands</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="13" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#cda013">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="628" height="278" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="20.8" ty="58.75"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Settings</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="56" lineSpacing="0" rightMargin="0" fillColor="#89d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#75f6b3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1178" height="199" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="20.8" ty="-4.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Press Esc to close</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="10.25" bitmapSize="205" letterSpacing="-0.05" indent="0" leftMargin="29" lineSpacing="0" rightMargin="0" fillColor="#eef9ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#8dbc57">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="718" height="278" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="21.5" ty="172.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>End game</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="52" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#bd7fbc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="586" height="227" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="21.5" ty="146.25"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Restart</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="59" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#fec7d7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_lobbychat" symbolType="button">
+<matrix>
+<Matrix tx="20.05" ty="114.1"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#4f83be">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_close" symbolType="button">
+<matrix>
+<Matrix tx="19.5" ty="28.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 13" color="#70a969">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_con" symbolType="button">
+<matrix>
+<Matrix tx="19.5" ty="84.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 14" color="#db7bc4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_settings" symbolType="button">
+<matrix>
+<Matrix tx="19.5" ty="56.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 15" color="#90dacb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_restart" symbolType="button">
+<matrix>
+<Matrix tx="19.5" ty="142.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 16" color="#26edd3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_exit" symbolType="button">
+<matrix>
+<Matrix tx="19.5" ty="168.9"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 17" color="#a6d33d" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#0e2236" alpha="0.8"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 4320 -245| 4320 3955| 0 3955| 0 -245| 4320 -245"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

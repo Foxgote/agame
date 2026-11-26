@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 605" itemID="6b03b500-0000029e" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 605" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.4" scaleMode="normal" joints="bevel">
+<fill>
+<SolidColor color="#1c2218"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -577 750| -928 -3| -921 -65| -208 -872| 768 -925| 1260 -274| 1184 301[ 604 717 600 857| 69 953| -577 750"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="6.75" ty="-5.9" a="0.1026611328125" d="0.1026611328125"/>
+</matrix>
+<GradientEntry color="#4c5443" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#31382b" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="3.75" ty="-5.0" a="0.1026611328125" d="0.1026611328125"/>
+</matrix>
+<GradientEntry color="#4c5443" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#31382b" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="3.5" scaleMode="normal" joints="bevel">
+<fill>
+<SolidColor color="#4b5342"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 456 860| 73 929| -564 729| -880 52| -910 -13| -903 -74| -200 -869| 757 -908| 760 -905"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 760 -905| 1245 -283| 1247 -280| 1172 287[ 600 697 596 835| 456 860"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 456 860| 49 -110"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 49 -110| -744 23"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 49 -110| 760 -905"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -880 52| -757 31"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

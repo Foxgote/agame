@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3131" itemID="6b03b580-000008a9" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3131" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#494949" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-14.25" ty="-148.45" a="0.12554931640625" d="0.12554931640625"/>
+</matrix>
+<GradientEntry color="#cacbca" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#828282" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="6.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3b3b3b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="6.0" scaleMode="normal">
+<fill>
+<SolidColor color="#333333"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="6.0" scaleMode="normal">
+<fill>
+<SolidColor color="#525252"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 739 -4497| 540 -4120[ 788 -4003 961 -3841[ 1096 -3713 1182 -3561| 1232 -3461[ 1324 -3252 1338 -3000| 1340 -2970| 1340 -2960| 1680 -2940"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 540 -4120[ 379 -4188 220 -4216| 31 -4236[ -222 -4243 -451 -4143| -451 -4142| -458 -4137| -688 -3968"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -688 -3968| -520 -3920| -140 -4140| 37 -3718"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 37 -3718| 220 -3694| 298 -3671[ 458 -3616 597 -3496| 961 -3841"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -1259 -4120[ -1124 -4230 -990 -4317[ -804 -4439 -618 -4516| -518 -4555| -512 -4557[ -157 -4683 204 -4645| 375 -4617| 446 -4600[ 597 -4560 739 -4497[ 1303 -4210 1580 -3604| 1640 -3461[ 1685 -3343 1720 -3217| 1740 -3140| 1720 -2973| 1720 -2970| 1709 -2898| 1675 -2683| 1671 -2659"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 1671 -2659[ 1620 -2390 1519 -2144| 1482 -2059[ 1420 -1924 1342 -1799[ 1204 -1580 1020 -1397| 800 -1460| 200 -2980| -220 -2980| -800 -1460| -1002 -1402[ -1279 -1661 -1398 -1861[ -1483 -2006 -1546 -2157[ -1733 -2606 -1720 -3100| -2240 -3400"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="3" edges="! -2240 -3400[ -1905 -4154 -1580 -4540| -1259 -4120"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -1259 -4120| -1060 -3860| -990 -3924| -800 -4100| -800 -4000| -688 -3968"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 1671 -2659| 1360 -2638| 1080 -2620| 1080 -2970| 1080 -3000| 1080 -3160| 880 -3320| 580 -3240| 473 -3051| 444 -3000| 426 -2970"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 426 -2970| 420 -2960"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 420 -2960| 402 -2970| 346 -3000| 220 -3067| -140 -3260| -120 -3280| 120 -3520| 37 -3718"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 880 -3320| 1057 -3461| 1182 -3561"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 298 -3671| 220 -3371| 180 -3218[ 200 -3210 220 -3201[ 342 -3145 473 -3051"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -120 -3280| 27 -3261[ 118 -3244 180 -3218"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 597 -3496| 637 -3461[ 711 -3390 780 -3300"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 1360 -2638| 1340 -2960"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -451 -4143| -458 -4137"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -451 -4143| -518 -4276| -618 -4516"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

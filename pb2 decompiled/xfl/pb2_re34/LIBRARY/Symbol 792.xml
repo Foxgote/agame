@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 792" itemID="6b03b500-0000030a" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 792" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ffffff"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -600 0| -554 -37[ -525 -55 -488 -68| -404 -89| -302 -96| -202 -89| -122 -68[ -92 -58 -3 0[ 88 59 115 68| 197 89| 299 96| 397 89| 479 68[ 521 55 550 37| 599 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

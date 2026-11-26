@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3504" itemID="6b03b580-00000949" lastModified="1789282414" linkageClassName="buy_line" linkageExportInFirstFrame="false" linkageExportForAS="true" symbolType="button">
+<timeline>
+<DOMTimeline name="Symbol 3504" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1" current="true" isSelected="true" color="#8b8b6a">
+<frames>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="0.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! #0.29 #0.00| #3B60.28 #0.00| #3B60.28 #153.FF| #0.29 #153.FF| #0.29 #0.00"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3502" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color/>
+</color>
+<filters/>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3503" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color/>
+</color>
+<filters/>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

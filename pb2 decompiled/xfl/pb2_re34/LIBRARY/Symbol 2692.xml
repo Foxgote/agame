@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2692" itemID="6b03b580-000007c1" lastModified="1789282414" linkageClassName="phsc_aug" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2692">
+<layers>
+<DOMLayer name="Script Layer" color="#729e8b">
+<frames>
+<DOMFrame index="0" duration="11" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="11" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#8153af">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 770" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-1.9" ty="1.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 771" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-2.6" ty="0.8" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c9c9d4">
+<frames>
+<DOMFrame index="0" duration="12" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#594a42" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#3e3431" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#382d29"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2a2321"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -145 147| -133 157| -133 196| -276 196| -276 154| -262 147"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -262 147| -262 105| -145 75| -145 147"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -145 147| -262 147"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#df77c9">
+<frames>
+<DOMFrame index="0" duration="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2690" name="glowing" centerPoint3DX="-20.55" centerPoint3DY="6.9">
+<matrix>
+<Matrix tx="-22.7" ty="5.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#bdbdb5">
+<frames>
+<DOMFrame index="0" duration="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2688" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

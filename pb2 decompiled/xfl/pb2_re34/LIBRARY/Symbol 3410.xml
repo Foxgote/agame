@@ -1,0 +1,386 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3410" itemID="6b03b580-00000927" lastModified="1789282414" linkageClassName="MP_commands_text" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3410">
+<layers>
+<DOMLayer name="Layer 1" color="#ae876d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="277.65" height="31.1" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="479.65" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>-cursor.static 0/1</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> - Toggle crosshair mode</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#afe9dd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="249.8" height="89.1" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="242.65" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>-show.frags 0 </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>: Disable Frag messages</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-show.frags 1</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Enable Frag messages</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-cursor.size 1-100</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> - Resize crosshair</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-cursor.style 1-3</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> - Change crosshair</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-cursor.reset</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> - Reset crosshair</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#ea62ee">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="253.64999999999998" height="89.1" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="2.0" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>• Multiplayer General Commands</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffff00"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-fps </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>: Example -fps 37</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-kill</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Suicide</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-ping</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Set ping</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-blue</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Switch to blue team (TDM only)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-red</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Switch to red team (TDM noly)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#ddb110" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="546.9" height="132.65" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="2.0" ty="103.6"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>COOP Commands</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffff00"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>• Match Owner/Moderator/Event Staff</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-admin.restart</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>: restart the current round</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>• Event Staff/Moderator</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-admin.pause </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>: Pause the current round (duration: 10 minutes)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-admin.resume </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>: Resume the current round (new round starts after 10 seconds)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-admin.sc </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>:Display team IDs and scores in the current room</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>-admin.set [team ID] [score]</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> : Modify the score of the specified team</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="11" bitmapSize="220" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

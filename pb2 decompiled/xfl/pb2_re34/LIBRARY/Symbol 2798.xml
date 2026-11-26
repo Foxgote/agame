@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2798" itemID="6b03b580-000007fc" lastModified="1789282414" linkageClassName="lazyrain_psi_cutter" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2798">
+<layers>
+<DOMLayer name="Script Layer" color="#e8a6ea">
+<frames>
+<DOMFrame index="0" duration="54" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#fc7f19">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="6.5" ty="-0.85" a="0.0069122314453125" d="0.006927490234375"/>
+</matrix>
+<GradientEntry color="#11e8ff" alpha="0.4" ratio="0.0"/>
+<GradientEntry color="#11e8ff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 51 -97[ 83 -130 130 -130[ 177 -130 210 -97[ 242 -64 242 -17[ 242 30 210 63[ 177 96 130 96[ 83 96 51 63[ 18 30 18 -17[ 18 -64 51 -97"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 740" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="47.4" ty="-1.0" a="0.0799713134765625" d="0.018096923828125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.23921569"/>
+<GradientEntry color="#89d0fe" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 948 -319[ 1497 -319 1880 -232[ 2270 -144 2270 -20[ 2270 104 1880 191[ 1497 279 948 279[ 400 279 12 191[ -373 104 -373 -20[ -373 -144 12 -232[ 400 -319 948 -319"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 742" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" duration="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="36.8" centerPoint3DY="29.55">
+<matrix>
+<Matrix tx="5.9" ty="-1.4" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c8f2db">
+<frames>
+<DOMFrame index="0" duration="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2795" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

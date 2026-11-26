@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1550" itemID="6b03b500-000004db" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1550">
+<layers>
+<DOMLayer name="Layer 1" color="#47f8cd" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#161b1d" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="8.6" ty="4.6" a="0.00616455078125" d="0.0045166015625"/>
+</matrix>
+<GradientEntry color="#131c2a" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#182435" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#324662" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#070a0a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 272 76| 304 57[ 349 65 378 80| 390 121| 391 125| 378 167| 342 171| 148 171| 148 162| 116 162| 116 171| 53 171| 53 127| 53 92| 65 78| 65 2| 180 2| 180 8"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 180 8| 201 -3| 283 65| 272 76"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 272 76| 248 99| 182 79| 139 30| 180 8"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 53 127| 90 140| 111 123| 137 123| 168 135| 262 135| 298 121| 390 121"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

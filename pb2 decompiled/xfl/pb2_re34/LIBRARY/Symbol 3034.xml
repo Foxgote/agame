@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3034" itemID="6b03b580-00000873" lastModified="1789282414" linkageClassName="explosion_plasma" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3034">
+<layers>
+<DOMLayer name="Script Layer" color="#5f8f9b">
+<frames>
+<DOMFrame index="0" duration="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+this.visible = false;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#5ae881">
+<frames>
+<DOMFrame index="0" duration="27" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2955" name="expl" blendMode="add" centerPoint3DX="57.0" centerPoint3DY="39.85">
+<matrix>
+<Matrix tx="-43.0" ty="-32.65" a="0.4376983642578125" d="0.4376983642578125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<AdjustColorFilter brightness="0" contrast="0" saturation="-60" hue="-178"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#23fdd0" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="11" keyMode="17922" tweenType="shape" acceleration="100">
+<morphHintsList>
+<MorphHint startPoint="#2.43, #2.43" endPoint="#2.43, #2.43" key="0"/>
+<MorphHint startPoint="#0.00, #3.34" endPoint="#0.00, #3.34" key="1"/>
+<MorphHint startPoint="#FFFFFD.BC, #2.43" endPoint="#FFFFFD.BC, #2.43" key="2"/>
+<MorphHint startPoint="#FFFFFC.CC, #0.00" endPoint="#FFFFFC.CC, #0.00" key="3"/>
+<MorphHint startPoint="#FFFFFD.BC, #FFFFFD.BC" endPoint="#FFFFFD.BC, #FFFFFD.BC" key="4"/>
+<MorphHint startPoint="#0.00, #FFFFFC.CC" endPoint="#0.00, #FFFFFC.CC" key="5"/>
+<MorphHint startPoint="#2.43, #FFFFFD.BC" endPoint="#2.43, #FFFFFD.BC" key="6"/>
+<MorphHint startPoint="#3.34, #0.00" endPoint="#3.34, #0.00" key="7"/>
+</morphHintsList>
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.050689697265625" d="0.050689697265625"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.23529412"/>
+<GradientEntry color="#d4edff" alpha="0.34901962" ratio="0.72156864"/>
+<GradientEntry color="#dbf0ff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 579 579[ 340 820 0 820[ -340 820 -580 579[ -820 340 -820 0[ -820 -340 -580 -580[ -340 -820 0 -820[ 340 -820 579 -580[ 820 -340 820 0[ 820 340 579 579"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="11" keyMode="9728">
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.050689697265625" d="0.050689697265625"/>
+</matrix>
+<GradientEntry color="#e0efff" alpha="0.0" ratio="0.23529412"/>
+<GradientEntry color="#d4edff" alpha="0.0" ratio="0.7490196"/>
+<GradientEntry color="#dbf0ff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 579 579[ 340 820 0 820[ -340 820 -580 579[ -820 340 -820 0[ -820 -340 -580 -580[ -340 -820 0 -820[ 340 -820 579 -580[ 820 -340 820 0[ 820 340 579 579"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="12" duration="16" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

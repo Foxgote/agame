@@ -1,31 +1,33 @@
-# godot-cpp integration test
+# 2D Shooter Prototype
 
-This project is used to perform integration testing of the godot-cpp
-extension, to validate PRs and implemented APIs.
+This Godot 4.6 project is a small, original 2D platform-shooter starting point. It is separate in gameplay from the godot-cpp sample extension, which remains available for binding/build experiments.
 
-## License
+## Run
 
-This is free and unencumbered software released into the public domain.
+Open `main/project/project.godot` in Godot 4.6 and run the main scene.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Controls:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+- `A` / `D`: move
+- `Space`: jump
+- Mouse: aim
+- Left mouse button: fire
+- `R`: restart
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## Current Slice
 
-For more information, please refer to <https://unlicense.org/>
+- `scripts/player.gd` implements platform movement and ray-based hitscan.
+- `scripts/breakable.gd` tracks health, shows damage, and spawns short-lived rigid debris when destroyed.
+- `scripts/target.gd` turns a defeated target into a multi-body physics ragdoll.
+- `scripts/ragdoll.gd` builds the ragdoll from `RigidBody2D` segments joined by `PinJoint2D`.
+- `tests/runtime_smoke.gd` checks scene startup, damage progression, debris breakage, and ragdoll joints.
+
+The art is drawn from simple shapes and is only placeholder presentation. The Unity and PB2 decompilation directories are retained as local reference material; they are not loaded by the game.
+
+Run the headless smoke test with:
+
+```powershell
+Godot_v4.6-stable_win64_console.exe --headless --path main\project --script res://tests/runtime_smoke.gd
+```
+
+The `main/CMakeLists.txt` and `main/SConstruct` targets build only the generic godot-cpp example classes. The 2D game itself uses Godot/GDScript and does not require the extension.

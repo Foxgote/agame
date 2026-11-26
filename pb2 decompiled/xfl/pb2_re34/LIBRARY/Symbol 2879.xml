@@ -1,0 +1,183 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2879" itemID="6b03b580-00000832" lastModified="1789282414" linkageClassName="gun_gl" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2879">
+<layers>
+<DOMLayer name="Script Layer" color="#58d454">
+<frames>
+<DOMFrame index="0" duration="13" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<Actionscript>
+<script>if(!MovieClip(root).MP_mode)
+{
+   this.ready = true;
+   this.gotoAndStop(2);
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="14" duration="25" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#c582c0">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 752" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="2.7" ty="0.0" a="0.64361572265625" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 752" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-7.8" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 753" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-2.8" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" duration="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="45.7" centerPoint3DY="34.75">
+<matrix>
+<Matrix tx="14.8" ty="3.8" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f8ac83" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="40" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#cccccc" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#959595" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#6a6a6a" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="5">
+<SolidColor color="#b10101" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#595959"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#666666"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3c3c3c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#770000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="! 124 -63| 124 -36| 139 -27"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 139 -27| 201 10| 216 38| 128 66"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 128 66| 175 144"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="3" edges="! 175 144| 347 144"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="4" edges="! 347 144| 347 113"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 347 113| 399 69| 399 -77| 380 -90| 124 -90| 124 -63"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="5" edges="! 124 -63| -40 -43"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="1" edges="! -40 -43| -42 -49"/>
+<Edge fillStyle0="5" fillStyle1="4" strokeStyle="1" edges="! -42 -49| -29 -6"/>
+<Edge fillStyle0="5" fillStyle1="2" strokeStyle="0" edges="! -29 -6| 139 -27"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="1" edges="! 181 -62| 325 -62"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="1" edges="! 346 -1| 346 46| 306 86"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="1" edges="! 271 -1| 271 46| 231 86"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 52 23| 83 21"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 124 18| 163 16"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -9 66| 81 66| 128 66"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! -134 -74| -49 -74| -42 -49"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! -187 80| -143 190| -46 190| -25 147| -49 110"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="! -49 110| -187 80"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! -187 80| -242 48"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="5" edges="! -242 48[ -288 -69 -134 -74"/>
+<Edge fillStyle0="4" fillStyle1="0" strokeStyle="1" edges="! -134 -74| -134 10| -242 48"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! -9 66| -49 110"/>
+<Edge fillStyle0="2" fillStyle1="4" strokeStyle="1" edges="! -29 -6| -9 66"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -25 147[ 81 130 81 66"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

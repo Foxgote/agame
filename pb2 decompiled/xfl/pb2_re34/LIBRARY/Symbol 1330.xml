@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1330" itemID="6b03b500-00000452" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1330" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="17.9" ty="30.5" a="0.017669677734375" d="0.00567626953125" b="0.0386199951171875" c="-0.0124053955078125"/>
+</matrix>
+<GradientEntry color="#efbb63" alpha="0.41960785" ratio="0.0"/>
+<GradientEntry color="#efbb63" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 645 1218[ 542 1266 388 1121[ 236 978 122 729[ 9 479 1 270[ -7 59 96 12[ 198 -36 352 107[ 505 249 619 498[ 732 748 740 959[ 749 1170 647 1217| 645 1218"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.95">
+<fill>
+<SolidColor color="#b07512" alpha="0.69411767"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 216 480| 380 824| 394 876[ 429 932 481 962[ 519 984 575 996| 608 986| 536 928| 461 735| 397 708| 320 536| 341 480| 181 214| 158 215| 153 241| 186 321| 216 480"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#efbb63" alpha="0.84705883"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 216 480| 380 824| 394 876[ 429 932 481 962[ 519 984 575 996| 608 986| 536 928| 461 735| 397 708| 320 536| 341 480| 181 214| 158 215| 153 241| 186 321| 216 480"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

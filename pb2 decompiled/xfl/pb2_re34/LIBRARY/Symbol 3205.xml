@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3205" itemID="6b03b580-000008db" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3205" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#271917" alpha="0.2"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 5440 -920| 5400 -920| -5840 -3200| 5920 -3200| 5440 -920"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -2740 0| 1280 880| -2740 1280| -2740 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-71.0" ty="-88.0" a="0.587158203125" d="0.58746337890625"/>
+</matrix>
+<GradientEntry color="#5b3b30" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#492e26" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-71.0" ty="-88.0" a="0.7623291015625" d="0.762939453125"/>
+</matrix>
+<GradientEntry color="#95695a" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#704c40" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="40.0" scaleMode="normal">
+<fill>
+<SolidColor color="#291b1a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -7120 -6000| 7160 -6000| 7160 -4160| 5900 -3200| 3960 6000| -3920 6000| -5880 -3200| -7140 -4140"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -7140 -4140| -7160 -4160| -7160 -6000| -7120 -6000"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -7120 -6000| -7140 -4140"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

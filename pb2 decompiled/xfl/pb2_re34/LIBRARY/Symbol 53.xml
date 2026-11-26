@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 53" itemID="6b03b500-00000292" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 53">
+<layers>
+<DOMLayer name="Layer 1" color="#cdb6b4" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1363" height="575" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-396.95" ty="-24.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>SYNCHRONIZATION...</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.25" bitmapSize="225" letterSpacing="0" indent="0" leftMargin="329" lineSpacing="6" rightMargin="0" fillColor="#000000" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;SKIP</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.25" bitmapSize="225" letterSpacing="0" indent="0" leftMargin="381" lineSpacing="6" rightMargin="0" fillColor="#000000" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

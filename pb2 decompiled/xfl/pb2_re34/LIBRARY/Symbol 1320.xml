@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1320" itemID="6b03b500-0000044b" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1320" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#aa0000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1c0101"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 240 5380| -140 4060| 640 4060| 700 5420| 240 5380"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 3280 4780| 3080 6020| 3740 6020| 4000 4780| 3280 4780"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#190000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ff0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -40 2380| -260 2160[ -540 1380 -460 680| 820 680| 1280 1480| 2420 1480| 2420 2240| 1920 2800| 1160 2800| 1360 3540| 2420 4220| 2860 3920| 3480 3000| 3760 2840| 4220 2840[ 4140 4620 3620 6440| 2540 6440| 2260 5660| 240 5660| -440 3400| -40 2380| 400 2800| 1160 2800"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2420 4220| 2000 4500| 2260 5660"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 3820 7340| 3800 7980"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 3960 7080[ 4200 8040 3960 8420| 2520 8420| 2520 6740| 3960 7080"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#350303" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#1e1e1e" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#171717" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="99.0" ty="154.0" a="0.189208984375" d="0.13153076171875"/>
+</matrix>
+<GradientEntry color="#272727" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#121212" alpha="1.0" ratio="1.0"/>
+<GradientEntry color="#272727" alpha="0.8" ratio="1.0"/>
+<GradientEntry color="#ff5151" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#090909"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2a0101"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 4140 3800| 4220 2840| 3760 2840| 3480 3000"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="0" edges="! 3480 3000| 2860 3920| 2420 4220| 1360 3540| 1160 2800| 1920 2800| 2420 2240| 2420 1480| 1280 1480| 1060 1080"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 1060 1080| 820 680| -460 680[ -540 1380 -260 2160| -40 2380| -280 3020"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! -280 3020| 440 3340| 860 4960| 2100 4960"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 4140 3800| 3540 3980| 2700 4640| 3080 6020| 3500 6060"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! 1060 1080| 3140 1240[ 3620 2260 3480 3000"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 3240 6920| 3300 6440"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 3300 6440| 2540 6440| 2480 6240"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 2480 6240| 1520 6300"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 1520 6300| 1520 6740| 1840 6740"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 1840 6740| 2520 6740"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 2520 6740| 3240 6920"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 3240 6920| 3960 7080[ 4200 8040 3960 8420| 3360 8420"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 3360 8420| 2920 8980| 2180 8980| 1620 8500| 1400 7740| 1840 6740"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! 820 5660| 2260 5660| 2480 6240"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 3300 6440| 3620 6440[ 4000 5100 4140 3800"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 1520 6300| 1520 6280| 1100 6280| 820 5660"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 820 5660| 240 5660| -440 3400| -280 3020"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 3360 8420| 2520 8420| 2520 6740"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

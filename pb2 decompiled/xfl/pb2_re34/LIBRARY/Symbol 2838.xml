@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2838" itemID="6b03b580-0000081a" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2838" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.3" ty="0.0" a="0.02490234375" d="0.02490234375"/>
+</matrix>
+<GradientEntry color="#444444" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#1a1a1a" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#444444" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#2f2f2f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.0" scaleMode="normal">
+<fill>
+<SolidColor color="#321401"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="2.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1e1e1e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! -137 -82| -71 -3| 76 -3| 135 -87"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 135 -87| 114 -114[ 66 -162 0 -160[ -64 -162 -112 -114| -137 -82"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="2" edges="! -137 -82[ -160 -45 -160 0[ -160 64 -112 112[ -64 158 0 160[ 66 158 114 112[ 160 64 160 0[ 160 -48 135 -87"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 282 -284[ 400 -166 400 0[ 400 166 282 282[ 166 400 0 400[ -166 400 -284 282[ -400 166 -400 0[ -400 -166 -284 -284[ -166 -400 0 -400[ 166 -400 282 -284"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-0.5" ty="-0.65" a="0.0347900390625" d="0.0348663330078125" b="9.613037109375E-4" c="-0.0033111572265625"/>
+</matrix>
+<GradientEntry color="#542b01" alpha="1.0" ratio="0.9098039"/>
+<GradientEntry color="#4b2601" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3a1701"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="3.0" scaleMode="normal">
+<fill>
+<SolidColor color="#291101"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 26 -559[ 109 -547 182 -558"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 448 -462[ 557 -327 527 -68[ 515 193 386 383[ 255 532 27 500[ -242 516 -427 360[ -577 164 -531 -100[ -528 -336 -356 -447[ -154 -547 103 -521[ 337 -556 448 -462"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 436 -533| 514 -453"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 270 -562| 385 -553"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 545 -376| 568 -230"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 454 362| 363 472"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 293 512| 172 537"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 537 122[ 509 204 488 285"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 569 -147[ 559 -67 556 14"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -564 -178[ -567 -106 -579 -22"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -326 -513| -447 -437"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -490 -385| -545 -266"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -63 -558| -230 -541"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -518 335[ -469 396 -411 449"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -334 486| -169 527"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -579 69| -557 238"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! -61 536[ 28 532 99 540"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

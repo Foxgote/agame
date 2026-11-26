@@ -1,0 +1,282 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2285" itemID="6b03b500-00000692" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2285">
+<layers>
+<DOMLayer name="Layer 1" color="#0bdef5" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="58" keyMode="17922" tweenType="shape" acceleration="0">
+<morphHintsList>
+<MorphHint startPoint="#0.0B, #0.07" endPoint="#0.0B, #0.07" key="0"/>
+<MorphHint startPoint="#0.2E, #0.00" endPoint="#0.2E, #0.00" key="1"/>
+<MorphHint startPoint="#0.2B, #0.15" endPoint="#0.2B, #0.15" key="2"/>
+<MorphHint startPoint="#0.53, #0.2E" endPoint="#0.53, #0.2E" key="3"/>
+<MorphHint startPoint="#0.5F, #0.5E" endPoint="#0.5F, #0.5E" key="4"/>
+<MorphHint startPoint="#0.51, #0.72" endPoint="#0.51, #0.72" key="5"/>
+<MorphHint startPoint="#0.58, #0.91" endPoint="#0.58, #0.91" key="6"/>
+<MorphHint startPoint="#0.67, #0.A0" endPoint="#0.67, #0.A0" key="7"/>
+<MorphHint startPoint="#0.6D, #0.C2" endPoint="#0.6D, #0.C2" key="8"/>
+<MorphHint startPoint="#0.77, #0.FD" endPoint="#0.77, #0.FD" key="9"/>
+<MorphHint startPoint="#0.7A, #1.0D" endPoint="#0.7A, #1.0D" key="10"/>
+<MorphHint startPoint="#0.7E, #1.1F" endPoint="#0.7E, #1.1F" key="11"/>
+<MorphHint startPoint="#0.57, #1.51" endPoint="#0.57, #1.51" key="12"/>
+<MorphHint startPoint="#0.3E, #1.5A" endPoint="#0.3E, #1.5A" key="13"/>
+<MorphHint startPoint="#0.2E, #1.46" endPoint="#0.2E, #1.46" key="14"/>
+<MorphHint startPoint="#0.2B, #1.2B" endPoint="#0.2B, #1.2B" key="15"/>
+<MorphHint startPoint="#0.15, #0.88" endPoint="#0.15, #0.88" key="16"/>
+<MorphHint startPoint="#0.20, #0.73" endPoint="#0.20, #0.73" key="17"/>
+<MorphHint startPoint="#0.1D, #0.50" endPoint="#0.1D, #0.50" key="18"/>
+<MorphHint startPoint="#0.1B, #0.50" endPoint="#0.1B, #0.50" key="19"/>
+<MorphHint startPoint="#0.00, #0.42" endPoint="#0.00, #0.42" key="20"/>
+</morphHintsList>
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#660000" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#9fa500" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" duration="59" keyMode="17922" tweenType="shape" acceleration="0">
+<morphHintsList>
+<MorphHint startPoint="#0.0B, #0.07" endPoint="#0.0B, #0.07" key="0"/>
+<MorphHint startPoint="#0.2E, #0.00" endPoint="#0.2E, #0.00" key="1"/>
+<MorphHint startPoint="#0.2B, #0.15" endPoint="#0.2B, #0.15" key="2"/>
+<MorphHint startPoint="#0.53, #0.2E" endPoint="#0.53, #0.2E" key="3"/>
+<MorphHint startPoint="#0.5F, #0.5E" endPoint="#0.5F, #0.5E" key="4"/>
+<MorphHint startPoint="#0.51, #0.72" endPoint="#0.51, #0.72" key="5"/>
+<MorphHint startPoint="#0.58, #0.91" endPoint="#0.58, #0.91" key="6"/>
+<MorphHint startPoint="#0.67, #0.A0" endPoint="#0.67, #0.A0" key="7"/>
+<MorphHint startPoint="#0.6D, #0.C2" endPoint="#0.6D, #0.C2" key="8"/>
+<MorphHint startPoint="#0.77, #0.FD" endPoint="#0.77, #0.FD" key="9"/>
+<MorphHint startPoint="#0.7A, #1.0D" endPoint="#0.7A, #1.0D" key="10"/>
+<MorphHint startPoint="#0.7E, #1.1F" endPoint="#0.7E, #1.1F" key="11"/>
+<MorphHint startPoint="#0.57, #1.51" endPoint="#0.57, #1.51" key="12"/>
+<MorphHint startPoint="#0.3E, #1.5A" endPoint="#0.3E, #1.5A" key="13"/>
+<MorphHint startPoint="#0.2E, #1.46" endPoint="#0.2E, #1.46" key="14"/>
+<MorphHint startPoint="#0.2B, #1.2B" endPoint="#0.2B, #1.2B" key="15"/>
+<MorphHint startPoint="#0.15, #0.88" endPoint="#0.15, #0.88" key="16"/>
+<MorphHint startPoint="#0.20, #0.73" endPoint="#0.20, #0.73" key="17"/>
+<MorphHint startPoint="#0.1D, #0.50" endPoint="#0.1D, #0.50" key="18"/>
+<MorphHint startPoint="#0.1B, #0.50" endPoint="#0.1B, #0.50" key="19"/>
+<MorphHint startPoint="#0.00, #0.42" endPoint="#0.00, #0.42" key="20"/>
+</morphHintsList>
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#a0a800" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="118" keyMode="9728">
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#b66e00" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="119" duration="59" keyMode="17922" tweenType="shape" acceleration="0">
+<morphHintsList>
+<MorphHint startPoint="#0.0B, #0.07" endPoint="#0.0B, #0.07" key="0"/>
+<MorphHint startPoint="#0.2E, #0.00" endPoint="#0.2E, #0.00" key="1"/>
+<MorphHint startPoint="#0.2B, #0.15" endPoint="#0.2B, #0.15" key="2"/>
+<MorphHint startPoint="#0.53, #0.2E" endPoint="#0.53, #0.2E" key="3"/>
+<MorphHint startPoint="#0.5F, #0.5E" endPoint="#0.5F, #0.5E" key="4"/>
+<MorphHint startPoint="#0.51, #0.72" endPoint="#0.51, #0.72" key="5"/>
+<MorphHint startPoint="#0.58, #0.91" endPoint="#0.58, #0.91" key="6"/>
+<MorphHint startPoint="#0.67, #0.A0" endPoint="#0.67, #0.A0" key="7"/>
+<MorphHint startPoint="#0.6D, #0.C2" endPoint="#0.6D, #0.C2" key="8"/>
+<MorphHint startPoint="#0.77, #0.FD" endPoint="#0.77, #0.FD" key="9"/>
+<MorphHint startPoint="#0.7A, #1.0D" endPoint="#0.7A, #1.0D" key="10"/>
+<MorphHint startPoint="#0.7E, #1.1F" endPoint="#0.7E, #1.1F" key="11"/>
+<MorphHint startPoint="#0.57, #1.51" endPoint="#0.57, #1.51" key="12"/>
+<MorphHint startPoint="#0.3E, #1.5A" endPoint="#0.3E, #1.5A" key="13"/>
+<MorphHint startPoint="#0.2E, #1.46" endPoint="#0.2E, #1.46" key="14"/>
+<MorphHint startPoint="#0.2B, #1.2B" endPoint="#0.2B, #1.2B" key="15"/>
+<MorphHint startPoint="#0.15, #0.88" endPoint="#0.15, #0.88" key="16"/>
+<MorphHint startPoint="#0.20, #0.73" endPoint="#0.20, #0.73" key="17"/>
+<MorphHint startPoint="#0.1D, #0.50" endPoint="#0.1D, #0.50" key="18"/>
+<MorphHint startPoint="#0.1B, #0.50" endPoint="#0.1B, #0.50" key="19"/>
+<MorphHint startPoint="#0.00, #0.42" endPoint="#0.00, #0.42" key="20"/>
+</morphHintsList>
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#b66d00" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="178" keyMode="9728">
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#670200" alpha="1.0" ratio="0.8509804"/>
+<GradientEntry color="#070707" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! 11 7| 46 0| 43 21| 83 46| 95 94| 81 114| 88 145| 103 160| 109 194| 119 253| 122 269| 126 287| 87 337| 62 346| 46 326| 43 299| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="179" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="60.5" ty="29.6" a="0.0814208984375" d="0.0814208984375"/>
+</matrix>
+<GradientEntry color="#000000" ratio="0.0"/>
+<GradientEntry color="#660000" ratio="0.8509804"/>
+<GradientEntry color="#070707" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 46 0| 43 20| 43 21| 83 46| 85 47| 95 94| 81 114| 88 145| 88 148| 103 160| 109 194| 119 253| 122 269| 126 287| 126 288| 87 337| 62 346| 46 326| 46 325| 43 299| 43 298| 21 136| 32 115| 29 80| 27 80| 0 66| 11 7| 45 1| 46 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

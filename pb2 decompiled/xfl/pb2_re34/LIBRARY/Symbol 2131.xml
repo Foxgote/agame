@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2131" itemID="6b03b500-00000635" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2131">
+<layers>
+<DOMLayer name="Layer 1" color="#e2c61e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="36" height="67" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="0.0" ty="0.8" a="0.909423828125" d="0.90960693359375" b="-0.41583251953125" c="0.4154052734375"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>.... . .-. ---</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="1.3" bitmapSize="26" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#1b2126" face="Arial Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

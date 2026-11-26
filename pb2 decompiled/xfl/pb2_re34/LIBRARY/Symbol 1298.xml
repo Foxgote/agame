@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1298" itemID="6b03b500-00000439" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1298">
+<layers>
+<DOMLayer name="Layer 1" color="#e86469">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1297" name="psi" centerPoint3DX="18.4" centerPoint3DY="7.45">
+<matrix>
+<Matrix tx="11.2" ty="-1.55" a="1.176727294921875" d="1.1692962646484375" b="-1.53436279296875" c="1.96875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="6" blurY="6" color="#ff9900" quality="1" strength="2"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#76cd3e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="25.8" ty="2.0" a="0.0061187744140625" d="6.561279296875E-4" b="-0.0063323974609375" c="0.001617431640625"/>
+</matrix>
+<GradientEntry color="#272626" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="0.21568628"/>
+<GradientEntry color="#6d6d6d" alpha="1.0" ratio="0.5254902"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="0.8352941"/>
+<GradientEntry color="#2b2a2a" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="21.15" ty="1.05" a="-0.03057861328125" d="-0.0021514892578125" b="9.307861328125E-4" c="3.0517578125E-4"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#999999" alpha="1.0" ratio="1.0"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#191919"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -47 34| 83 72| 968 34| 844 7"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 844 7| -47 34"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -47 34| 54 8| 744 -14| 844 7"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

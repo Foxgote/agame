@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1669" itemID="6b03b500-00000521" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1669" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0e0e0e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2860 2080| 2840 840| 2380 900| 1200 480| 760 -260[ -320 -660 -1300 80| -1400 860| -2600 1820| -2840 1860| -2560 2920[ -1980 4920 -680 6780[ 880 7100 2060 6280| 2320 5460[ 2800 3900 2860 2080"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<LinearGradient>
+<matrix>
+<Matrix tx="9.0" ty="142.0" a="0.186767578125" d="0.2288818359375" b="-0.0213623046875" c="0.02593994140625"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#000000" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2860 2080| 960 1440| 520 660| -660 800| -920 1660| -2560 2920"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#191919" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="11.0" ty="156.0" a="0.2239990234375" d="0.2447509765625" b="-0.025634765625" c="0.02777099609375"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#1c1c1c" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="3">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-33.0" ty="34.0" a="0.2252197265625" d="0.2459716796875" b="-0.025634765625" c="0.028076171875"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#1c1c1c" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0e0e0e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<LinearGradient>
+<matrix>
+<Matrix tx="4.0" ty="102.0" a="0.186767578125" d="0.30059814453125" b="-0.0213623046875" c="0.0341796875"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#000000" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -2600 1820| -2500 -380[ -2380 -1220 -1900 -1900[ -800 -2900 300 -2460[ 1380 -2040 1780 -840| 2380 900"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 2380 900| 2840 840| 2860 2080"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 2860 2080[ 2800 3900 2340 5460| 2060 6280[ 880 7100 -680 6780[ -1960 4920 -2560 2920"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! -2560 2920| -2840 1860| -2600 1820"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! -2600 1820| -1400 860| -1300 60[ -320 -660 760 -260| 1200 480| 2380 900"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! 2860 2080| 960 1440| 520 660| -640 800| -920 1660| -2560 2920"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 2120 2620| 2240 2620"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="3" edges="! -1640 4720| -540 4580| 1200 6460"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! -1800 3080| -1680 3060"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

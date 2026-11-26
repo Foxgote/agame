@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2746" itemID="6b03b580-000007e7" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2746" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#565447" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3b382f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 3800 420| 2260 960| 1140 1220| 420 1260| -2480 820| -3120 1000[ -3540 1200 -3440 740| -3440 -740[ -3540 -1200 -3120 -1000| -2480 -820| 420 -1260| 1140 -1220| 2260 -960| 3800 -420"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 3800 -420| 3880 -400[ 4140 -260 4140 0[ 4140 260 3880 400| 3800 420"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 3800 420[ 3960 260 3960 0[ 3960 -260 3800 -420"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 1140 1220| 1140 -1220"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 420 -1260| 420 1260"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#46433a" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#312e29"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -3440 740| -4120 740| -4120 -740| -3440 -740"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -3440 -740| -3440 740"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

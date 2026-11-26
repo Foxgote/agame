@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1604" itemID="6b03b500-000004ef" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1604" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-370.0" ty="249.0" a="0.67657470703125" d="0.712890625"/>
+</matrix>
+<GradientEntry color="#371e1e" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#3e2828" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#774d4d" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#150d0d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 2620 5400[ 3260 1320 2140 -940[ 1860 820 1040 1760[ 220 2700 -520 2300[ -1260 1880 -2340 120[ -2100 2880 -1180 5160| 680 4780| 2620 5400"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="-4.0" ty="92.0" a="0.0823974609375" d="0.2374267578125"/>
+</matrix>
+<GradientEntry color="#0d0d0d" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#1a1a1a" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-490.0" ty="372.0" a="0.84564208984375" d="0.89111328125"/>
+</matrix>
+<GradientEntry color="#371e1e" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#3e2828" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#774d4d" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0707"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 1340 -840[ 1400 -140 740 1140[ 380 1760 -40 1700[ -460 1620 -800 880[ -1360 -440 -960 -1240[ -680 -1860 300 -1720[ 1260 -1560 1340 -840"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 500 5720[ -580 5560 -980 4600[ -1060 3840 -1240 3220[ -1860 1320 -1860 -300| -1820 -700[ -1760 -1120 -1580 -1400[ -1200 -1960 -280 -2040[ 1260 -2160 1740 -640[ 2180 820 1860 4600[ 1580 5880 500 5720"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

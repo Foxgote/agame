@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3336" itemID="6b03b580-00000905" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3336">
+<layers>
+<DOMLayer name="Layer 1" color="#21bbe0" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="-7.5" a="0.0" d="0.0" b="0.0201416015625" c="-0.03662109375"/>
+</matrix>
+<GradientEntry color="#595959" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#333333" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="-0.05" ty="-4.65" a="0.0" d="0.0" b="-0.0030517578125" c="0.003448486328125"/>
+</matrix>
+<GradientEntry color="#666666" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#6a6a6a" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -160 -150| -600 -150| -452 98| -300 150| 300 150| 452 98| 600 -150| 160 -150"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 160 -150| 100 -37| -100 -37| -160 -150"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -160 -150| 160 -150"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

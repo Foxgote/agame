@@ -1,0 +1,408 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4051" itemID="6b03b580-000009e3" lastModified="1789282414" linkageClassName="pb2_re34_fla.new_active_463" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 4051">
+<layers>
+<DOMLayer name="Script Layer" color="#88bba1">
+<frames>
+<DOMFrame index="0" duration="26" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="26" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+this.visible = false;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#969ee6" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-28.2">
+<matrix>
+<Matrix tx="0.8" ty="-40.2"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-24.55">
+<matrix>
+<Matrix tx="0.8" ty="-36.55"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.08203125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-21.15">
+<matrix>
+<Matrix tx="0.8" ty="-33.15"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.16015625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-18.05">
+<matrix>
+<Matrix tx="0.8" ty="-30.05"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.23046875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-15.2">
+<matrix>
+<Matrix tx="0.8" ty="-27.2"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.29296875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-12.65">
+<matrix>
+<Matrix tx="0.8" ty="-24.65"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.3515625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="7" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-10.35">
+<matrix>
+<Matrix tx="0.8" ty="-22.35"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.40625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="8" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-8.3">
+<matrix>
+<Matrix tx="0.8" ty="-20.3"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.453125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="9" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-6.55">
+<matrix>
+<Matrix tx="0.8" ty="-18.55"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.4921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="10" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-5.1">
+<matrix>
+<Matrix tx="0.8" ty="-17.1"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.5234375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="11" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-3.85">
+<matrix>
+<Matrix tx="0.8" ty="-15.85"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.55078125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-2.9">
+<matrix>
+<Matrix tx="0.8" ty="-14.9"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.57421875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-2.25">
+<matrix>
+<Matrix tx="0.8" ty="-14.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.58984375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.85">
+<matrix>
+<Matrix tx="0.8" ty="-13.85"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.59765625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="15" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.6015625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.62890625" greenMultiplier="0.62890625" blueMultiplier="0.62890625" alphaMultiplier="0.6015625" redOffset="40" greenOffset="40" blueOffset="40"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="17" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.671875" greenMultiplier="0.671875" blueMultiplier="0.671875" alphaMultiplier="0.53515625" redOffset="36" greenOffset="36" blueOffset="36"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="18" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.7109375" greenMultiplier="0.7109375" blueMultiplier="0.7109375" alphaMultiplier="0.46875" redOffset="31" greenOffset="31" blueOffset="31"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.75390625" greenMultiplier="0.75390625" blueMultiplier="0.75390625" alphaMultiplier="0.40234375" redOffset="27" greenOffset="27" blueOffset="27"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.79296875" greenMultiplier="0.79296875" blueMultiplier="0.79296875" alphaMultiplier="0.3359375" redOffset="22" greenOffset="22" blueOffset="22"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="21" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.8359375" greenMultiplier="0.8359375" blueMultiplier="0.8359375" alphaMultiplier="0.265625" redOffset="18" greenOffset="18" blueOffset="18"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="22" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.875" greenMultiplier="0.875" blueMultiplier="0.875" alphaMultiplier="0.19921875" redOffset="13" greenOffset="13" blueOffset="13"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="23" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.91796875" greenMultiplier="0.91796875" blueMultiplier="0.91796875" alphaMultiplier="0.1328125" redOffset="9" greenOffset="9" blueOffset="9"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.95703125" greenMultiplier="0.95703125" blueMultiplier="0.95703125" alphaMultiplier="0.06640625" redOffset="4" greenOffset="4" blueOffset="4"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="25" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4050" blendMode="add" centerPoint3DX="16.8" centerPoint3DY="-1.7">
+<matrix>
+<Matrix tx="0.8" ty="-13.7"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="26" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

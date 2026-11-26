@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3338" itemID="6b03b580-00000906" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3338">
+<layers>
+<DOMLayer name="Layer 1" color="#9cecb0" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.75" ty="0.0" a="0.018310546875" d="0.054931640625"/>
+</matrix>
+<GradientEntry color="#333333" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#515151" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.75" ty="0.0" a="0.018310546875" d="0.054931640625"/>
+</matrix>
+<GradientEntry color="#444444" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#6f6f6f" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="3">
+<LinearGradient>
+<matrix>
+<Matrix tx="-9.25" ty="0.0" a="0.006103515625" d="0.048828125"/>
+</matrix>
+<GradientEntry color="#3c3c3c" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#666666" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 315 -650| 315 -900| -285 -900| -285 -800| -235 -750"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! -235 -750| -85 -600| -85 600| -235 750"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -235 750| -285 800| -285 900| 315 900| 315 650"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 315 650| 181 600| 181 400| 80 300| 80 -300| 181 -400| 181 -600| 315 -650"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 315 -650| 315 650"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -235 -750| -235 750"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

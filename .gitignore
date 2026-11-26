@@ -202,3 +202,7 @@ cmake-build*/
 
 # CMake related
 CMakeUserPresets.json
+
+# .NET build outputs
+**/obj/
+*.csproj.user

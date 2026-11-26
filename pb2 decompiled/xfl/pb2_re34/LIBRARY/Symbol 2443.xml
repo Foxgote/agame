@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2443" itemID="6b03b580-00000706" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2443" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="209.0" ty="-175.0" a="0.06622314453125" d="0.06622314453125"/>
+</matrix>
+<GradientEntry color="#e9c3f2" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#d5b2dd" alpha="0.043137256" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 4820 -4160| 4280 -4360| 3760 -4620| 3460 -4700| 2960 -4580| 3400 -3660[ 3880 -2600 3820 -2440| 4060 -2420| 4340 -2480| 4600 -2500| 5520 -2280| 5280 -4440| 5080 -4360| 4820 -4160"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

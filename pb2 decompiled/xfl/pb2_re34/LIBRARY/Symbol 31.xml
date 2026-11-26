@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 31" itemID="6b03b500-00000286" lastModified="1789282414" linkageClassName="pb2_re34_fla.intro_specular_9" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 31">
+<layers>
+<DOMLayer name="Script Layer" color="#f21cc9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<Actionscript>
+<script>MovieClip(root).register_specular(this);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#908283" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.04547119140625" d="0.04547119140625"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#ffffff" alpha="0.5019608" ratio="0.13725491"/>
+<GradientEntry color="#ffffff" alpha="0.101960786" ratio="0.52156866"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 523 -524[ 740 -307 740 0[ 740 307 523 523[ 307 740 0 740[ -307 740 -524 523[ -740 307 -740 0[ -740 -307 -524 -524[ -307 -740 0 -740[ 307 -740 523 -524"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 600" itemID="6b03b500-0000029a" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 600">
+<layers>
+<DOMLayer name="Layer 1" color="#5ac970" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="3.0" scaleMode="normal" caps="none" joints="bevel">
+<fill>
+<SolidColor color="#63623b" alpha="0.4392157"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -210 -205[ -241 -167 -279 -102"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -105 -127| -170 -32"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 193 206[ 229 157 280 126"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 243 69[ 182 106 137 169"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -14 -56| -72 30"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3153" itemID="6b03b580-000008b8" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3153" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#81a8d4" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2460 940[ 2060 1340 1500 1340[ 940 1340 540 940[ 140 540 140 -20[ 140 -580 540 -980[ 940 -1380 1500 -1380[ 2060 -1380 2460 -980[ 2860 -580 2860 -20[ 2860 540 2460 940"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#81a8d4" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -1320 540[ -1560 800 -1900 800[ -2240 800 -2500 540[ -2740 300 -2740 -40[ -2740 -380 -2500 -640[ -2240 -880 -1900 -880[ -1560 -880 -1320 -640[ -1060 -380 -1060 -40[ -1060 300 -1320 540"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="70.0" scaleMode="normal">
+<fill>
+<SolidColor color="#81a8d4"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2920 -2920[ 4140 -1700 4140 0[ 4140 1080 3660 1960[ 3380 2480 2920 2940[ 1720 4140 0 4140[ -1720 4140 -2920 2940[ -3380 2480 -3660 1960[ -4140 1080 -4140 0[ -4140 -1700 -2920 -2920[ -1720 -4120 0 -4120[ 1720 -4120 2920 -2920"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

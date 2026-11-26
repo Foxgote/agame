@@ -1,0 +1,102 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1917" itemID="6b03b500-000005c4" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1917">
+<layers>
+<DOMLayer name="Layer 1" color="#809fb9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1916" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#9fb5bc" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#808080"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#4d4d4d"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#3f3f3f"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#6d6d6d"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 219 270| 219 266| 219 262| 217 222| 218 216"/>
+<Edge fillStyle0="2" fillStyle1="4" strokeStyle="0" edges="! 218 216| 166 249"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! 166 249| 195 277| 218 274| 218 269| 219 270"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 219 270| 220 272| 230 289"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 230 289| 230 290| 222 318[ 211 336 210 345[ 207 352 212 370[ 218 388 207 395| 174 420[ 155 436 140 437| 105 432"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 105 432| 67 417[ 55 414 45 405[ 39 398 35 384"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="0" edges="! 35 384[ 30 371 28 350[ 25 347 25 340[ 27 313 15 271"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 15 271| 0 227| 8 215| 18 205| 16 187| 14 178"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 14 178| 13 172| 12 159| 13 147| 20 123"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 20 123[ 30 91 50 55[ 58 53 64 43| 75 27| 100 22| 117 21"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 117 21| 192 20"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 192 20[ 218 14 227 27[ 239 39 235 65| 227 147| 222 172| 222 173| 221 176"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="0" edges="! 221 176| 221 177| 218 216"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 99 87| 163 87| 192 20"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 144 161| 92 113| 99 87"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! 99 87| 117 21"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 14 178| 55 205| 69 226"/>
+<Edge fillStyle0="3" fillStyle1="4" strokeStyle="0" edges="! 69 226| 83 246| 83 310| 62 310| 56 327"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="0" edges="! 56 327| 94 360| 145 387"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 145 387| 145 329| 188 329| 230 289"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 144 184| 144 161"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="0" edges="! 144 161| 69 161| 20 123"/>
+<Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 221 176| 180 163| 144 184"/>
+<Edge fillStyle0="4" fillStyle1="3" strokeStyle="0" edges="! 144 184| 144 208| 166 249"/>
+<Edge fillStyle0="4" fillStyle1="1" strokeStyle="0" edges="! 69 226| 48 288| 15 271"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 105 432| 145 387"/>
+<Edge fillStyle0="2" fillStyle1="4" strokeStyle="0" edges="! 56 327| 35 384"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#2fc5ab" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 1914.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.902099609375" d="0.902099609375"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 0 0| 462 0| 462 462| 0 462| 0 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

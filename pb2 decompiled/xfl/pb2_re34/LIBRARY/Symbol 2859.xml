@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2859" itemID="6b03b580-00000823" lastModified="1789282414" linkageClassName="incompetence_glhf2" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2859">
+<layers>
+<DOMLayer name="Script Layer" color="#f98a73">
+<frames>
+<DOMFrame index="0" duration="13" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#eaefaf">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2769" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-33.5" ty="-0.8" a="0.07269744575023651" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2769" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-45.05" ty="-0.15" a="0.08865127712488174" d="0.030258942395448685"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" duration="10" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#fca2f6">
+<frames>
+<DOMFrame index="0" duration="14" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2858" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3510" itemID="6b03b580-0000094a" lastModified="1789282414" linkageClassName="shop_tit" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3510">
+<layers>
+<DOMLayer name="Layer 1" color="#e7fd76">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt5" antiAliasSharpness="0" antiAliasThickness="0" width="128.05" height="10.45" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="467.1" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Upgrade Price: $3000</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" lineSpacing="0.0" rightMargin="5.0" autoKern="false" size="9.7" bitmapSize="194" face="DejaVu Sans Mono" fillColor="#666666" alpha="1.0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#e4baa4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt4" antiAliasSharpness="0" antiAliasThickness="0" width="120.0" height="10.45" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="340.1" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Item Price: $3000</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" lineSpacing="0.0" rightMargin="5.0" autoKern="false" size="9.7" bitmapSize="194" face="DejaVu Sans Mono" fillColor="#666666" alpha="1.0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c25371">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt3" antiAliasSharpness="0" antiAliasThickness="0" width="114.15" height="10.45" renderAsHTML="true" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="220.95" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>W</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>G</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#83ec7d"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>R</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#e63d40"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#eaac55">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt2" antiAliasSharpness="0" antiAliasThickness="0" width="124.44999999999999" height="10.45" renderAsHTML="true" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="94.5" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>W</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>G</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#83ec7d"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>R</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="10" bitmapSize="200" face="DejaVu Sans Mono" fillColor="#e63d40"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#c0b82b" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="195.0" height="14.0" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="-191.0" ty="-7.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Rifle</characters>
+<textAttrs>
+<DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="5.0" lineSpacing="0.0" rightMargin="5.0" autoKern="false" size="9.7" bitmapSize="194" face="DejaVu Sans Mono" fillColor="#ffffff" alpha="1.0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

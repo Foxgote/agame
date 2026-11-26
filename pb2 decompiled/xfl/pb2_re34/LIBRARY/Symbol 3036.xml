@@ -1,0 +1,122 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3036" itemID="6b03b580-00000874" lastModified="1789282414" linkageClassName="explosion_fire" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3036">
+<layers>
+<DOMLayer name="Script Layer" color="#da7548">
+<frames>
+<DOMFrame index="0" duration="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+this.visible = false;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#a4b9ca">
+<frames>
+<DOMFrame index="0" duration="26" keyMode="17922" tweenType="shape" acceleration="0">
+<morphHintsList>
+<MorphHint startPoint="#FFFFF6.D4, #FFFFF6.D4" endPoint="#FFFFFA.C0, #FFFFFA.C0" key="0"/>
+<MorphHint startPoint="#0.00, #FFFFF3.08" endPoint="#0.00, #FFFFF8.94" key="1"/>
+<MorphHint startPoint="#9.2B, #FFFFF6.D4" endPoint="#5.3F, #FFFFFA.C0" key="2"/>
+<MorphHint startPoint="#C.F8, #0.00" endPoint="#7.6C, #0.00" key="3"/>
+<MorphHint startPoint="#9.2B, #9.2B" endPoint="#5.3F, #5.3F" key="4"/>
+<MorphHint startPoint="#0.00, #C.F8" endPoint="#0.00, #7.6C" key="5"/>
+<MorphHint startPoint="#FFFFF6.D4, #9.2B" endPoint="#FFFFFA.C0, #5.3F" key="6"/>
+<MorphHint startPoint="#FFFFF3.08, #0.00" endPoint="#FFFFF8.94, #0.00" key="7"/>
+</morphHintsList>
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.20526123046875" d="0.20526123046875"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.1254902"/>
+<GradientEntry color="#ffffff" alpha="0.3529412" ratio="0.40784314"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! -2348 -2348[ -1375 -3320 0 -3320[ 1375 -3320 2347 -2348[ 3320 -1375 3320 0[ 3320 1375 2347 2347[ 1375 3320 0 3320[ -1375 3320 -2348 2347[ -3320 1375 -3320 0[ -3320 -1375 -2348 -2348"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="26" keyMode="9728">
+<elements>
+<DOMShape>
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.1174774169921875" d="0.1174774169921875"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="0.0"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="0.58431375"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="0.0">
+<fill>
+<SolidColor color="#000000" alpha="0.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle1="1" strokeStyle="1" edges="! -1344 -1344[ -787 -1900 0 -1900[ 787 -1900 1343 -1344[ 1900 -787 1900 0[ 1900 787 1343 1343[ 787 1900 0 1900[ -787 1900 -1344 1343[ -1900 787 -1900 0[ -1900 -787 -1344 -1344"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#df4e56" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="27" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2955" name="expl" blendMode="add" centerPoint3DX="-31.3" centerPoint3DY="-25.0">
+<matrix>
+<Matrix tx="-131.3" ty="-97.5" a="1.3359375" d="1.3359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<AdjustColorFilter brightness="0" contrast="0" saturation="0" hue="0"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

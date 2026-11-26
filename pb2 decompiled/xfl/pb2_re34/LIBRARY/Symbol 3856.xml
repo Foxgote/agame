@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3856" itemID="6b03b580-000009b4" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3856">
+<layers>
+<DOMLayer name="Layer 1" color="#c6917a" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3624" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="415.65" ty="120.8" a="3.9326324462890625" d="5.3127899169921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#75ab66" parentLayerIndex="0" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3486" name="ch0" centerPoint3DX="368.0" centerPoint3DY="15.5">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

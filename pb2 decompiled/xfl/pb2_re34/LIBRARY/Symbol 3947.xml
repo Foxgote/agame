@@ -1,0 +1,1353 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3947" itemID="6b03b580-000009c1" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3947">
+<layers>
+<DOMLayer name="Layer 1" color="#b9b9c1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3946" name="black1v1" centerPoint3DX="507.75" centerPoint3DY="138.0">
+<matrix>
+<Matrix tx="296.05" ty="128.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#80f03c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="279" height="277" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="409.6" ty="102.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>1V1</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#782aec">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gtype4" centerPoint3DX="465.45" centerPoint3DY="118.15">
+<matrix>
+<Matrix tx="440.3" ty="109.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#c3d7f3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="843" height="254" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="619.15" ty="160.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Approved Maps</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="10.75" bitmapSize="215" letterSpacing="0" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#98bb66">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3925" name="app_mapidget" symbolType="button">
+<matrix>
+<Matrix tx="689.65" ty="165.4" a="2.019989013671875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#9580c9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="213" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="673.9" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>32</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="13" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#a19ae5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax32" centerPoint3DX="730.85" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="705.7" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#abca1d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="212" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="620.95" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>24</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="13" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#a7f086">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax24" centerPoint3DX="677.9" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="652.75" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#aeb29b">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="physics_help" antiAliasSharpness="0" antiAliasThickness="0" width="39.15" height="16.3" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="618.55" ty="100.7"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>(?)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" letterSpacing="1.0" lineSpacing="0.0" rightMargin="5.0" size="14" bitmapSize="280" face="DejaVu Sans Mono Bold" fillColor="#999999"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#f082cf">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="code_help" antiAliasSharpness="0" antiAliasThickness="0" width="39.15" height="16.3" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="618.55" ty="71.7"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>(?)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" letterSpacing="1.0" lineSpacing="0.0" rightMargin="5.0" size="14" bitmapSize="280" face="DejaVu Sans Mono Bold" fillColor="#999999"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#41dbdc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="phyfaq" centerPoint3DX="659.8" centerPoint3DY="118.15" isVisible="false">
+<matrix>
+<Matrix tx="634.65" ty="109.0" a="0.5" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 13" color="#e146a4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="codefaq" centerPoint3DX="659.8" centerPoint3DY="90.15" isVisible="false">
+<matrix>
+<Matrix tx="634.65" ty="81.0" a="0.5" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 14" color="#884ad7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3778" name="codeold" centerPoint3DX="611.75" centerPoint3DY="90.25">
+<matrix>
+<Matrix tx="601.0" ty="81.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 15" color="#e3d96d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="111.55" antiAliasSharpness="0" antiAliasThickness="0" width="1228" height="286" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="337.75" ty="74.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters> Classic Netcode:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="11" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 16" color="#ec4fdb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt4" antiAliasSharpness="0" antiAliasThickness="0" width="86.0" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="615.3" ty="214.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 17" color="#fb4dcb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server4" centerPoint3DX="703.6" centerPoint3DY="230.65">
+<matrix>
+<Matrix tx="678.45" ty="221.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 18" color="#c13afb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt5" antiAliasSharpness="0" antiAliasThickness="0" width="86.0" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="615.3" ty="242.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 19" color="#5ec0bd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server5" centerPoint3DX="703.6" centerPoint3DY="258.65">
+<matrix>
+<Matrix tx="678.45" ty="249.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 20" color="#63d19a">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt2" antiAliasSharpness="0" antiAliasThickness="0" width="87.0" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="505.0" ty="214.5" a="0.9886322021484375" d="1.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 21" color="#c8b00c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server2" centerPoint3DX="593.3" centerPoint3DY="230.65">
+<matrix>
+<Matrix tx="568.15" ty="221.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 22" color="#b243f4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt3" antiAliasSharpness="0" antiAliasThickness="0" width="86.0" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="505.0" ty="242.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 23" color="#8f4dd8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server3" centerPoint3DX="593.3" centerPoint3DY="258.65">
+<matrix>
+<Matrix tx="568.15" ty="249.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 24" color="#0bf2d4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt1" antiAliasSharpness="0" antiAliasThickness="0" width="86.0" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="395.9" ty="242.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 25" color="#2da0f6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="servertxt0" antiAliasSharpness="0" antiAliasThickness="0" width="87.0" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="395.9" ty="214.5" a="0.9886322021484375" d="1.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>\</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 26" color="#fcc57d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server1" centerPoint3DX="484.2" centerPoint3DY="258.65">
+<matrix>
+<Matrix tx="459.05" ty="249.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 27" color="#e9c6f2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="server0" centerPoint3DX="484.2" centerPoint3DY="230.65">
+<matrix>
+<Matrix tx="459.05" ty="221.5" a="1.79998779296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 28" color="#6786ba">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="64.6" antiAliasSharpness="0" antiAliasThickness="0" width="1666" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="332.4" ty="186.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>MATCH SERVER LOCATION:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="72" lineSpacing="0" rightMargin="0" fillColor="#f8f6f8" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 29" color="#dbbc42">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3778" name="phyold" centerPoint3DX="611.75" centerPoint3DY="118.25">
+<matrix>
+<Matrix tx="601.0" ty="109.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 30" color="#e6b960">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="116.15" antiAliasSharpness="0" antiAliasThickness="0" width="1228" height="294" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="337.75" ty="102.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters> Classic Physics:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="6" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 31" color="#cb26c6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="gm_mods" antiAliasSharpness="0" antiAliasThickness="0" width="126.0" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="244.7" ty="242.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="12" bitmapSize="240" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 32" color="#cd8636">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="5580" height="865" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="118.95" ty="268.2"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Only Approved Maps can be </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="2" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Ranked</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#6699ff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>. | Approved Rank Matches Ping Limit : </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>250ms</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#6699ff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;Ranked Matches</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="2" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ff0000" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>have</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ff0000" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Ping Limit </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#6699ff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>and </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>NO Match Owner</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#6699ff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>.   </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;Guest's Lobby Chat/Gameplay Chat function is </characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="2" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Disabled</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ff0000" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>.</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 33" color="#95db37">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="206" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="567.7" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>16</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="13" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 34" color="#89ccdc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax16" centerPoint3DX="624.65" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="599.5" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 35" color="#fd8ca9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="290" height="277" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="355.55" ty="102.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>TDM</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 36" color="#f5cf41">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gtype3" centerPoint3DX="411.4" centerPoint3DY="118.15">
+<matrix>
+<Matrix tx="386.25" ty="109.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 37" color="#88d7a3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="265" height="271" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="565.9" ty="158.4"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>...</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="10" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 38" color="#c5f5f3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3925" name="mapidget" symbolType="button">
+<matrix>
+<Matrix tx="599.0" ty="165.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 39" color="#7ce353">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="481" height="229" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="431.4" ty="331.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Cancel</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="64" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 40" color="#af41c4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="gcancel" symbolType="button">
+<matrix>
+<Matrix tx="428.0" ty="328.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 41" color="#33e57d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1302" height="227" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="189.4" ty="331.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Start New Match</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="23" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 42" color="#e2fb4b">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="gnew" symbolType="button">
+<matrix>
+<Matrix tx="186.0" ty="328.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 43" color="#da63d7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="141" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="514.7" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>8</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 44" color="#e816d5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax8" centerPoint3DX="571.65" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="546.5" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 45" color="#bdf8e3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="gfps" antiAliasSharpness="0" antiAliasThickness="0" width="126.0" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="245.25" ty="214.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>5000</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 46" color="#e66aa8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="gatt" antiAliasSharpness="0" antiAliasThickness="0" width="126.0" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="245.25" ty="186.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="12" bitmapSize="240" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<BlurFilter blurX="0" blurY="0" quality="3"/>
+<GlowFilter blurX="0" blurY="0" color="#ffffff" quality="1" strength="0"/>
+</filters>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 47" color="#f42dd7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="gmap" antiAliasSharpness="0" antiAliasThickness="0" width="310.5" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="245.25" ty="158.4"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>random approved in rotation</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 48" color="#b914e7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="140" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="461.7" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>6</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 49" color="#94ee14">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax6" centerPoint3DX="518.65" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="493.5" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 50" color="#d0a096">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="140" height="277" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="408.5" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>5</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 51" color="#8ec1e5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="142" height="277" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="355.6" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>4</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="16" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 52" color="#f2ffea">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax5" centerPoint3DX="465.45" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="440.3" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 53" color="#85ef5a">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax4" centerPoint3DX="411.45" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="386.3" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 54" color="#b49146">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="140" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="300.6" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>3</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 55" color="#62e6e0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="139" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="248.2" ty="130.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>2</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0" indent="0" leftMargin="16" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 56" color="#bf816d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax3" centerPoint3DX="357.4" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="332.25" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 57" color="#f0aa69">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gmax2" centerPoint3DX="304.05" centerPoint3DY="146.15">
+<matrix>
+<Matrix tx="278.9" ty="137.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 58" color="#92f7cd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="358" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="300.6" ty="102.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>COOP</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="6" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 59" color="#602df4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="213" height="277" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="248.2" ty="102.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>DM</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="13" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 60" color="#9fe70e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gtype2" centerPoint3DX="357.4" centerPoint3DY="118.15">
+<matrix>
+<Matrix tx="332.25" ty="109.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 61" color="#f43bed">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3693" name="gtype1" centerPoint3DX="304.05" centerPoint3DY="118.15">
+<matrix>
+<Matrix tx="278.9" ty="109.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 62" color="#df24f2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="71.9" antiAliasSharpness="0" antiAliasThickness="0" width="1737" height="4200" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-9.9" ty="46.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>GAME TITLE:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="94" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;RANKED:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="123" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;GAME TYPE:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="101" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;MAX PLAYERS:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="87" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;MAP ID:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="123" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;JOIN PASSWORD:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="72" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;SERVER PING LIMIT:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="43" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;GAMEPLAY MODIFICATIONS:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="7" lineSpacing="14" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 63" color="#9d51c8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="gtitle" antiAliasSharpness="0" antiAliasThickness="0" width="363.5" height="14.0" renderAsHTML="true">
+<matrix>
+<Matrix tx="244.65" ty="46.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Error happened in game?</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 64" color="#64c7fd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3778" name="gjoin1" centerPoint3DX="262.85" centerPoint3DY="90.25">
+<matrix>
+<Matrix tx="252.1" ty="81.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 65" color="#96d2d6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3912" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

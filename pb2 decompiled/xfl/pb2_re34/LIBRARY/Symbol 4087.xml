@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4087" itemID="6b03b580-000009f2" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4087">
+<layers>
+<DOMLayer name="Layer 1" color="#d46cbb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4065" name="en" centerPoint3DX="158.0" centerPoint3DY="11.0">
+<matrix>
+<Matrix tx="58.0" ty="9.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.96875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#f6c046">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4065" centerPoint3DX="158.0" centerPoint3DY="11.0">
+<matrix>
+<Matrix tx="58.0" ty="9.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#79c693">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText fontRenderingMode="customThicknessSharpness" name="en_txt" antiAliasSharpness="0" antiAliasThickness="56" width="33.5" height="10.05" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="259.5" ty="5.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>100</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" letterSpacing="1.0" lineSpacing="2.05" rightMargin="0.0" size="8" bitmapSize="160" face="EuropeExt Regular" fillColor="#99caff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#ee83dc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" fontRenderingMode="customThicknessSharpness" antiAliasSharpness="0" antiAliasThickness="56" width="433" height="223" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="5.55" ty="5.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Energy</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="9.2" bitmapSize="184" letterSpacing="1" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#99caff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#a33abf" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="0.4"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 5790 0| 890 0| 0 0| 0 400| 5920 400| 5920 0| 5790 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

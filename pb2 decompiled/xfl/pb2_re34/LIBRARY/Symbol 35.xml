@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 35" itemID="6b03b500-00000288" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 35">
+<layers>
+<DOMLayer name="Layer 1" color="#f161d9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 31" blendMode="overlay" centerPoint3DX="-29.0" centerPoint3DY="80.95">
+<matrix>
+<Matrix tx="-66.0" ty="43.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#fbb7bb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="124.5" centerPoint3DY="65.0">
+<matrix>
+<Matrix tx="15.0" ty="28.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#ab72eb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="118.5" centerPoint3DY="72.0">
+<matrix>
+<Matrix tx="9.0" ty="35.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#e3c645">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="122.5" centerPoint3DY="18.0">
+<matrix>
+<Matrix tx="13.0" ty="-19.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#88f25d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 24" blendMode="overlay" centerPoint3DX="142.5" centerPoint3DY="6.95">
+<matrix>
+<Matrix tx="33.0" ty="-30.05"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#a64f9d" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 33.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-103.0" ty="-84.5" a="20.0" d="20.0"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -2060 -1690| 1140 -1690| 1140 1690| -2060 1690| -2060 -1690"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3756" itemID="6b03b580-000009a7" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3756">
+<layers>
+<DOMLayer name="Layer 1" color="#b475f8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3755" name="connect_dots" centerPoint3DX="473.25" centerPoint3DY="189.25">
+<matrix>
+<Matrix tx="389.05" ty="186.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#c2a9dd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" fontRenderingMode="standard" width="3979" height="276" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="2.0" ty="335.95"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>You can disable "AUTO-LOGIN" at Settings &amp; Performance</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="201" lineSpacing="0" rightMargin="0" fillColor="#333333" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#a2dd45">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="481" height="229" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="18.8" ty="367.3"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Cancel</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="64" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#c9f640">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="login_cancel" symbolType="button">
+<matrix>
+<Matrix tx="16.6" ty="364.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#ebad1e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText fontRenderingMode="standard" name="txt" width="793.95" height="14.0" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="2.0" ty="202.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Connecting</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" lineSpacing="0.0" rightMargin="5.0" autoKern="false" size="12.9" bitmapSize="258" face="DejaVu Sans Mono" fillColor="#ffffff" alpha="1.0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#fecc10" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3624" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="394.3" ty="239.65" a="3.703704833984375" d="8.139541625976562"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#f9318d" parentLayerIndex="5" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3588" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

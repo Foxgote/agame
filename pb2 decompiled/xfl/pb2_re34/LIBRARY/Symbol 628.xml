@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 628" itemID="6b03b500-000002a7" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 628">
+<layers>
+<DOMLayer name="Layer 1" color="#c68fcc" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="7.32421875E-4" d="7.32421875E-4"/>
+</matrix>
+<GradientEntry color="#2c3225" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#4d5544" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="0.8" scaleMode="normal" joints="bevel">
+<fill>
+<SolidColor color="#d71414"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 9 0| 6 6| 0 9| -7 6| -9 0| -7 -7| 0 -9| 6 -7| 9 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

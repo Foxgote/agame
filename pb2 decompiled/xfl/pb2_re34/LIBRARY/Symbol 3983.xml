@@ -1,0 +1,710 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3983" itemID="6b03b580-000009c8" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3983">
+<layers>
+<DOMLayer name="Layer 1" color="#cbaa22">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="156" height="199" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="493.0" ty="204.05" a="0.0" d="0.0" b="1.5012054443359375" c="-1.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>▼</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="23.9" bitmapSize="478" letterSpacing="0" indent="0" leftMargin="3" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="Arial Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#a49f59">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3848" name="chat_send" symbolType="button">
+<matrix>
+<Matrix tx="499.45" ty="201.35" a="0.0" d="0.0" b="1.5012054443359375" c="-1.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f89d96">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMInputText name="chatinput" antiAliasSharpness="0" antiAliasThickness="0" width="422.35" height="25.3" renderAsHTML="true" maxCharacters="100">
+<matrix>
+<Matrix tx="7.7" ty="203.8" a="1.083343505859375" d="1.08331298828125"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="10" bitmapSize="200" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMInputText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#e2f755">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3981" name="chatinput_glow" centerPoint3DX="253.7" centerPoint3DY="196.55" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="22.05" ty="181.05" a="1.077056884765625" d="1.10516357421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#8ca95d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="onlinelist" antiAliasSharpness="0" antiAliasThickness="0" width="105.35" height="210.95" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-106.1" ty="20.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Loading....</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#a2e267">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="-185" antiAliasSharpness="0" antiAliasThickness="0" width="557" height="246" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="319.75" ty="246.8" a="1.083343505859375" d="1.08331298828125"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Cancel</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="63" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="Europe Ext Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#8423ef">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="-163.55" antiAliasSharpness="0" antiAliasThickness="0" width="2130" height="297" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="52.3" ty="-14.4" a="1.083343505859375" d="1.08331298828125"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Plazma Burst 2 Lobby Chat</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="227" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="Europe Ext Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#a396da">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="865" height="243" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-92.6" ty="7.2"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Online Players:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="9.7" bitmapSize="194" letterSpacing="-0.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" alpha="0.9019608" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#ff00ff" quality="1" strength="1"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#00ccc8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="chatmessages" antiAliasSharpness="0" antiAliasThickness="0" width="453.15" height="168.0" renderAsHTML="true" lineType="multiline">
+<matrix>
+<Matrix tx="6.9" ty="7.6" a="1.083343505859375" d="1.08331298828125"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>Lin : Friends and Lobby Chat features? Coming soon... :P</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#adc16e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="0.9019608"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ffffff" alpha="0.29803923"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 10034 91| 11629 91"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 10034 91| 10034 3883| 68 3883| 68 91| 10034 91"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -2144 91| 56 91"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#dd19cc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="71.8" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-21.6" ty="252.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- Muted</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#b5ad74">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="8.6" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-31.6" ty="252.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>■</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#7b7b7b"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 13" color="#adc239">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="8.6" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-106.1" ty="238.8"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>■</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#da0e0e"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 14" color="#b4a4d3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="71.8" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-96.1" ty="238.8"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- PB2 Staff</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 15" color="#f9a24e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="52.75" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-96.1" ty="252.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- Friends</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 16" color="#61c6e9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="8.6" height="14.149999999999999" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-106.1" ty="252.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>■</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#00ff00"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 17" color="#7b987c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="81.35" height="26.2" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="501.0" ty="211.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Click to join </characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#00ffff" url="https://discord.gg/plazmaburst" target="_blank"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>our Discord</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#00ffff" url="https://discord.gg/plazmaburst" target="_blank"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="10" blurY="10" color="#0066ff" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 18" color="#cb6bdc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="63.400000000000006" height="15.350000000000001" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="508.6" ty="7.2"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Rules:</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffff00"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#ff0000" quality="1" strength="1"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 19" color="#67819f">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="81.35" height="56.0" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="501.0" ty="144.5"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Upon violation of </characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="7" bitmapSize="140" face="DejaVu Sans Mono Bold" fillColor="#ff0000"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="1.5"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 20" color="#6ec98d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="81.5" height="122.7" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="503.7" ty="21.65"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>*No spamming</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#00ff00"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>*No links </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#00ff00"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 21" color="#6457fa">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_close3" symbolType="button">
+<matrix>
+<Matrix tx="117.15" ty="244.65" a="1.083343505859375" d="1.08331298828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 22" color="#aed88d" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#0e2236" alpha="0.8"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#000000" alpha="0.9019608"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="1.0">
+<fill>
+<SolidColor color="#ffffff" alpha="0.3019608"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke scaleMode="normal" weight="1.0">
+<fill>
+<SolidColor color="#d2d2d2" alpha="0.3019608"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke scaleMode="normal" weight="1.0">
+<fill>
+<SolidColor color="#ffffff" alpha="0.29803923"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 11858 -3| 11858 5445| -2542 5445| -2542 -407| 11858 -407| 11858 -249| 11858 -3"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 10034 3883| 10028 3883"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 10028 3883| 10028 3980"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="3" edges="! 10028 3980| 10034 3980"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="3" edges="! 10034 3980| 10034 3883| 10034 91"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 10034 91| 68 91"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 68 91| 68 3883"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 68 3883| 10028 3883"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="3" edges="! 10034 3980| 10034 4681"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="! 10034 4681| 11629 4681| 11629 91"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="3" edges="! 68 4681| 68 3980"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 68 3980| 68 3883"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="3" edges="! 10034 4681| 68 4681"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="3" edges="! 68 4681| -2146 4681"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -2146 4681| -2147 4681"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -2147 4681| -2147 4679| -2147 4024| -2147 4002| -2147 3980"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -2147 3980| -2146 3955| -2146 3930| -2146 3908| -2146 3886"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! -2146 3886| -2146 3866| -2145 91"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -2145 91| 68 91"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="3" edges="! 68 3980| 10028 3980"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! -2146 3980| -2147 4002"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -2146 3980| -2145 3980| -2146 3886"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -2147 3980| -2146 3980"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -2146 3980| -2146 3955"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

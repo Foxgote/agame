@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2695" itemID="6b03b580-000007c4" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2695" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="888.0" ty="10.0" a="0.31402587890625" d="0.1153564453125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.1764706"/>
+<GradientEntry color="#ff1111" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 18160 -1720[ 20260 -1720 21760 -1140[ 23240 -580 23240 240[ 23240 1020 21760 1600[ 20260 2160 18160 2160| 17820 2160| 17480 2160[ 15360 2160 13880 1600[ 12380 1020 12400 240[ 12380 -580 13880 -1140[ 15360 -1720 17480 -1720| 17820 -1700| 18160 -1720"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="779.0" ty="9.0" a="0.2301025390625" d="0.19012451171875"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.1764706"/>
+<GradientEntry color="#ff1111" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 15640 -2960| 15880 -2980[ 17420 -2980 18520 -2040[ 19600 -1100 19600 220[ 19600 1540 18520 2480[ 17420 3420 15880 3420| 15640 3400| 15380 3420[ 13820 3420 12740 2480[ 11640 1540 11660 220[ 11640 -1100 12740 -2040[ 13820 -2980 15380 -2980| 15640 -2960"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

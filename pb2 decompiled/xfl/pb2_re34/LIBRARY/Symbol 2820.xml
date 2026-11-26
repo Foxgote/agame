@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2820" itemID="6b03b580-0000080f" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2820" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="43.45" ty="-1.15" a="0.0" d="0.0" b="0.0013580322265625" c="-0.07635498046875"/>
+</matrix>
+<GradientEntry color="#ff4343" alpha="0.49803922" ratio="0.0"/>
+<GradientEntry color="#ff0000" alpha="0.14901961" ratio="0.42352942"/>
+<GradientEntry color="#ff0000" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 689 -47| 869 -48[ 1382 -48 1742 -40| 2111 -23| 1742 -5[ 1382 2 869 2| 689 2| 671 2| 671 -47| 689 -47"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

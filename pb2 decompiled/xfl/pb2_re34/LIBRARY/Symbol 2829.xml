@@ -1,0 +1,308 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2829" itemID="6b03b580-00000812" lastModified="1789282414" linkageClassName="lazyrain_alien_laser_rifle" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2829">
+<layers>
+<DOMLayer name="Script Layer" color="#8d41b9">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<Actionscript>
+<script>--this.bullets;
+this.fire_tim = 60;
+this.ready = true;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="3" duration="26" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#7fe72c">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" duration="27" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2819" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#d1b94a">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" duration="27" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2820" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#78d44f">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2821" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#e69bcb">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#0a7be6" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1a2553"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 261 -11| 178 -27| 220 -109| 550 -109| 493 -11| 261 -11"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#26d6de">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ab824d" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#4a4628" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#cfb666" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#949494" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="5">
+<SolidColor color="#2d2d2d" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4a4628"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#4d4832"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#64583a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#72593b"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 34 -9| 35 -12| 39 -14| 42 -12| 44 -9| 42 -6| 39 -4| 35 -6| 34 -9"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 77 -6| 76 -9| 77 -12| 80 -14| 84 -12| 85 -9| 84 -6| 80 -4| 77 -6"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 220 -109| 72 -109| 48 -69| -77 -69"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! -77 -69| -97 -45| -207 -45| -251 -93"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -251 -93| -317 -93"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="4" edges="! -317 -93| -282 26"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="1" edges="! -282 26[ -262 9 -221 9| -148 56"/>
+<Edge fillStyle0="3" fillStyle1="5" strokeStyle="1" edges="! -148 56| -79 56"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! -79 56| -2 56"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="4" edges="! -2 56| 67 56"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="1" edges="! 67 56[ 135 50 134 110| 226 110| 238 99"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 238 99| 280 57| 349 57"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 349 57| 313 -4"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! 313 -4| 309 -11| 261 -11| 178 -27| 220 -109"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 313 -4| 313 -5| 347 -5"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 347 -5| 343 -11| 362 -11| 366 -4"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 366 -4| 366 -5| 400 -5"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 400 -5| 396 -11| 416 -11| 420 -5"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 420 -5| 453 -5| 462 10"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 462 10| 450 -11| 493 -11| 550 -109"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 550 -109| 609 -109| 632 -95| 632 -68"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 632 -68| 666 -68| 667 35| 610 35"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 610 35| 609 37"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 609 37| 598 55"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="0" edges="! 598 55| 597 57"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 597 57| 533 57"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 533 57| 492 98| 238 99"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 443 37| 419 -4| 419 -5| 420 -5"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 610 35| 632 -3| 632 -68"/>
+<Edge fillStyle0="4" fillStyle1="0" strokeStyle="0" edges="! 543 96| 544 96| 543 95| 543 96"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 462 10| 471 25| 480 40| 490 57"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 490 57| 533 57"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="0" edges="! 490 57| 492 61| 458 61| 456 57"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 456 57| 436 57"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="0" edges="! 436 57| 438 61| 404 61| 402 57"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 402 57| 383 57"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="0" edges="! 383 57| 386 62| 352 62| 349 57"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="! 349 57| 383 57"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! 383 57| 383 56| 373 40| 363 23| 359 16| 347 -5"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="1" edges="! 456 57| 490 57"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 400 -5| 411 15| 415 21| 425 38| 435 55| 436 57"/>
+<Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="! 436 57| 402 57"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="0" edges="! 402 57| 401 55| 366 -4"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! 455 55| 454 55| 443 37"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 443 37| 455 55"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! 455 55| 456 57"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 18 174[ 46 125 67 56"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 111 15| 127 -30| -2 -30| 13 15| 111 15"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -77 -69| -119 -69| -141 -93| -251 -93"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -317 -93[ -364 -79 -394 -33"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="! -394 -33| -282 26"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! -282 26| -267 20| -253 16| -242 15| -224 16| -223 16| -211 18| -148 56"/>
+<Edge fillStyle0="5" fillStyle1="0" strokeStyle="1" edges="! -148 56| -128 80[ -120 61 -79 56"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -2 56[ -3 72 -31 113"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="! -31 113| 18 174"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 18 174[ -5 216 -33 242| -46 253| -45 242[ -45 184 -93 128"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -93 128| -94 128| -128 80"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="2" edges="! -177 2| -139 27| -79 27"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -31 113[ -60 133 -93 128"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="3" edges="! -393 70| -313 115"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -313 115[ -289 82 -282 26"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -393 70| -395 84[ -403 135 -427 160[ -361 164 -324 127| -313 115"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -394 -33[ -388 26 -393 70"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#d4e85c">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#8e0007" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#5b0003"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -94 -73| -114 -97| -103 -116| -75 -116| -39 -73| -39 -43| -94 -43| -94 -73"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#f9882b" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#cfb666" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#947950" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ab824d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 36 22| 72 22| 72 -73| 35 -116| -75 -116"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! -75 -116| -39 -73| -39 -43| -94 -43"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -94 -43| -94 2| -69 22| -49 22"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -49 22| -49 -19| -27 -19| -27 22"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -27 22| 13 22"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 13 22| 13 -19| 36 -19| 36 22"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 36 22| 13 22"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -49 22| -27 22"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

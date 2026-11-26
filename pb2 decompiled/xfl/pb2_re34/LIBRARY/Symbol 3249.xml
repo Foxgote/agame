@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3249" itemID="6b03b580-000008ef" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3249" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="1.0" ty="0.0" a="0.0" d="0.0" b="0.076904296875" c="-0.0750732421875"/>
+</matrix>
+<GradientEntry color="#bad2e7" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#8a96b1" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="25.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2d323a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="25.0" scaleMode="normal">
+<fill>
+<SolidColor color="#464f58"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -3160 -1120| -2700 80| -1320 1060| 2200 1220[ 2840 280 3180 -1020"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! 3180 -1020[ -560 -1400 -3160 -1120"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

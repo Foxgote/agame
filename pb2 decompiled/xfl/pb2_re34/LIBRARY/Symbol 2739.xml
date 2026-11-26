@@ -1,0 +1,232 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2739" itemID="6b03b580-000007e1" lastModified="1789282414" linkageClassName="m4a1_real" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2739">
+<layers>
+<DOMLayer name="Script Layer" color="#a84bb3">
+<frames>
+<DOMFrame index="0" duration="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<Actionscript>
+<script>--this.curbullets;
+if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.curbullets &lt;= 0 || this.curbullets &lt; this.maxbullets / 2 &amp;&amp; this.picken_by != -1 &amp;&amp; !MovieClip(root).mens[this.picken_by].dead &amp;&amp; MovieClip(root).mens[this.picken_by].curwea == this.idd &amp;&amp; !MovieClip(root).mens[this.picken_by].act_fire)
+      {
+         this.gotoAndPlay(10);
+      }
+      else
+      {
+         this.xpos1 = 0.4;
+         this.xpos2 = 1;
+         this.ready = true;
+         this.gotoAndStop(2);
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="4" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="12" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(11);
+         this.floatframe = 11;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 0.3;
+this.xpos2 = 0.7;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="15" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="22" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(20);
+         this.floatframe = 20;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="23" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 0.3;
+this.xpos2 = 1;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="25" duration="10" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(35);
+         this.floatframe = 35;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<Actionscript>
+<script>this.curbullets = this.maxbullets;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<Actionscript>
+<script>this.xpos1 = 0.4;
+this.xpos2 = 1;
+this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ed672e">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2738" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" duration="37" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#e56742">
+<frames>
+<DOMFrame index="0" duration="14" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2737" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="7.4" ty="3.4" a="0.03750000149011612" d="0.03750000149011612"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="14" duration="10" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" duration="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2737" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="7.4" ty="3.4" a="0.03750000149011612" d="0.03750000149011612"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#b3589a" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="40" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1d1f1f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0d0d0d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 14 -57| -6 -49| -23 -46| -23 -50| -203 -53[ -224 -53 -224 -31| -220 38[ -213 96 -205 96| -183 92| -159 82| -170 72| -159 74| -133 40| -130 59| -42 36| -42 27| -45 13| -35 0[ -23 -9 -11 -9| 11 7[ 22 20 22 34[ 22 47 4 72| -45 120| -27 140[ -9 153 15 153[ 27 153 32 127[ 39 91 71 65| 137 65| 150 97| 215 73| 209 36[ 209 2 226 2[ 235 2 245 9| 390 -5| 514 -21| 611 -17| 674 -16| 677 -23| 682 -32| 680 -40| 603 -41| 550 -40| 484 -42| 483 -102| 480 -105| 469 -108[ 456 -108 450 -101| 442 -86[ 427 -63 355 -64| 265 -62| 226 -59| 212 -61| 202 -64| 203 -82[ 203 -99 157 -107| 60 -115[ 46 -115 28 -94| 14 -57"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 85 -73[ 93 -65 147 -62[ 202 -58 176 -87| 92 -94[ 79 -85 85 -73"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 22 -11| 63 -11| 81 -29| 153 -26"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 221 -45| 240 -20"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 464 -74[ 461 -80 455 -80| 447 -74| 442 -63| 447 -51[ 450 -46 455 -46[ 461 -46 464 -51| 467 -63| 464 -74"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 670 -34| 670 -30| 659 -30| 659 -34| 670 -34"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 132 26| 125 26| 106 43| 102 50[ 98 48 98 32[ 96 28 89 26| 80 35| 86 54| 127 58[ 133 48 132 26"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! -202 -26| -52 -26"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -154 3| -154 9| -171 9| -171 3| -154 3"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

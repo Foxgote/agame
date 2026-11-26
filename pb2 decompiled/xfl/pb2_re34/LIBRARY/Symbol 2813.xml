@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2813" itemID="6b03b580-00000809" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2813" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-3.75" ty="-5.2" a="0.015289306640625" d="0.0181884765625"/>
+</matrix>
+<GradientEntry color="#00ff09" alpha="0.14901961" ratio="0.0"/>
+<GradientEntry color="#00ff33" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 189 -104[ 189 26 111 117[ 34 210 -75 210[ -184 210 -262 117[ -339 26 -339 -104[ -339 -234 -262 -326[ -184 -418 -75 -418[ 34 -418 111 -326[ 189 -234 189 -104"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="-27.85" ty="-4.7" a="0.015289306640625" d="0.0239715576171875" b="0.0" c="0.00567626953125"/>
+</matrix>
+<GradientEntry color="#00ffff" alpha="0.14901961" ratio="0.0"/>
+<GradientEntry color="#00ffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -814 -387[ -764 -508 -655 -508[ -546 -508 -441 -387[ -334 -265 -293 -94[ -253 77 -302 198[ -350 320 -459 320[ -568 320 -675 198[ -781 77 -821 -94[ -862 -265 -814 -387"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="28.8" ty="5.45" a="0.015289306640625" d="0.023162841796875"/>
+</matrix>
+<GradientEntry color="#00ffff" alpha="0.14901961" ratio="0.0"/>
+<GradientEntry color="#00ffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 576 -291[ 685 -291 762 -174[ 840 -56 840 109[ 840 274 762 391[ 685 509 576 509[ 467 509 389 391[ 312 274 312 109[ 312 -56 389 -174[ 467 -291 576 -291"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="20.7" ty="5.45" a="0.015289306640625" d="0.023162841796875"/>
+</matrix>
+<GradientEntry color="#00ffff" alpha="0.14901961" ratio="0.0"/>
+<GradientEntry color="#00ffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 600 -175[ 678 -56 678 109[ 678 274 600 391[ 523 509 414 509[ 305 509 227 391[ 150 274 150 109[ 150 -56 227 -175[ 305 -291 414 -291[ 523 -291 600 -175"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="12.65" ty="5.45" a="0.015289306640625" d="0.023162841796875"/>
+</matrix>
+<GradientEntry color="#00ffff" alpha="0.14901961" ratio="0.0"/>
+<GradientEntry color="#00ffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 253 -291[ 362 -291 439 -175[ 517 -56 517 109[ 517 274 439 391[ 362 509 253 509[ 144 509 66 391[ -11 274 -11 109[ -11 -56 66 -175[ 144 -291 253 -291"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

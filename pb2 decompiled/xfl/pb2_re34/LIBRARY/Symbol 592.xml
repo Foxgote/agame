@@ -1,0 +1,327 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 592" itemID="6b03b500-00000295" lastModified="1789282414" linkageClassName="eff_wood_debris" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 592">
+<layers>
+<DOMLayer name="Script Layer" color="#ae7bab">
+<frames>
+<DOMFrame index="0" duration="49" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+this.visible = false;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#a551b9" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.94921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="31" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.89453125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="32" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.84375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.7890625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.73828125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.68359375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.6328125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.578125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.52734375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.47265625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.421875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.3671875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.31640625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.26171875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.2109375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.15625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.10546875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.05078125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 591" name="picc" centerPoint3DX="21.5" centerPoint3DY="20.0">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.0"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

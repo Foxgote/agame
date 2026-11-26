@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1164" itemID="6b03b500-000003e7" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1164" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="1.0">
+<fill>
+<SolidColor color="#cccccc" alpha="1.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 516 81| 768 81| 731 121| 560 156| 514 156| 364 140| 99 239| 55 189| 79 164| 66 119| 0 81| 22 32| 80 62| 140 -47| 294 0| 369 45| 473 45| 516 81"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 296 52| 158 11[ 91 113 129 181| 166 166| 197 111| 262 111| 296 52"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 312 227| 464 181| 363 170| 240 215| 312 227"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="19.65" ty="5.75" a="0.03472900390625" d="0.013397216796875"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 811 -35[ 985 27 985 115[ 985 203 811 265[ 638 327 393 327[ 148 327 -26 265[ -199 203 -199 115[ -199 27 -26 -35[ 148 -97 393 -97[ 638 -97 811 -35"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

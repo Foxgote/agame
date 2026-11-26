@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4155" itemID="6b03b580-00000a03" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4155">
+<layers>
+<DOMLayer name="Layer 1" color="#e56754">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="773.95" height="14.0" renderAsHTML="true" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="-386.95" ty="-2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Hint</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#f8e12f" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="0.7019608"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -7779 -180| 7780 -180| 7780 380| -7779 380| -7779 -180"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

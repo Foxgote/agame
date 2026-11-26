@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3686" itemID="6b03b580-00000998" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3686">
+<layers>
+<DOMLayer name="Layer 1" color="#af4adc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3504" name="sample3" symbolType="button">
+<matrix>
+<Matrix tx="0.0" ty="34.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#72a2f2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3512" name="sample_no" centerPoint3DX="251.65" centerPoint3DY="71.45">
+<matrix>
+<Matrix tx="202.85" ty="58.4"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<AdjustColorFilter brightness="-100" contrast="0" saturation="-100" hue="-180"/>
+<GlowFilter blurX="16" blurY="16" color="#000000" inner="true" quality="1" strength="1.21875"/>
+<GlowFilter blurX="3" blurY="3" color="#000000" quality="1" strength="3"/>
+<GlowFilter blurX="8" blurY="8" color="#ff0000" quality="1" strength="0.296875"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#3c88d3">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="hero1tit" antiAliasSharpness="0" antiAliasThickness="0" width="290.95" height="14.0" isSelectable="false" lineType="multiline">
+<matrix>
+<Matrix tx="2.0" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>%HERO_NAME%'s equipment</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="5.0" lineSpacing="0.0" rightMargin="5.0" autoKern="false" size="12.9" bitmapSize="258" face="DejaVu Sans Mono" fillColor="#ffffff" alpha="1.0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#8263f1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3510" name="sample2" centerPoint3DX="570.05" centerPoint3DY="43.75">
+<matrix>
+<Matrix tx="175.0" ty="34.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#7575fc" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3512" name="sample" centerPoint3DX="251.65" centerPoint3DY="46.45">
+<matrix>
+<Matrix tx="202.85" ty="33.4"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<AdjustColorFilter brightness="15" contrast="0" saturation="17" hue="0"/>
+<GlowFilter blurX="3" blurY="3" color="#000000" quality="1" strength="3"/>
+<GlowFilter blurX="8" blurY="8" color="#3e91c1" quality="1" strength="0.5"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,410 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4218" itemID="6b03b580-00000a10" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4218">
+<layers>
+<DOMLayer name="Layer 1" color="#97d91f">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4215" name="chat_size" centerPoint3DX="153.9" centerPoint3DY="166.8">
+<matrix>
+<Matrix tx="119.9" ty="157.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#e02882">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="60.55" antiAliasSharpness="0" antiAliasThickness="0" width="648" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-47.65" ty="149.55"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>CH-SIZE:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#6bf78c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="resetcursor" antiAliasSharpness="0" antiAliasThickness="0" width="146.0" height="10.45" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="12.0" ty="233.45"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>RESET CROSSHAIR</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#ffff00"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#58d17d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4215" name="cur_size" centerPoint3DX="153.9" centerPoint3DY="228.0">
+<matrix>
+<Matrix tx="119.9" ty="219.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#d449ab">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4213" name="spec_cam" centerPoint3DX="153.4" centerPoint3DY="282.2">
+<matrix>
+<Matrix tx="119.4" ty="273.2"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#867dbf">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="67" antiAliasSharpness="0" antiAliasThickness="0" width="575" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-47.3" ty="266.2"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>CAMERA:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#7ef874">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="118.8" antiAliasSharpness="0" antiAliasThickness="0" width="430" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-85.0" ty="212.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>SIZE:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#5953e5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4209" name="cur_style" centerPoint3DX="153.9" centerPoint3DY="207.8">
+<matrix>
+<Matrix tx="119.9" ty="198.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#e742f0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="111.75" antiAliasSharpness="0" antiAliasThickness="0" width="503" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-85.0" ty="191.8"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>STYLE:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#fdbf63">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="792" height="297" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="12.0" ty="170.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Crosshair:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#788bfd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="793" height="288" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="12.4" ty="248.2"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Spectator:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#95a3fe">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4202" name="ui_no" centerPoint3DX="153.45" centerPoint3DY="146.35">
+<matrix>
+<Matrix tx="119.45" ty="137.35"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 13" color="#f558be">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="118.6" antiAliasSharpness="0" antiAliasThickness="0" width="650" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-105.65" ty="130.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>GAME UI:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 14" color="#f110c2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="145" antiAliasSharpness="0" antiAliasThickness="0" width="352" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-107.05" ty="89.65"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>FPS:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="9" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 15" color="#92b5dc">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="649" height="284" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="12.4" ty="51.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Genenal:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 16" color="#75f3a5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="67" antiAliasSharpness="0" antiAliasThickness="0" width="575" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-46.75" ty="110.25"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>CAMERA:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 17" color="#a24bad">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="97" antiAliasSharpness="0" antiAliasThickness="0" width="644" height="280" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-85.0" ty="69.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>PHYSICS:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.9" bitmapSize="258" letterSpacing="0.05" indent="0" leftMargin="6" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 18" color="#f05bc6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4193" name="ph" centerPoint3DX="153.4" centerPoint3DY="85.35">
+<matrix>
+<Matrix tx="119.4" ty="76.35"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 19" color="#f6cf26">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4190" name="frr" centerPoint3DX="153.4" centerPoint3DY="105.65">
+<matrix>
+<Matrix tx="119.4" ty="96.65"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 20" color="#f192f7">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4186" name="cm" centerPoint3DX="153.45" centerPoint3DY="126.25">
+<matrix>
+<Matrix tx="119.45" ty="117.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 21" color="#c11ab5" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#6393ff"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 200 879| 3200 879| 3200 5879| 200 5879| 200 879"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

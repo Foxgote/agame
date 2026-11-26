@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3569" itemID="6b03b580-0000096a" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3569">
+<layers>
+<DOMLayer name="Layer 1" color="#f0e381">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="inc_under" antiAliasSharpness="0" antiAliasThickness="0" width="69.7" height="9.35" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="346.3" ty="-10.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>1234 exp</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="0.0" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#52bedb">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3567" name="levelup" blendMode="screen" centerPoint3DX="510.7" centerPoint3DY="-33.6">
+<matrix>
+<Matrix tx="400.0" ty="-45.75"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.5"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#9bc8bd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="inc" antiAliasSharpness="0" antiAliasThickness="0" width="259.55" height="9.35" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="207.5" ty="-32.35"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>+10 exp - Hello there. You should not see this</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="0.0" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#7fda7f">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="left" antiAliasSharpness="0" antiAliasThickness="0" width="143.55" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="7.0" ty="-37.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>0</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="0.0" rightMargin="0.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#f891bf">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="right" antiAliasSharpness="0" antiAliasThickness="0" width="143.55" height="14.0" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="650.45" ty="-37.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>1</characters>
+<textAttrs>
+<DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="0.0" rightMargin="0.0" size="13" bitmapSize="260" face="DejaVu Sans Mono" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#95a95f">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3557" name="exp_max" centerPoint3DX="22.5" centerPoint3DY="-8.5">
+<matrix>
+<Matrix tx="20.0" ty="-11.0" a="-1.0" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#defb82">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3557" name="exp_min" centerPoint3DX="14.5" centerPoint3DY="-8.5">
+<matrix>
+<Matrix tx="12.0" ty="-11.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#e6a643">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3555" name="glow" centerPoint3DX="132.45" centerPoint3DY="10.45">
+<matrix>
+<Matrix tx="111.0" ty="-11.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#b7ca08">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3553" name="prog_end" centerPoint3DX="111.5" centerPoint3DY="-9.0">
+<matrix>
+<Matrix tx="111.0" ty="-11.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#ab6aee">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3551" name="prog" centerPoint3DX="61.0" centerPoint3DY="-9.0">
+<matrix>
+<Matrix tx="11.0" ty="-11.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#fbb30e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 3548.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="10.0" ty="-21.0" a="20.0" d="20.0"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 200 -420| 15840 -420| 15840 -200| 200 -200| 200 -420"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

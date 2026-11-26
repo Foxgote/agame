@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1639" itemID="6b03b500-00000507" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1639" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0e0f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2080 580| 1440 840| 400 2000| 1220 3460| 2100 3140"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -2020 2340| -1260 1880[ -560 1400 -500 1480| -60 1760[ 360 1940 400 2000"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0e0f"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -480 5920| -980 5680| -740 4400| 520 4640| 2260 4160"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2260 5440[ 1960 5460 1080 5740| -360 5940"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#070a0a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 140 -980| 1080 -760[ 1660 -520 2160 380[ 2540 940 2580 1340| 2460 2860| 2100 3160[ 2200 3340 2160 3760| 2140 4120| 2540 4040| 2600 4320| 2540 5360| 2160 5520[ 1940 6260 1420 6680[ 940 7040 520 6980[ -140 6920 -500 6380| -960 5740[ -1120 4880 -1500 3960| -2000 2360| -2340 2380[ -2460 1860 -2720 1200[ -2740 420 -2260 -40[ -1600 -660 40 -980"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#161e26" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -900 5920| -700 4440| 840 4540| 2460 4080[ 2680 4720 2500 5300[ 620 6120 -900 5920"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#0f1213" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 2120 4120| -1100 4740| -1100 4720[ -1680 4460 -1420 3800[ -2260 2640 -1640 2160[ -740 1780 -540 1420[ -140 1580 480 2220| 1460 3340| 1740 3400| 2040 3420[ 2220 3520 2220 3680| 2120 4120"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -200 6600| -800 6000[ -360 5780 2240 5540| 1300 6620[ 860 7040 520 6980[ 220 6960 -200 6600"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#131d26" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -2360 2560[ -3140 1280 -2680 220[ 640 -2220 2440 540[ 2580 3120 1640 4040[ 840 4840 -440 4300[ -1640 3760 -2360 2560"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

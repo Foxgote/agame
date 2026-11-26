@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 955" itemID="6b03b500-00000365" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 955">
+<layers>
+<DOMLayer name="Layer 1" color="#c5efa8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 954" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#5b39f7" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#333333"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 258 170[ 281 141 278 91[ 279 62 262 40[ 254 26 227 11[ 205 -4 170 2[ 134 8 120 27[ 105 45 92 77| 77 117| 112 145| 137 130| 143 119[ 131 104 131 84[ 131 61 147 45[ 163 29 186 29[ 209 29 225 45[ 241 61 241 84[ 241 107 225 123| 215 132| 246 147| 258 170"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 130 348| 131 348[ 116 384 77 395| 42 392| 13 364[ -1 345 6 302| 117 315| 117 328| 130 348"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#f5fc94" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" duration="1" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

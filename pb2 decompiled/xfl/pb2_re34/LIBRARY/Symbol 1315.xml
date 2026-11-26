@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1315" itemID="6b03b500-00000446" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1315">
+<layers>
+<DOMLayer name="Layer 1" color="#18d5e9" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="16.75" ty="2.0" a="-0.026947021484375" d="-0.0021514892578125" b="9.307861328125E-4" c="3.0517578125E-4"/>
+</matrix>
+<GradientEntry color="#a10000" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#460000" alpha="1.0" ratio="1.0"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="20.85" ty="2.95" a="0.0054168701171875" d="6.561279296875E-4" b="-0.0063323974609375" c="0.00146484375"/>
+</matrix>
+<GradientEntry color="#272626" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="0.21568628"/>
+<GradientEntry color="#6d6d6d" alpha="1.0" ratio="0.5254902"/>
+<GradientEntry color="#434343" alpha="1.0" ratio="0.8352941"/>
+<GradientEntry color="#2b2a2a" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#191919"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 838 69| 850 66| 780 0| 8 27| 5 51"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 5 51| 764 24| 838 69"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 838 69| 43 97| 30 72| 0 74| 5 51"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4120" itemID="6b03b580-000009fd" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4120">
+<layers>
+<DOMLayer name="Layer 1" color="#38e774">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="val" antiAliasSharpness="0" antiAliasThickness="0" width="169.8" height="10.05" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="417.5" ty="5.4"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Your ping is 3500 ms</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="5.0" autoKern="false" lineSpacing="0.0" rightMargin="5.0" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#c69b9b"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#bb63dd">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1130" height="186" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="297.55" ty="5.4"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Connection Problem:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="9.2" bitmapSize="184" letterSpacing="0" indent="0" leftMargin="12" lineSpacing="0" rightMargin="0" fillColor="#ff0000" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#13f2b9" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="0.7019608"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 11860 400| 5940 400| 5940 0| 11860 0| 11860 400"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

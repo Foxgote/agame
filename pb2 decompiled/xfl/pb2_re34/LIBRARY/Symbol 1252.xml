@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1252" itemID="6b03b500-0000041d" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1252">
+<layers>
+<DOMLayer name="Layer 1" color="#aea885">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1251" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#ba23fb" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#999999"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 22 42| 57 57| 57 104| 94 137| 154 137| 178 163[ 216 128 227 93| 121 0| 69 0| 22 42"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 336 300| 369 300| 382 296| 336 342| 286 317| 336 300"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c5b4c1" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 957.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="0.0" ty="-2.0" a="1.05499267578125" d="1.05499267578125"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 0 -40| 422 -40| 422 383| 0 383| 0 -40"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

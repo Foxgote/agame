@@ -1,0 +1,152 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3988" itemID="6b03b580-000009c9" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3988">
+<layers>
+<DOMLayer name="Layer 1" color="#20fe86">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="336" height="246" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="21.6" ty="124.65"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Yes</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="74" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="Europe Ext Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#af8f5e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="295.6" height="22.9" renderAsHTML="true" lineType="multiline">
+<matrix>
+<Matrix tx="-39.9" ty="54.1"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Are you sure you want to delete this match?</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#a4c0e0"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters/>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>(Match will be deleted in 10 seconds)</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="9" bitmapSize="180" face="DejaVu Sans Mono Bold" fillColor="#a4c0e0"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#50a6c6">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1006" height="215" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="21.6" ty="9.4"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Match Deletion</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="10.25" bitmapSize="205" letterSpacing="-0.05" indent="0" leftMargin="40" lineSpacing="0" rightMargin="0" fillColor="#eef9ff" face="Europe Ext Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#997880">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="269" height="246" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="21.2" ty="156.45"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>No</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="77" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="Europe Ext Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#fc4d57">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_yes" symbolType="button">
+<matrix>
+<Matrix tx="18.8" ty="121.4"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#e080be">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_close2" symbolType="button">
+<matrix>
+<Matrix tx="19.2" ty="153.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#76fb87" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3631" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="74.75" ty="54.05" a="0.406219482421875" d="0.4799957275390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

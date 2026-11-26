@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1905" itemID="6b03b500-000005bc" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1905" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="19.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0a0707"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 1400 1640[ 2220 300 2120 -980[ 1700 -1740 660 -1560[ -360 -1380 -2060 -520[ -2140 300 -1980 760| -1960 740| -1420 940| -380 1320| 920 1640| 1400 1640| 900 3780| 440 5600| 300 6000[ -1040 7340 -1860 6100| -2780 4820| -2760 3280[ -2660 1220 -1980 760"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -1420 940| -1720 2360| -2760 3280"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 900 3780| -100 3840| -380 5080| 440 5600"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! -2780 4820| -660 3060| -380 1320"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 300 6000| -1860 6100"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#2a1f1f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -1420 940| -380 1320| -660 3060| -2780 4820| -2760 3280| -1720 2360| -1420 940"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1d1616" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -1420 940| -1720 2360| -2760 3280[ -2660 1220 -1980 760| -1960 740| -1420 940"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -660 3060| -380 1320| 920 1640| 1400 1640| 900 3780| -100 3840| -380 5080| 440 5600| 300 6000| -1860 6100| -2780 4820| -660 3060"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="47.0" ty="-17.0" a="0.12847900390625" d="0.0982666015625" b="-0.00274658203125" c="0.00244140625"/>
+</matrix>
+<GradientEntry color="#644040" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#452c2c" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -1980 760[ -2140 300 -2060 -520[ -360 -1380 660 -1560[ 1700 -1740 2120 -980[ 2220 300 1400 1640| 920 1640| -380 1320| -1960 740| -1980 760"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ff0000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 900 3780| 440 5600| -380 5080| -100 3840| 900 3780"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1d1616" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 300 6000[ -1040 7340 -1860 6100| 300 6000"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

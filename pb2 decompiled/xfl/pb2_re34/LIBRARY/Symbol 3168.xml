@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3168" itemID="6b03b580-000008c5" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3168" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 3260 5580| 3960 5580| 3960 6980| 3260 6980| 3260 6540"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 1800 5600| 2600 5600| 2600 6320| 1800 6320| 1800 6960| 2600 6960"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 5500 5640| 5040 5640| 5040 6960"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 5040 5640| 4580 5640"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

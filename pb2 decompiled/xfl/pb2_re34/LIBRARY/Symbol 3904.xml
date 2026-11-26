@@ -1,0 +1,212 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3904" itemID="6b03b580-000009b9" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3904">
+<layers>
+<DOMLayer name="Layer 1" color="#bac879">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1300" height="227" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="581.4" ty="16.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Advanced Search</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="28" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#d85ac5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3899" name="simple_4" symbolType="button">
+<matrix>
+<Matrix tx="579.0" ty="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#cf67c5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1458" height="560" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="389.4" ty="8.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Custom Maps</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="41" lineSpacing="2" rightMargin="0" fillColor="#88d0ff" alpha="1.0" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;(unranked matches)</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="20" lineSpacing="2" rightMargin="0" fillColor="#88d0ff" alpha="0.49803922" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#5bbb7c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3899" name="simple_3" symbolType="button">
+<matrix>
+<Matrix tx="386.0" ty="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#aaf172">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1458" height="558" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="196.4" ty="8.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Approved Maps</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="35" lineSpacing="2" rightMargin="0" fillColor="#88d0ff" alpha="1.0" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;(unranked matches)</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="19" lineSpacing="2" rightMargin="0" fillColor="#88d0ff" alpha="0.49803922" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#9623ea">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3899" name="simple_2" symbolType="button">
+<matrix>
+<Matrix tx="193.0" ty="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#89b2c5">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1282" height="558" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="3.4" ty="8.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Approved Maps</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="35" lineSpacing="2" rightMargin="0" fillColor="#88d0ff" alpha="1.0" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;(ranked matches)</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="-0.05" indent="0" leftMargin="28" lineSpacing="2" rightMargin="0" fillColor="#88ff88" alpha="0.49803922" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#c23ee0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3899" name="simple_1" symbolType="button">
+<matrix>
+<Matrix tx="0.0" ty="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#d79d8c" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 47" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-16.0" ty="0.05" a="8.0" d="0.54949951171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.69921875" greenMultiplier="0.69921875" blueMultiplier="0.69921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#b147bb" parentLayerIndex="8" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3671" centerPoint3DX="384.0" centerPoint3DY="-100.0">
+<matrix>
+<Matrix tx="-16.0" ty="-300.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.69921875" greenMultiplier="0.69921875" blueMultiplier="0.69921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,143 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3953" itemID="6b03b580-000009c3" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3953">
+<layers>
+<DOMLayer name="Layer 1" color="#ff771c">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText antiAliasSharpness="0" antiAliasThickness="0" width="821.3" height="141.2" renderAsHTML="true" lineType="multiline no wrap">
+<matrix>
+<Matrix tx="-299.6" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Classic Mode - In the Classic Mode, the game settings allow the use of maps with </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>"</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>low</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>"</characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters> physics settings to reduce fall damage and speed up Selfboost. </characters>
+<textAttrs>
+<DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.15" rightMargin="0.0" size="8" bitmapSize="160" face="DejaVu Sans Mono Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#d5ccc4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="title" antiAliasSharpness="0" antiAliasThickness="0" width="796.0" height="11.15" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="-314.95" ty="-102.25"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Plazma Burst 2 Physics Information</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.05" rightMargin="0.0" size="10" bitmapSize="200" face="Europe Ext Bold" fillColor="#88d0ff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#fa7683">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="211" height="229" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="2.0" ty="261.9"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>OK</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="12.3" bitmapSize="246" letterSpacing="0" indent="0" leftMargin="77" lineSpacing="0" rightMargin="0" fillColor="#88d0ff" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#d6a52a">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3945" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-307.35" ty="-79.4" a="1.536865234375" d="12.9320068359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#fb5572">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3533" name="b_close2" symbolType="button">
+<matrix>
+<Matrix tx="0.0" ty="257.05"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#65fb8d" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3631" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

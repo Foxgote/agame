@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1253" itemID="6b03b500-0000041e" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1253" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke scaleMode="normal" weight="1.0">
+<fill>
+<SolidColor color="#cccccc" alpha="1.0"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 871 384| 738 384| 682 341| 465 365| 427 393| 350 412| 314 433| 289 411| 318 378[ 292 375 259 355| 282 330[ 302 346 330 346[ 362 346 385 324[ 408 301 408 268[ 408 236 385 213[ 362 190 330 190[ 297 190 275 213[ 252 236 252 268| 252 273| 255 291| 221 291| 219 273| 219 268[ 219 247 226 229| 169 168| 187 144| 215 144| 232 127| 194 93| 194 63| 227 63| 336 91| 388 134| 475 171| 500 215| 504 235| 961 259| 998 238| 1164 286| 1096 328| 1019 361| 871 384"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 453 285| 748 304| 794 333| 841 333[ 926 326 985 298"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 654 171| 593 171| 566 151| 489 134| 525 166| 551 205| 933 228[ 909 185 801 150| 791 171| 741 171| 717 153| 670 153| 654 171"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 871 384| 738 384| 682 341| 465 365| 427 393| 350 412| 314 433| 289 411| 318 378[ 292 375 259 355| 282 330[ 302 346 330 346[ 362 346 385 324[ 408 301 408 268[ 408 236 385 213[ 362 190 330 190[ 297 190 275 213[ 252 236 252 268| 252 273| 255 291| 221 291| 219 273| 219 268[ 219 247 226 229| 169 168| 187 144| 215 144| 232 127| 194 93| 194 63| 227 63| 336 91| 388 134| 475 171| 500 215| 504 235| 961 259| 998 238| 1164 286| 1096 328| 1019 361| 871 384"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 654 171| 593 171| 566 151| 489 134| 525 166| 551 205| 933 228[ 909 185 801 150| 791 171| 741 171| 717 153| 670 153| 654 171"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="31.4" ty="12.25" a="0.053955078125" d="0.0207061767578125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="0.49803922" ratio="0.0"/>
+<GradientEntry color="#ffffff" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 1496 245[ 1496 383 1242 480[ 988 578 629 578[ 270 578 16 480[ -238 383 -238 245[ -238 107 16 10[ 270 -88 629 -88[ 988 -88 1242 10[ 1496 107 1496 245"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

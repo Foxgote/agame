@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3044" itemID="6b03b580-00000878" lastModified="1789282414" linkageClassName="veh_drone" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3044">
+<layers>
+<DOMLayer name="Layer 1" color="#d8f937">
+<frames>
+<DOMFrame index="0" duration="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 638" name="gui" centerPoint3DX="96.9" centerPoint3DY="-22.95">
+<matrix>
+<Matrix tx="0.0" ty="-38.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#aa956f" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3041" name="carbody" centerPoint3DX="22.35" centerPoint3DY="16.55">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="1.00042724609375" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3043" name="carbody" centerPoint3DX="22.0" centerPoint3DY="16.6">
+<matrix>
+<Matrix tx="-0.35" ty="0.05" a="1.00042724609375" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

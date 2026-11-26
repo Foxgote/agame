@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3146" itemID="6b03b580-000008b1" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3146" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="709.0" ty="-8.0" a="0.0" d="0.0" b="-0.189208984375" c="0.189208984375"/>
+</matrix>
+<GradientEntry color="#d6d6d6" alpha="0.4" ratio="0.0"/>
+<GradientEntry color="#55b6e5" alpha="0.34901962" ratio="0.19215687"/>
+<GradientEntry color="#409bd5" alpha="0.2" ratio="0.54901963"/>
+<GradientEntry color="#348ac9" alpha="0.09803922" ratio="0.83137256"/>
+<GradientEntry color="#3184c5" alpha="0.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 6200 -3480| -6180 -3480| -1900 2720[ 100 4280 2100 2720| 6200 -3480"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

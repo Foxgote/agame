@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1357" itemID="6b03b500-00000463" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1357" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#2b1a3f"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 31540 13800| 31420 14020| 31220 14500| 31220 14600| 31960 14600[ 32460 14160 32240 13600| 32380 13440| 32380 13120| 32640 12900| 32640 12720[ 33000 12080 33900 13060[ 33920 13200 34120 13260| 34120 13500| 33880 13640| 33760 13640| 33760 13740| 33680 13740| 33200 13480| 33740 14140| 33800 14140| 34020 14320| 34280 14020| 34360 14020| 34500 13900| 34940 12580| 34540 13160| 34300 13160| 34240 13060| 34060 13060| 34060 12880| 33900 13000| 33900 13040| 33080 11620| 32600 11620| 32600 12100| 32200 12520| 32000 12780| 32000 13340| 31880 13360| 31680 13480[ 31640 13600 31700 13660[ 31540 13620 31540 13800"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#7f1cde"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 35700 11920| 35600 12520| 35640 12780[ 35720 12980 36000 12980| 36400 12820| 36240 12780| 36000 12620[ 35840 12620 35840 12520| 35740 12320| 35720 11880| 35700 11920"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 33220 12680| 33560 12480| 33660 12220| 33740 12060| 33860 11900| 34120 11840| 34320 11720| 34540 11520| 35132 11534| 35380 11540[ 35256 11510 35132 11534[ 34676 #2D66.80 34220 12440| 34140 12480| 33760 13040| 33600 13120| 33520 12780| 33360 12880| 33060 12840| 33220 12680"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 31500 14960| 31780 14660| 31700 14660| 32680 13940| 31960 14280| 32020 14220| 31780 14260| 31180 14060| 30680 14060| 30680 14520[ 31500 14160 31460 14660| 31360 14720| 31420 14920| 31500 14960"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

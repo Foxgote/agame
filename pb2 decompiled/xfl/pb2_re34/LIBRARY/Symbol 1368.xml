@@ -1,0 +1,135 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1368" itemID="6b03b500-0000046a" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1368">
+<layers>
+<DOMLayer name="Layer 1" color="#cd45ed">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="1" duration="89" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1367" centerPoint3DX="42.05" centerPoint3DY="21.1">
+<matrix>
+<Matrix tx="13.8" ty="10.35" a="0.698486328125" d="0.698486328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#cd71f7">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 796 649| 857 619[ 870 629 923 642| 974 648| 984 648| 1349 648[ 1380 661 1427 648| 1446 642| 1479 629| 1446 660[ 1340 753 1218 778| 1282 724| 984 724[ 887 729 854 755| 799 729| 799 756| 834 780[ 784 810 678 794| 621 759[ 693 771 767 759| 767 713| 727 713| 585 713| 585 686| 613 662| 660 662| 673 678| 741 678| 746 678| 769 665| 755 639| 678 642[ 754 589 829 585[ 798 600 773 620| 796 649| 816 674| 816 697| 815 709| 799 724| 799 729"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 741 678| 727 713"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c616ce">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1348" centerPoint3DX="40.95" centerPoint3DY="15.6">
+<matrix>
+<Matrix tx="16.6" ty="10.3" a="0.698486328125" d="0.698486328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#bed8e9">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#690bf5"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#272727"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#101010"/>
+</FillStyle>
+<FillStyle index="4">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="55.6" ty="33.6" a="0.0195159912109375" d="0.0195159912109375"/>
+</matrix>
+<GradientEntry color="#252525" ratio="0.0"/>
+<GradientEntry color="#0b0b0b" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="5">
+<LinearGradient>
+<matrix>
+<Matrix tx="56.9" ty="35.1" a="0.020751953125" d="0.0045318603515625"/>
+</matrix>
+<GradientEntry color="#ab00ff" ratio="0.0"/>
+<GradientEntry color="#5800ff" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 816 692| 816 674| 773 620[ 798 600 829 585[ 754 589 678 642| 755 639| 769 665| 746 678| 741 678"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="0" edges="! 741 678| 727 713"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 727 713| 767 713| 767 759[ 693 771 621 759| 678 794[ 784 810 834 780| 799 756| 799 729| 799 724| 815 709| 816 697| 816 693"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 816 693| 816 692"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 816 692| 818 693| 816 693"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="0" edges="! 808 724| 817 712| 819 697| 819 670| 799 646| 857 619[ 870 629 923 642| 974 648| 984 648| 1349 648[ 1380 661 1427 648"/>
+<Edge fillStyle0="0" fillStyle1="5" strokeStyle="0" edges="! 1427 648| 1479 629[ 1359 749 1218 778| 1282 724| 984 724[ 887 729 854 755| 799 729| 808 724"/>
+<Edge fillStyle0="4" fillStyle1="5" strokeStyle="0" edges="! 808 724[ 859 700 932 692| 1327 692[ 1384 684 1427 648"/>
+<Edge fillStyle0="3" fillStyle1="0" strokeStyle="0" edges="! 741 678| 673 678| 660 662| 613 662| 585 686| 585 713| 727 713"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#b6ed08" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="90" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1343" blendMode="add" centerPoint3DX="81.2" centerPoint3DY="43.75">
+<matrix>
+<Matrix tx="35.35" ty="27.0" a="0.698486328125" d="0.698486328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.640625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

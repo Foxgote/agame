@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2531" itemID="6b03b580-0000074c" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2531">
+<layers>
+<DOMLayer name="Layer 1" color="#bded82" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2530" centerPoint3DX="1.05" centerPoint3DY="1.55">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="4" blurY="4" color="#ffff99" quality="1" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2794" itemID="6b03b580-000007fa" lastModified="1789282414" linkageClassName="lens_flare" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2794">
+<layers>
+<DOMLayer name="Layer 1" color="#5dfbac">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2793" name="f6" blendMode="add" centerPoint3DX="689.9" centerPoint3DY="29.0" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="650.9" ty="-9.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#9f22e8">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2790" name="f5" blendMode="add" centerPoint3DX="614.95" centerPoint3DY="0.0" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="599.95" ty="-14.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#1adbf0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2787" name="f4" blendMode="add" centerPoint3DX="463.95" centerPoint3DY="-4.0" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="457.45" ty="-10.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#b6809e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2784" name="f3" blendMode="add" centerPoint3DX="331.95" centerPoint3DY="29.0" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="292.95" ty="-9.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#44e9a9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2781" name="f2" blendMode="add" centerPoint3DX="122.0" centerPoint3DY="0.0" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="114.0" ty="-8.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#e064d9" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2778" name="f1" blendMode="add" centerPoint3DX="75.0" centerPoint3DY="74.5" cacheAsBitmap="true">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

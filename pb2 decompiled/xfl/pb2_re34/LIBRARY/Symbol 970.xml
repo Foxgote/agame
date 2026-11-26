@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 970" itemID="6b03b500-0000036f" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 970">
+<layers>
+<DOMLayer name="Layer 1" color="#f0e6f2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#2a2a2a" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#1e1e1e" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#380000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="0.8" scaleMode="normal">
+<fill>
+<SolidColor color="#1c0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#070606"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 188 25[ 217 41 224 64| 226 70| 233 108| 231 142| 211 164"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 211 164| 236 186[ 234 220 223 247| 46 241| 32 196| 46 186"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 46 186| 44 183| 29 155| 29 120[ 29 90 37 70[ 42 56 50 47"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! 50 47| 62 35[ 94 12 121 8| 169 15| 181 21| 188 25"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 188 25| 175 73"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 175 73| 175 89| 171 89"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 171 89| 163 120"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 163 120| 172 120| 172 144| 157 144"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 157 144| 139 217"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 139 217| 153 208| 197 176| 211 164"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 53 65| 175 65| 175 73"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 53 65| 50 47"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 56 89| 59 120"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 59 120| 163 120"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 56 89| 53 89| 53 65"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="1" edges="! 62 144| 50 144| 50 120| 59 120"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 62 144| 70 212"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="! 70 212[ 101 236 139 217"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 46 186| 48 189| 70 212"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 171 89| 56 89"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 157 144| 62 144"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#9ed987">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 922" centerPoint3DX="11.8" centerPoint3DY="10.4">
+<matrix>
+<Matrix tx="6.05" ty="7.1" a="0.69482421875" d="0.69482421875" b="0.0607147216796875" c="-0.0607147216796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#c254a5" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 968" centerPoint3DX="7.4" centerPoint3DY="13.5">
+<matrix>
+<Matrix tx="1.8" ty="3.85" a="0.98699951171875" d="0.98699951171875" b="-0.1605072021484375" c="0.1605072021484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1705" itemID="6b03b500-0000053a" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1705">
+<layers>
+<DOMLayer name="Layer 1" color="#099ffe">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1704" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#725bc2" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#808080"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 240 235| 237 250| 235 254| 232 261| 232 262| 231 263| 227 273| 224 281| 223 286| 225 297| 220 312[ 216 324 214 359[ 213 389 200 405[ 174 419 121 420| 72 408| 44 388| 40 345| 38 323| 26 278[ 10 207 13 194[ 24 158 8 130| 5 125[ -6 107 8 81[ 10 45 28 32| 44 22| 72 9| 74 8| 76 7| 80 6[ 113 -6 159 6| 161 6[ 208 18 213 32| 213 39[ 213 50 220 65| 235 99[ 245 121 244 145| 233 189[ 243 213 240 235"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#b0b2d2" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 1702.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-4.0" ty="0.0" a="0.84747314453125" d="0.84747314453125"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -80 0| 354 0| 354 434| -80 434| -80 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

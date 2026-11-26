@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2580" itemID="6b03b580-0000076e" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2580">
+<layers>
+<DOMLayer name="Layer 1" color="#6a83e3" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ff9900" alpha="0.6"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="0.75" scaleMode="normal">
+<fill>
+<SolidColor color="#ff9900" alpha="0.6"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! -165 -20| -131 123[ -64 98 -29 59[ 6 20 -52 -46[ -111 -114 -165 -20"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

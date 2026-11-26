@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3564" itemID="6b03b580-00000968" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3564">
+<layers>
+<DOMLayer name="Layer 1" color="#cbc818" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt" antiAliasSharpness="0" antiAliasThickness="0" width="197.0" height="16.3" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="-98.5" ty="-8.15"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Level 10</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="false" lineSpacing="0.0" rightMargin="0.0" size="14" bitmapSize="280" face="EuropeExt Regular" fillColor="#000000"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

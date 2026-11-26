@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4047" itemID="6b03b580-000009e0" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4047">
+<layers>
+<DOMLayer name="Layer 1" color="#f5caf4" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ff0000" alpha="0.5019608"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#00ff33" alpha="0.2"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="0.1" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 1000 -25[ 991 -422 704 -709[ 422 -991 26 -1000"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! 26 -1000| -26 -1000"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -26 -1000[ -423 -991 -709 -709[ -991 -422 -1000 -25"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! -1000 -25| -1000 26"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -1000 26[ -991 423 -709 705[ -423 991 -26 1000"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! -26 1000| 26 1000"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 26 1000[ 422 991 704 705[ 991 423 1000 26"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="2" edges="! 1000 26| 1000 -25"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 1000 -25| 1000 -1000| 26 -1000"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 26 1000| 1000 1000| 1000 26"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -26 -1000| -1000 -1000| -1000 -25"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! -1000 26| -1000 1000| -26 1000"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

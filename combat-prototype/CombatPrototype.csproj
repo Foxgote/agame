@@ -1,0 +1,12 @@
+<Project Sdk="Godot.NET.Sdk/4.6.0">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CombatPrototype</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Core/**/*.cs;.godot/**/*.cs;tests/**/*.cs;simulation/**/*.cs" />
+    <ProjectReference Include="Core\CombatCore.csproj" />
+  </ItemGroup>
+</Project>

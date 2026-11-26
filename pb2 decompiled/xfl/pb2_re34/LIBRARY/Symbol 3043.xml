@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3043" itemID="6b03b580-00000877" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3043">
+<layers>
+<DOMLayer name="Layer 1" color="#99ff9b" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="9.75" ty="3.1" a="0.02606201171875" d="0.015655517578125"/>
+</matrix>
+<GradientEntry color="#1e1e1e" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#5e5e5e" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.0" scaleMode="normal">
+<fill>
+<SolidColor color="#222222"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! -160 -1| -229 -4[ -249 -39 -135 -194| 264 -191| 348 -117| 308 -9| 462 39| 400 123| 560 133| 615 139[ 622 180 622 224| 618 319| 448 311"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 448 311[ 466 381 446 421[ 438 365 385 308"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 385 308| 227 301"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 227 301[ 229 372 220 402| 160 331[ 149 317 154 297[ -31 248 -2 357| 32 448[ -26 445 -95 416[ -135 322 -73 228| -101 174| -49 115| -18 67| -125 39| -160 -1"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -160 -1| 60 11| 154 297| 227 301"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! -32 -76[ -43 -60 -66 -60[ -106 -60 -108 -100[ -108 -140 -66 -140[ -24 -140 -24 -100[ -24 -87 -32 -76"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 280 196[ 280 208 272 220[ 261 236 240 236[ 217 236 206 217[ 200 206 200 196[ 200 154 240 157[ 280 161 280 196"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 448 311| 385 308"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

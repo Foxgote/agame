@@ -4,92 +4,68 @@ var failures: Array[String] = []
 
 
 func _initialize() -> void:
-	call_deferred("runSmokeTest")
+	call_deferred("_run_smoke_test")
 
 
-func check(pCondition: bool, pMessage: String) -> void:
-	if not pCondition:
-		failures.append(pMessage)
-		printerr("FAIL: ", pMessage)
+func _check(condition: bool, message: String) -> void:
+	if not condition:
+		failures.append(message)
+		printerr("FAIL: ", message)
 
 
-func runAction(player: PlayerController, target: Interactable3D, action: StringName, simulation: SimulationRunner) -> void:
-	var versionBefore := simulation.getTrueVersion()
-	player.requestAction(target, action)
-	var frames := 0
-	while player.getLocomotionMode() == PlayerController.ActionLocked and frames < 180:
-		await physics_frame
-		frames += 1
-	check(frames < 180, "action %s completed before timeout" % action)
-	check(simulation.getTrueVersion() > versionBefore, "simulation advanced during %s" % action)
+func _run_smoke_test() -> void:
+	var game_scene := load("res://main.tscn") as PackedScene
+	_check(game_scene != null, "main scene loads")
+	if game_scene == null:
+		quit(1)
+		return
 
-
-func runSmokeTest() -> void:
-	var scene := load("res://main.tscn") as PackedScene
-	var slice := scene.instantiate()
-	root.add_child(slice)
+	var game := game_scene.instantiate()
+	root.add_child(game)
 	await process_frame
-	await create_timer(0.2).timeout
+	await physics_frame
 
-	var simulation := slice.get_node("SimulationRunner") as SimulationRunner
-	var player := slice.get_node("IzuPlayer") as PlayerController
-	var modules := slice.get_node("ShipModules") as ShipModuleSystem
-	var placard := slice.get_node("MaintenancePlacard") as Inspectable3D
-	var button := slice.get_node("GravityBreaker") as PushButton3D
-	var knob := slice.get_node("MassEstimateKnob") as RotaryKnob3D
-	var slider := slice.get_node("ShieldPowerSlider") as LinearSlider3D
-	var burnKnob := slice.get_node("BurnDeltaVKnob") as RotaryKnob3D
-	var burnButton := slice.get_node("ExecuteBurnButton") as PushButton3D
-	var dumpSlider := slice.get_node("ReactionMassSlider") as LinearSlider3D
-	var dumpButton := slice.get_node("ExecuteMassDumpButton") as PushButton3D
-	var seat := slice.get_node("NavigationSeat") as Seat3D
-	var ration := slice.get_node("PeachRation") as EdibleItem3D
+	var player := game.get_node_or_null("World/Actors/Player")
+	_check(player != null, "2D player is created")
+	_check(game.get_node_or_null("World/Actors/TrainingTarget") != null, "training target is created")
 
-	check(simulation.getTrueVersion() > 0, "worker published an authoritative snapshot")
-	check(button.supportsAction(&"press"), "button advertises press")
-	check(knob.supportsAction(&"turn"), "knob advertises turn")
-	check(slider.supportsAction(&"adjust"), "slider advertises adjust")
-	check(burnButton.supportsAction(&"press"), "manual burn control advertises press")
-	check(dumpButton.supportsAction(&"press"), "reaction-mass control advertises press")
-	check(seat.supportsAction(&"sit"), "seat advertises sit")
-	check(ration.supportsAction(&"eat"), "ration advertises eat")
+	var crate := game.get_node("World/Crate0") as StaticBody2D
+	crate.call("take_damage", 34.0, Vector2.RIGHT)
+	_check(is_equal_approx(crate.get("health"), 66.0), "breakable tracks cumulative damage")
+	_check(is_instance_valid(crate), "breakable remains until its health is exhausted")
+	crate.call("take_damage", 34.0, Vector2.RIGHT)
+	crate.call("take_damage", 34.0, Vector2.RIGHT)
+	await process_frame
+	_check(not is_instance_valid(crate), "breakable is removed after its health reaches zero")
 
-	await runAction(player, placard, &"inspect", simulation)
-	await runAction(player, button, &"press", simulation)
-	check(not modules.isArtificialGravityEnabled(), "gravity breaker disables artificial gravity")
-	var knobBefore := knob.getNormalizedValue()
-	await runAction(player, knob, &"turn", simulation)
-	check(knob.getNormalizedValue() > knobBefore, "knob changes the player-entered mass estimate")
-	var sliderBefore := slider.getNormalizedValue()
-	await runAction(player, slider, &"adjust", simulation)
-	check(slider.getNormalizedValue() > sliderBefore, "slider changes shield power")
-	await runAction(player, burnKnob, &"turn", simulation)
-	var maneuversBefore := simulation.getManeuverCount()
-	var propellantBefore := simulation.getShipPropellantMassKg()
-	var speedBefore := simulation.getShipRelativeSpeedMps()
-	await runAction(player, burnButton, &"press", simulation)
-	check(simulation.getManeuverCount() == maneuversBefore + 1, "manual prograde burn reaches the authoritative worker")
-	check(simulation.getShipPropellantMassKg() < propellantBefore, "manual burn consumes propellant")
-	check(simulation.getShipRelativeSpeedMps() > speedBefore, "manual burn increases prograde encounter speed")
-	check(simulation.getLastSpecificEnergyGainJPerKg() > 0.0, "manual burn reports positive Oberth energy gain")
-	await runAction(player, dumpSlider, &"adjust", simulation)
-	var reactionMassBefore := simulation.getShipReactionMassKg()
-	await runAction(player, dumpButton, &"press", simulation)
-	check(simulation.getManeuverCount() == maneuversBefore + 2, "reaction-mass dump reaches the authoritative worker")
-	check(simulation.getShipReactionMassKg() < reactionMassBefore, "directed matter dump expels reaction mass")
-	check(simulation.getLastManeuverDeltaVMps() > 0.0, "directed matter dump produces a measured impulse")
-	await runAction(player, seat, &"sit", simulation)
-	check(seat.isOccupied(), "seat becomes occupied")
-	await runAction(player, seat, &"stand", simulation)
-	check(not seat.isOccupied(), "stand action clears seat occupancy")
-	await runAction(player, ration, &"eat", simulation)
-	check(ration.isConsumed(), "eat action consumes the ration")
-	check(simulation.getStateSummary().contains("TRUE") and simulation.getStateSummary().contains("PREDICTION"), "five state channels remain visible")
+	var target := game.get_node("World/Actors/TrainingTarget") as StaticBody2D
+	target.call("take_damage", 100.0, Vector2.RIGHT)
+	await process_frame
+	var ragdoll := game.get_node_or_null("World/Actors/Ragdoll") as Node2D
+	_check(game.get_node_or_null("World/Actors/TrainingTarget") == null, "defeated target is removed")
+	_check(ragdoll != null, "defeated target is replaced by a ragdoll")
+	if ragdoll == null:
+		game.queue_free()
+		quit(1)
+		return
+	await physics_frame
+	_check(ragdoll.get_node_or_null("Torso") is RigidBody2D, "ragdoll creates a rigid torso")
 
-	slice.queue_free()
+	var body_count := 0
+	var joint_count := 0
+	for child in ragdoll.get_children():
+		if child is RigidBody2D:
+			body_count += 1
+		elif child is PinJoint2D:
+			joint_count += 1
+			_check(not child.node_a.is_empty() and not child.node_b.is_empty(), "ragdoll joints reference both bodies")
+	_check(body_count == 10, "ragdoll has ten connected body parts")
+	_check(joint_count == 9, "ragdoll has a joint for each body connection")
+
+	game.queue_free()
 	await process_frame
 	if failures.is_empty():
-		print("All Godot runtime smoke checks passed")
+		print("2D platformer runtime smoke checks passed")
 		quit(0)
 	else:
 		quit(1)

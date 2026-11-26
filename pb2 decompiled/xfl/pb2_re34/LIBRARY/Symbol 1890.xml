@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1890" itemID="6b03b500-000005b1" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 1890" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#252525" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#401212" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0e0e0e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="16.0" scaleMode="normal">
+<fill>
+<SolidColor color="#0e0e0e"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#101010"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 4700 1540| 4700 1260[ 4780 740 4540 500[ 4360 240 3840 360| 2340 380| 2000 400| 1500 500| 1280 820[ 1160 1020 1000 1060[ 600 1780 400 2420| 260 2900| 240 3140| 260 3400| 280 3520| 320 3700| 360 4060| 160 4260| 0 4500| 300 5380[ 540 6220 500 6760[ 500 6900 560 6960[ 600 7380 700 7640| 880 8040"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="3" edges="! 880 8040| 2860 7940"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 2860 7940| 2500 7800| 2580 7000"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 2580 7000| 2440 7100"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 4120 7880| 4140 7860[ 4360 7720 4240 7360[ 4140 7000 4200 6860[ 4220 6680 4440 6320| 4600 5760| 4600 5740| 4420 5420| 4400 5400| 4380 5380| 4360 5340| 4380 5360| 4380 5280| 4380 5200| 4360 4280| 4420 3500| 4440 3420| 4440 3400| 4540 2900| 4700 1540| 3080 1780[ 3140 3600 2780 4920"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="2" edges="! 2780 4920| 3000 4960"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 2100 1260| 2100 1700[ 2160 2100 2440 2500| 2540 2760| 2520 2840| 2400 2960| 2020 3180| 1740 3300| 1360 3440[ 1160 3540 1100 3700[ 1180 3860 1480 4000[ 1820 4140 1900 4260| 2040 4560[ 2240 4800 2780 4920"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="1" edges="! 2780 4920[ 2580 5880 2600 6760"/>
+<Edge fillStyle0="2" fillStyle1="0" strokeStyle="2" edges="! 2600 6760| 2900 6680| 3000 6600| 2900 6720| 2580 7000"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 2580 7000| 2600 6760"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="2" edges="! 2600 6760| 2540 6760[ 2040 6640 1740 6400| 1540 6160| 1240 5800"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="3" edges="! 4120 7880| 4360 7860| 4360 7940| 4360 8040| 4360 8740| 3140 9060[ 1700 9520 680 8800| 780 8040| 880 8040"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 4380 5380| 4380 5360"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="3" edges="! 2860 7940| 4120 7880"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#1c1c1c" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 4360 4280| 4420 3500| 4420 3480| 4440 3420| 4440 3400| 4540 2900| 4700 1260[ 4780 740 4540 500[ 4360 240 3840 360| 2340 380| 2000 400| 1500 500| 1280 820[ 1160 1020 1000 1060[ 600 1780 400 2420| 260 2900| 240 3140| 260 3400| 280 3520| 320 3700| 360 4060| 160 4260| 0 4500| 300 5380[ 540 6220 500 6760[ 500 6900 560 6960[ 600 7380 700 7640[ 780 7920 900 8060[ 1100 8240 1340 8300| 2100 8600| 2800 8700[ 3100 8680 3480 8360| 4140 7860[ 4360 7720 4240 7360[ 4140 7000 4200 6860[ 4220 6680 4440 6320| 4600 5760| 4600 5740| 4400 5400| 4380 5360| 4380 5280| 4380 5200| 4340 4400| 4360 4280"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

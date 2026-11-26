@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3316" itemID="6b03b580-000008f8" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3316" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="689.0" ty="-4.0" a="0.0" d="0.0" b="0.283203125" c="0.20050048828125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.1764706"/>
+<GradientEntry color="#139ffd" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="711.0" ty="-4.0" a="0.0" d="0.0" b="0.283203125" c="-0.20050048828125"/>
+</matrix>
+<GradientEntry color="#ffffff" alpha="1.0" ratio="0.1764706"/>
+<GradientEntry color="#139ffd" alpha="0.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 14000 -5280| 14220 -5280[ 15580 -5300 16560 -3760[ 17500 -2220 17500 -60[ 17500 2080 16560 3620[ 15580 5160 14220 5160| 14000 5120"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 14000 5120| 13780 5160[ 12400 5160 11440 3620[ 10480 2080 10500 -60[ 10480 -2220 11440 -3760[ 12400 -5300 13780 -5280| 14000 -5280"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 14000 -5280| 14000 5120"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2303" itemID="6b03b500-000006a3" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2303" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#410000" alpha="0.50980395"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 10080 7980| 10200 8120| 10280 8280| 10300 8380| 10280 8380| 10200 8400| 10100 8300| 10040 8220| 9920 8080| 9860 8000| 9860 7960| 9940 7940| 10080 7980"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 9380 8020| 9680 8240| 9980 8540| 9760 8420| 9440 8260| 9260 8080| 9220 8040| 9240 8020| 9380 8020"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 9220 8320| 9340 8420| 9420 8520| 9480 8560| 9500 8620| 9560 8680| 9620 8720| 9640 8680| 9620 8620| 9540 8540| 9500 8480| 9280 8320| 9220 8320"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 9860 8280| 9880 8240| 9880 8220| 9960 8240| 10000 8320| 10020 8380| 10020 8400| 10000 8380| 9980 8360| 9940 8360| 9920 8360| 9900 8340| 9900 8320| 9860 8280"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 9660 8600| 9700 8680| 9740 8800| 9820 8860| 9960 8900| 9980 8900| 10020 8880| 10060 8960| 10160 9060| 10180 9040| 10220 9020| 10260 9000| 10260 8980| 10260 8920| 10000 8780| 10000 8760| 9960 8760| 9880 8620| 9860 8640[ 9780 8580 9720 8580| 9700 8540| 9660 8600"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 11260 8640| 11240 8880[ 11160 9080 11080 8980| 10980 8780| 10860 8560| 10860 8640| 10900 8900| 10860 8940| 10720 8800| 10740 8840| 10720 8860| 10640 8840| 10660 8920| 10660 8940| 10520 8900| 10420 8860| 10420 8880| 10380 8880[ 10340 8860 10340 8900| 10260 8860| 10200 8760| 10140 8680| 10180 8620| 10100 8540| 10160 8520| 10260 8560| 10360 8640| 10380 8720| 10520 8740| 10500 8620| 10520 8540[ 10540 8480 10620 8540| 10560 8360| 10560 8340| 10300 8060| 10360 8040| 10380 8080| 10380 8040| 10180 7600| 10680 8300| 10700 8360| 10800 8500| 10940 8540| 11100 8600| 11140 8520| 11160 8540| 11220 8580| 11260 8640"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 10860 8980| 10760 8940| 10700 8960| 10680 9000| 10720 9060| 10940 9260| 11080 9380| 11020 9120| 11000 9060| 10940 9020| 10880 9000| 10860 8980"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="0" edges="! 10540 9160| 10460 9040| 10420 9040| 10360 8960| 10540 9300| 10560 9360| 10520 9380| 10520 9420| 10840 9620| 10860 9380| 10880 9340| 10800 9300| 10720 9280| 10620 9220| 10540 9160"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#5d0000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 10340 8020| 10700 8020| 10660 9000| 10300 9000| 10320 8720| 10100 8700| 10100 9000| 9740 9000| 9760 8020| 10120 8020| 10120 8340| 10340 8360| 10340 8020"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#afafaf" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#2c0404"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 9080 9320| 8940 9260| 8940 7580| 11560 7560| 11560 9260| 11360 9300| 11360 9860| 9080 9880| 9080 9320"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 9080 9320[ 10200 9540 11360 9300"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

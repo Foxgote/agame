@@ -1,0 +1,488 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 720" itemID="6b03b500-000002db" lastModified="1789282414" linkageClassName="gun_sniper" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 720">
+<layers>
+<DOMLayer name="Script Layer" color="#e5318d">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="6" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="15" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="17" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="18" duration="6" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="25" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="37" duration="7" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<Actionscript>
+<script>this.xpos2 = 0.8;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="45" duration="8" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      if(this.picken_by == -1 || MovieClip(root).mens[this.picken_by].curwea != this.idd)
+      {
+         this.gotoAndPlay(10);
+         this.floatframe = 10;
+      }
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="54" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<Actionscript>
+<script>if(MovieClip(root) != null)
+{
+   if(MovieClip(root).currentLabel == "gaming")
+   {
+      this.xpos2 = 1;
+   }
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="57" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#b35296">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 719" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" duration="57" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#1edfe9">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="61.9" centerPoint3DY="28.9">
+<matrix>
+<Matrix tx="31.0" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="36" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#979aa2">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="60.35" centerPoint3DY="27.2">
+<matrix>
+<Matrix tx="29.45" ty="-3.75" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="61.9" centerPoint3DY="28.9">
+<matrix>
+<Matrix tx="31.0" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" duration="16" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#e9f73a">
+<frames>
+<DOMFrame index="0" duration="56" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="56" duration="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="31.0" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#e967a4">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="5" duration="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="59.05" centerPoint3DY="28.9">
+<matrix>
+<Matrix tx="28.15" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="24" duration="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="60.35" centerPoint3DY="27.2">
+<matrix>
+<Matrix tx="29.45" ty="-3.75" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" duration="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="61.9" centerPoint3DY="28.9">
+<matrix>
+<Matrix tx="31.0" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="255"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" duration="4" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#9671b1">
+<frames>
+<DOMFrame index="0" duration="44" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="44" duration="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="29.45" ty="-3.75" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#7b69f3">
+<frames>
+<DOMFrame index="0" duration="24" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="24" duration="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 646" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="28.15" ty="-2.05" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.0" greenMultiplier="0.0" blueMultiplier="0.0" redOffset="179" greenOffset="255" blueOffset="224"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#dcb710">
+<frames>
+<DOMFrame index="0" duration="5" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 718" name="riflestatus" centerPoint3DX="41.45" centerPoint3DY="8.35">
+<matrix>
+<Matrix tx="30.2" ty="-2.35"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" duration="55" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#aa7eb7">
+<frames>
+<DOMFrame index="0" duration="60" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#222222" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#404040" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#dddddd" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#641c1c" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#1a1a1a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 247 -78| 243 -99| 231 -117| 166 -118| 160 -123| 109 -123| 43 -108| -91 -105| -109 -130| -107 -167| 44 -168| 110 -154| 171 -154| 178 -168| 218 -169| 228 -187| 300 -187| 320 -165| 345 -165"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 345 -165| 434 -165"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 434 -165| 515 -165| 503 -146| 458 -133| 450 -113| 285 -116| 274 -96| 275 -78"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 275 -78| 325 -85| 437 -89| 454 -85"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 454 -85| 612 -85"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 612 -85| 821 -84"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 821 -84| 870 -84| 883 -65"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 883 -65| 1240 -62| 1267 -83| 1346 -85| 1365 -71| 1364 -62| 1360 -48| 1360 -23| 883 -23"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 883 -23| 846 23| 729 23| 714 14"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 714 14| 688 31| 683 31| 616 31| 561 31| 558 31| 528 31"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 528 31| 513 45| 460 45"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 460 45| 433 67| 400 66"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 400 66| 375 66| 374 78| 378 102| 382 127| 256 164| 252 130| 249 103| 251 45"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 251 45| 227 45| 219 18| 170 19| 152 34"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 152 34| 143 65| 116 79| 76 79"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! 76 79| 29 79"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 29 79| 33 107| 25 147| -52 136| -70 107| -115 107| -365 149| -373 41| -396 11| -397 -23| -305 -24| -285 -62| -117 -61| -97 -31| -25 -24| -2 -46| 13 -46"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 13 -46| 40 -77| 85 -77| 94 -101| 133 -101| 180 -102| 212 -102| 235 -78| 247 -78"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 247 -78| 275 -78"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 251 45| 277 45[ 251 26 244 -11| 178 -6| 124 -12| 79 -46| 13 -46"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 133 -101| 133 -69| 180 -62| 180 -102"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 345 -165| 368 -139| 412 -139| 434 -165"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 285 -116| 231 -117"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 290 -29| 319 -29| 394 -29"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 180 -62| 235 -78"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 454 -85| 450 -69| 465 -28| 549 -3"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 549 -3| 580 -3| 651 -2| 688 -2| 714 14"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 612 -85| 667 -44| 713 -44| 747 -23| 797 -23| 821 -47| 821 -84"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 303 -55| 412 -55"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 883 -65| 883 -23"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 549 -3| 554 6| 546 14"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 546 14| 558 31"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 546 14| 528 31"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 616 31| 584 1| 561 31"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 460 45| 431 23| 409 44| 400 66"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 354 0| 319 0| 319 22"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 391 4| 391 24"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 375 66| 300 64| 278 45| 277 45"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 252 130| 378 102"/>
+<Edge fillStyle0="4" fillStyle1="1" strokeStyle="1" edges="! 81 36| 61 36| 55 34| 36 53| 28 71| 29 79"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="0" edges="! 81 36| 70 57| 76 79"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 152 34| 81 36"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 105 4| 99 19"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 580 -3| 584 1"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 683 31| 651 -2| 616 31"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 55 34| 42 -13| -25 -24"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 83 -5| 75 18"/>
+<Edge fillStyle0="2" fillStyle1="2" strokeStyle="1" edges="! 319 -29| 319 0"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -33 3| -147 -2| -159 23| -199 28| -211 74| -203 99| -116 83| -65 81| -26 59| -43 38| -33 3"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#96f147" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 715" name="ray" centerPoint3DX="50.0" centerPoint3DY="0.5">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

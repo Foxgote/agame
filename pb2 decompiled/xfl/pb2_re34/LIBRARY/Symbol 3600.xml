@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3600" itemID="6b03b580-0000097a" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3600">
+<layers>
+<DOMLayer name="Layer 1" color="#e8ceff" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#015265" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#d21c1c" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#01303a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#640202"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 45 -107| 86 -105| 94 -11| 70 15"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 70 15[ 75 16 71 28| 56 64[ 38 112 17 126"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 17 126| 0 129| -17 126"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -17 126[ -72 56 -70 15"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -70 15| -94 -11| -86 -105| -45 -107"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -45 -107| -42 -111[ -26 -139 -2 -139[ 26 -139 42 -111| 45 -107"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="2" edges="! 45 -107| 27 -19[ -3 62 -27 -19| -45 -107"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! -17 126| -38 52| -70 15"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 70 15| 38 52| 17 126"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

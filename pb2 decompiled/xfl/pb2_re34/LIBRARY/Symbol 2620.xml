@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2620" itemID="6b03b580-00000790" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 2620">
+<layers>
+<DOMLayer name="Layer 1" color="#e99967">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2619" blendMode="add" centerPoint3DX="19.7" centerPoint3DY="17.55">
+<matrix>
+<Matrix tx="-0.45" ty="5.3" a="0.9400482177734375" d="0.9400482177734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color alphaMultiplier="0.23828125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#5ae5e8" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2619" blendMode="add" centerPoint3DX="18.4" centerPoint3DY="17.05">
+<matrix>
+<Matrix tx="-1.75" ty="4.8"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

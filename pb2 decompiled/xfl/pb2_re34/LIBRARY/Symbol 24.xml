@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 24" itemID="6b03b500-00000284" lastModified="1789282414" linkageClassName="pb2_re34_fla.intro_glow_6" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 24">
+<layers>
+<DOMLayer name="Script Layer" color="#666ff0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<Actionscript>
+<script>MovieClip(root).register_glow(this);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#b16aad">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 23" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

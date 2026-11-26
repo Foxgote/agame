@@ -1,0 +1,139 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2638" itemID="6b03b580-0000079b" lastModified="1789282414" linkageClassName="pb2_re34_fla.gui_710" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 2638">
+<layers>
+<DOMLayer name="Script Layer" color="#51e3d4">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#2adaa8" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2632" name="h" centerPoint3DX="0.05" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-29.95" ty="0.0" a="0.9999847412109375" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#a2e005" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2634" name="hbar" centerPoint3DX="0.05" centerPoint3DY="0.5">
+<matrix>
+<Matrix tx="-29.95" ty="-1.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 2637" centerPoint3DX="30.05" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="0.05" ty="0.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#8655fa">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMDynamicText fontRenderingMode="device" name="txt2" width="210.0" height="12.05" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="-104.85" ty="-31.3"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Level 0</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" letterSpacing="1.0" lineSpacing="2.0" rightMargin="0.0" size="10" bitmapSize="200" face="Tahoma Bold" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="3" blurY="3" color="#000000" quality="1" strength="2"/>
+</filters>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#fba9fe">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMDynamicText name="txt1" antiAliasSharpness="0" antiAliasThickness="0" width="136.5" height="12.05" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="-67.75" ty="-15.25"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>?</characters>
+<textAttrs>
+<DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" lineSpacing="2.05" rightMargin="0.0" size="10" bitmapSize="200" face="EuropeExt Regular" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+<filters>
+<GlowFilter blurX="2" blurY="2" color="#000000" quality="1" strength="0.5"/>
+<DropShadowFilter angle="44.999253346524966" blurX="0" blurY="0" color="#000000" distance="1" quality="1" strength="1"/>
+</filters>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#f9ba22" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#000000" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -521 50| -599 -30| 601 -30| 520 50| -521 50"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,1118 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 782" itemID="6b03b500-00000307" lastModified="1789282414" linkageClassName="gun_railgun2" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 782">
+<layers>
+<DOMLayer name="Script Layer" color="#10e1b6">
+<frames>
+<DOMFrame index="0" duration="74" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<Actionscript>
+<script>this.ready = true;
+this.gotoAndStop(2);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#39ea91">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 740" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="30.95" ty="-1.05" a="0.3072967529296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 741" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-2.5" ty="-2.5"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 742" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="27.55" ty="-1.85" a="0.3580780029296875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="5" duration="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 648" centerPoint3DX="48.0" centerPoint3DY="32.95">
+<matrix>
+<Matrix tx="17.1" ty="2.0" a="0.32000732421875" d="0.32000732421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#e33cab">
+<frames>
+<DOMFrame index="0" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" duration="6" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.23046875" greenMultiplier="0.23046875" blueMultiplier="0.23046875" alphaMultiplier="0.609375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="8" duration="3" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.234375" greenMultiplier="0.234375" blueMultiplier="0.234375" alphaMultiplier="0.61328125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="11" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.234375" greenMultiplier="0.234375" blueMultiplier="0.234375" alphaMultiplier="0.6171875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="13" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.23828125" greenMultiplier="0.23828125" blueMultiplier="0.23828125" alphaMultiplier="0.6171875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="14" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.23828125" greenMultiplier="0.23828125" blueMultiplier="0.23828125" alphaMultiplier="0.62109375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="15" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.2421875" greenMultiplier="0.2421875" blueMultiplier="0.2421875" alphaMultiplier="0.62109375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="16" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.2421875" greenMultiplier="0.2421875" blueMultiplier="0.2421875" alphaMultiplier="0.625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="18" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.24609375" greenMultiplier="0.24609375" blueMultiplier="0.24609375" alphaMultiplier="0.62890625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="19" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.24609375" greenMultiplier="0.24609375" blueMultiplier="0.24609375" alphaMultiplier="0.6328125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="20" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.25" greenMultiplier="0.25" blueMultiplier="0.25" alphaMultiplier="0.6328125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="21" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.25" greenMultiplier="0.25" blueMultiplier="0.25" alphaMultiplier="0.63671875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="22" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.25390625" greenMultiplier="0.25390625" blueMultiplier="0.25390625" alphaMultiplier="0.640625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="23" duration="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.2578125" greenMultiplier="0.2578125" blueMultiplier="0.2578125" alphaMultiplier="0.64453125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="25" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.26171875" greenMultiplier="0.26171875" blueMultiplier="0.26171875" alphaMultiplier="0.6484375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="26" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.265625" greenMultiplier="0.265625" blueMultiplier="0.265625" alphaMultiplier="0.65234375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="27" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.265625" greenMultiplier="0.265625" blueMultiplier="0.265625" alphaMultiplier="0.65625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="28" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.26953125" greenMultiplier="0.26953125" blueMultiplier="0.26953125" alphaMultiplier="0.66015625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="29" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.2734375" greenMultiplier="0.2734375" blueMultiplier="0.2734375" alphaMultiplier="0.6640625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="30" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.27734375" greenMultiplier="0.27734375" blueMultiplier="0.27734375" alphaMultiplier="0.66796875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="31" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.27734375" greenMultiplier="0.27734375" blueMultiplier="0.27734375" alphaMultiplier="0.671875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="32" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.28125" greenMultiplier="0.28125" blueMultiplier="0.28125" alphaMultiplier="0.67578125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.28515625" greenMultiplier="0.28515625" blueMultiplier="0.28515625" alphaMultiplier="0.68359375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.2890625" greenMultiplier="0.2890625" blueMultiplier="0.2890625" alphaMultiplier="0.6875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.29296875" greenMultiplier="0.29296875" blueMultiplier="0.29296875" alphaMultiplier="0.69140625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.296875" greenMultiplier="0.296875" blueMultiplier="0.296875" alphaMultiplier="0.6953125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.30078125" greenMultiplier="0.30078125" blueMultiplier="0.30078125" alphaMultiplier="0.703125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3046875" greenMultiplier="0.3046875" blueMultiplier="0.3046875" alphaMultiplier="0.70703125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.30859375" greenMultiplier="0.30859375" blueMultiplier="0.30859375" alphaMultiplier="0.7109375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3125" greenMultiplier="0.3125" blueMultiplier="0.3125" alphaMultiplier="0.71875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3203125" greenMultiplier="0.3203125" blueMultiplier="0.3203125" alphaMultiplier="0.72265625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.32421875" greenMultiplier="0.32421875" blueMultiplier="0.32421875" alphaMultiplier="0.73046875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.328125" greenMultiplier="0.328125" blueMultiplier="0.328125" alphaMultiplier="0.734375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.33203125" greenMultiplier="0.33203125" blueMultiplier="0.33203125" alphaMultiplier="0.7421875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3359375" greenMultiplier="0.3359375" blueMultiplier="0.3359375" alphaMultiplier="0.75"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.34375" greenMultiplier="0.34375" blueMultiplier="0.34375" alphaMultiplier="0.75390625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.34765625" greenMultiplier="0.34765625" blueMultiplier="0.34765625" alphaMultiplier="0.76171875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3515625" greenMultiplier="0.3515625" blueMultiplier="0.3515625" alphaMultiplier="0.76953125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.359375" greenMultiplier="0.359375" blueMultiplier="0.359375" alphaMultiplier="0.77734375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.36328125" greenMultiplier="0.36328125" blueMultiplier="0.36328125" alphaMultiplier="0.78125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.37109375" greenMultiplier="0.37109375" blueMultiplier="0.37109375" alphaMultiplier="0.7890625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.375" greenMultiplier="0.375" blueMultiplier="0.375" alphaMultiplier="0.796875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3828125" greenMultiplier="0.3828125" blueMultiplier="0.3828125" alphaMultiplier="0.8046875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.38671875" greenMultiplier="0.38671875" blueMultiplier="0.38671875" alphaMultiplier="0.8125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.39453125" greenMultiplier="0.39453125" blueMultiplier="0.39453125" alphaMultiplier="0.8203125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.3984375" greenMultiplier="0.3984375" blueMultiplier="0.3984375" alphaMultiplier="0.828125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.40625" greenMultiplier="0.40625" blueMultiplier="0.40625" alphaMultiplier="0.8359375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4140625" greenMultiplier="0.4140625" blueMultiplier="0.4140625" alphaMultiplier="0.84375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.41796875" greenMultiplier="0.41796875" blueMultiplier="0.41796875" alphaMultiplier="0.85546875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.42578125" greenMultiplier="0.42578125" blueMultiplier="0.42578125" alphaMultiplier="0.86328125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.43359375" greenMultiplier="0.43359375" blueMultiplier="0.43359375" alphaMultiplier="0.87109375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4375" greenMultiplier="0.4375" blueMultiplier="0.4375" alphaMultiplier="0.87890625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4453125" greenMultiplier="0.4453125" blueMultiplier="0.4453125" alphaMultiplier="0.890625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.453125" greenMultiplier="0.453125" blueMultiplier="0.453125" alphaMultiplier="0.8984375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4609375" greenMultiplier="0.4609375" blueMultiplier="0.4609375" alphaMultiplier="0.91015625"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.46875" greenMultiplier="0.46875" blueMultiplier="0.46875" alphaMultiplier="0.91796875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4765625" greenMultiplier="0.4765625" blueMultiplier="0.4765625" alphaMultiplier="0.9296875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.484375" greenMultiplier="0.484375" blueMultiplier="0.484375" alphaMultiplier="0.9375"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.4921875" greenMultiplier="0.4921875" blueMultiplier="0.4921875" alphaMultiplier="0.94921875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.5" greenMultiplier="0.5" blueMultiplier="0.5" alphaMultiplier="0.95703125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.5078125" greenMultiplier="0.5078125" blueMultiplier="0.5078125" alphaMultiplier="0.96875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.515625" greenMultiplier="0.515625" blueMultiplier="0.515625" alphaMultiplier="0.98046875"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.5234375" greenMultiplier="0.5234375" blueMultiplier="0.5234375" alphaMultiplier="0.98828125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 781" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="14.1" ty="-5.35" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<color>
+<Color redMultiplier="0.53125" greenMultiplier="0.53125" blueMultiplier="0.53125"/>
+</color>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#9844f7" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="75" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#666666" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#333333" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#657964" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#939672" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3c3c3c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#000000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#263924"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#465346"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="3" fillStyle1="4" strokeStyle="0" edges="! 81 -17| -94 -15| -34 -85| 82 -48| 81 -17"/>
+<Edge fillStyle0="4" fillStyle1="3" strokeStyle="0" edges="! 173 -50| 153 -15| 315 1| 241 -65| 173 -50"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! -3 -165| 39 -100| 255 -96| 381 -32| 507 -28| 547 -82| 567 -164"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="4" edges="! 567 -164| 633 -164| 697 -164| 763 -164| 847 -164| 844 -136"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 844 -136| 879 -136| 863 -32| 804 48| 794 88| 715 88"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 715 88| 759 130| 759 184| 789 184"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="4" edges="! 697 -164| 695 -114"/>
+<Edge fillStyle0="3" fillStyle1="4" strokeStyle="0" edges="! 793 -44| 740 -13| 576 -25| 640 -73| 795 -84| 793 -44"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="4" edges="! 763 -164| 755 -120"/>
+<Edge fillStyle0="3" fillStyle1="3" strokeStyle="4" edges="! 633 -164| 625 -108"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="4" edges="! 844 -136| 837 -77| 828 -28| 794 18"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="! 794 18| 555 4| 507 34"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="2" edges="! 507 34| 493 85"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 493 85| 543 86"/>
+<Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="! 543 86| 559 47| 666 53"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="4" edges="! -146 45| -165 36| -155 -40| -98 -67| -71 -153| -3 -165"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="2" edges="! -146 45| -91 14| 67 6| 259 22| 367 46| 433 12| 507 34"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 493 85| 483 82| 449 192| 385 187| 385 138| 349 104| 333 102| 263 172| 185 180| 163 211| -2 220| -97 156| -99 154| -99 68| -146 45"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 715 88| 695 88| 627 88| 543 86"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 300 71| 157 71| 9 62| -15 85| 17 156| 234 141| 300 71"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

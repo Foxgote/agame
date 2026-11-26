@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 613" itemID="6b03b500-000002a3" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 613">
+<layers>
+<DOMLayer name="Layer 1" color="#a0c35e" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="2.0" scaleMode="normal" joints="bevel">
+<fill>
+<SolidColor color="#ff0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 84 -20[ 69 -6 50 -5[ 33 -3 22 -15[ 11 -27 13 -45[ 16 -63 31 -77[ 46 -90 64 -92[ 83 -94 94 -82[ 105 -70 101 -52[ 99 -33 84 -20"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -30 77[ -45 91 -64 92[ -81 94 -92 82[ -103 70 -101 52[ -98 34 -83 20[ -68 7 -50 5[ -31 3 -20 15[ -9 27 -13 45[ -15 64 -30 77"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

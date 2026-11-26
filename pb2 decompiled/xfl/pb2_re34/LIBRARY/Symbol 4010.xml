@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4010" itemID="6b03b580-000009cf" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 4010" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.04864501953125" d="0.04864501953125"/>
+</matrix>
+<GradientEntry color="#142030" ratio="0.0"/>
+<GradientEntry color="#18243d" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.0616455078125" d="0.0616455078125"/>
+</matrix>
+<GradientEntry color="#2e405a" ratio="0.0"/>
+<GradientEntry color="#1f293f" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! 171 -215[ 256 -300 376 -300[ 496 -300 581 -215[ 666 -130 666 -10[ 666 110 581 195[ 496 280 376 280[ 256 280 171 195[ 86 110 86 -10[ 86 -130 171 -215"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 564 -563[ 797 -330 797 0[ 797 330 564 564[ 330 797 0 797[ -330 797 -563 564[ -797 330 -797 0[ -797 -330 -563 -563[ -330 -797 0 -797[ 330 -797 564 -563"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! 714 -714[ 1010 -418 1010 0[ 1010 418 714 714[ 418 1010 0 1010[ -418 1010 -714 714[ -1010 418 -1010 0[ -1010 -418 -714 -714[ -418 -1010 0 -1010[ 418 -1010 714 -714"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="0" edges="! -586 -101[ -548 -140 -494 -140[ -440 -140 -402 -101[ -364 -63 -364 -10[ -364 44 -402 82[ -440 120 -494 120[ -548 120 -586 82[ -624 44 -624 -10[ -624 -63 -586 -101"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

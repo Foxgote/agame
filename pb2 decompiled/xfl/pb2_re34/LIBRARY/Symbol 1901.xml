@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1901" itemID="6b03b500-000005b8" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1901">
+<layers>
+<DOMLayer name="Layer 1" color="#f16956">
+<frames>
+<DOMFrame index="0" duration="91" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 1900" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#c4c1e9" layerType="mask" locked="true">
+<frames>
+<DOMFrame index="0" duration="91" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#666666"/>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 36 48| 5 83| -4 83| -13 82| -22 83| -77 83| -73 46| -51 32[ -26 13 20 4[ 83 -2 131 19| 36 48"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -80 132| -36 148| -20 243| -55 260| -93 207| -83 171| -80 132"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#b8bb10" parentLayerIndex="1" locked="true">
+<frames>
+<DOMFrame index="0" duration="91" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#ffffff"/>
+</FillStyle>
+<FillStyle index="2">
+<BitmapFill bitmapPath="Bitmap 957.png" bitmapIsClipped="true">
+<matrix>
+<Matrix tx="-10.0" ty="-7.0" a="0.97503662109375" d="0.97503662109375"/>
+</matrix>
+</BitmapFill>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="0" edges="! -200 -140| 190 -140| 190 251| -200 251| -200 -140"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#e1b5df" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="91" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#331f1f" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#ff0000"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#201919"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="1" edges="! 175 6| 114 65"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 153 21[ 59 63 -62 39"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="2" edges="! -62 39[ -73 14 -47 -10[ 43 -46 129 -22[ 154 -5 153 21"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

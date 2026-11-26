@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4101" itemID="6b03b580-000009f8" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 4101">
+<layers>
+<DOMLayer name="Layer 1" color="#fe7640">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4100" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3657" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="0.0" ty="0.0" a="0.05000000074505806" d="0.05000000074505806"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#8c29da">
+<frames>
+<DOMFrame index="0" duration="3" keyMode="9728">
+<elements>
+<DOMDynamicText fontRenderingMode="customThicknessSharpness" name="txtscore" antiAliasSharpness="0" antiAliasThickness="56" width="29.0" height="10.05" renderAsHTML="true" isSelectable="false">
+<matrix>
+<Matrix tx="27.5" ty="5.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>999</characters>
+<textAttrs>
+<DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" autoKern="true" letterSpacing="1.0" lineSpacing="2.05" rightMargin="0.0" size="9" bitmapSize="180" face="EuropeExt Regular" fillColor="#ffffff"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMDynamicText>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#47dcb4">
+<frames>
+<DOMFrame index="0" duration="3" keyMode="9728">
+<elements>
+<DOMStaticText left="0" fontRenderingMode="customThicknessSharpness" antiAliasSharpness="0" antiAliasThickness="56" width="677" height="185" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="-47.1" ty="5.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>Blue Team:</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="9.2" bitmapSize="184" letterSpacing="1" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#66c1fd" face="EuropeExt Regular"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+<DOMFrame index="3" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#b11aee" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 4097" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-51.25" ty="0.0" a="1.13250732421875" d="1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

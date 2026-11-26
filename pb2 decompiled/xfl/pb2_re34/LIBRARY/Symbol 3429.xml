@@ -1,0 +1,563 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3429" itemID="6b03b580-00000929" lastModified="1789282414" linkageClassName="Controlsoverview_text" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3429">
+<layers>
+<DOMLayer name="Layer 1" color="#f1f2da">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="655" height="262" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="32.95" ty="79.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>INTERFACE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#c452b2">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="777" height="518" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="47.95" ty="96.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- SHOW MENU</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- PROCEED</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#6ed445">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="393" height="518" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="2.0" ty="96.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>ESC</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;SPACE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="11" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#f08e7e">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="792" height="259" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="639.85" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>MULTIPLAYER</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#ac795d">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1041" height="1642" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="666.85" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- CHAT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- TEAM CHAT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- LEADER TABLE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- SHIELD NADE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- TELEPORT NADE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- HE GRENADE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#b1fcb1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="391" height="1639" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="625.05" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>ENTER</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="7" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;M</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;TAB</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="14" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;Z</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;C</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;G</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#31c697">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="855" height="262" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="455.9" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>SINGLEPLAYER</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#b9d016">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1371" height="1206" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="481.9" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- CONSOLE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="-2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- CHANGE ACTIVE HERO</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="-2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- TIME WARP</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="-2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- KINETIC MODULE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="-2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- GRENADE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="-2" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#d75af9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="391" height="1203" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="441.1" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>ENTER</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="7" lineSpacing="-2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;TAB</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="14" lineSpacing="-2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;Z</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="-2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;C</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="-2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;G</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="21" lineSpacing="-2" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#8fde82">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1118" height="262" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="202.95" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>COMBAT &amp; ACTIONS</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 11" color="#f49b51">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="988" height="262" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="30.95" ty="2.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>BASIC MOVEMENT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 12" color="#19d0a9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1437" height="2054" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="291.95" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- NEXT WEAPON</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- PREVIOUS WEAPON</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- CHANGE WEAPON</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- DROP CURRENT WEAPON</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- LAST USED WEAPON</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- FALL</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- SHOOT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- USE</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 13" color="#7885c9">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="1122" height="2054" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="174.0" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>MOUSE WHEEL UP</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="17" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;MOUSE WHEEL DOWN</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="11" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;~,0,1,2,3...</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="24" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;V</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="60" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;Q</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="60" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;X</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="60" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;MOUSE CLICK</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="27" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;E</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="60" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 14" color="#f13ed0">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="843" height="1030" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="34.95" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>- MOVE LEFT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- MOVE RIGHT</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- JUMP</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;- DUCK</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="-0.05" indent="0" leftMargin="5" lineSpacing="0" rightMargin="0" fillColor="#999999" face="DejaVu Sans Mono"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 15" color="#9a6eee" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMStaticText left="0" antiAliasSharpness="0" antiAliasThickness="0" width="136" height="1027" autoExpand="true" isSelectable="false">
+<matrix>
+<Matrix tx="18.0" ty="19.0"/>
+</matrix>
+<textRuns>
+<DOMTextRun>
+<characters>A</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="8" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;D</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="8" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;W</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="8" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+<DOMTextRun>
+<characters>&#13;S</characters>
+<textAttrs>
+<DOMTextAttrs aliasText="false" rotation="true" size="11.85" bitmapSize="237" letterSpacing="0" indent="0" leftMargin="8" lineSpacing="0" rightMargin="0" fillColor="#ffffff" face="DejaVu Sans Mono Bold"/>
+</textAttrs>
+</DOMTextRun>
+</textRuns>
+</DOMStaticText>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

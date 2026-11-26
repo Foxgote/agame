@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3361" itemID="6b03b580-00000912" lastModified="1789282414" linkageClassName="eff_blood_sprite" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3361">
+<layers>
+<DOMLayer name="Script Layer" color="#2fcee1">
+<frames>
+<DOMFrame index="0" duration="35" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+this.visible = false;
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#a885a3">
+<frames>
+<DOMFrame index="0" duration="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3358" name="inner_blood_splat1" centerPoint3DX="28.55" centerPoint3DY="22.5">
+<matrix>
+<Matrix tx="3.85" ty="-9.45" a="0.12664794921875" d="0.12664794921875" b="0.12664794921875" c="-0.12664794921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#7eeb8a">
+<frames>
+<DOMFrame index="0" duration="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3360" name="inner_blood_splat2" centerPoint3DX="10.55" centerPoint3DY="5.35">
+<matrix>
+<Matrix tx="2.95" ty="-2.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#ff84a6" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3358" name="inner_blood_splat3" centerPoint3DX="20.05" centerPoint3DY="19.9">
+<matrix>
+<Matrix tx="-4.65" ty="-12.05" a="0.306640625" d="0.306640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

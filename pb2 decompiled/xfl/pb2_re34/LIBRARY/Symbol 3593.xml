@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3593" itemID="6b03b580-00000974" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3593">
+<layers>
+<DOMLayer name="Layer 1" color="#507eb6" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="0.0" ty="-19.4" a="0.0" d="0.0" b="0.01312255859375" c="-0.013092041015625"/>
+</matrix>
+<GradientEntry color="#5faefe" alpha="0.0" ratio="0.0"/>
+<GradientEntry color="#8ccafe" alpha="0.42745098" ratio="0.38431373"/>
+<GradientEntry color="#c5edfe" alpha="0.56078434" ratio="0.6901961"/>
+<GradientEntry color="#d0effe" alpha="0.63529414" ratio="0.85490197"/>
+<GradientEntry color="#e6f5ff" alpha="0.78039217" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 41 -173| -41 -173| -41 -224| -41 -226[ -41 -381 -29 -490[ -17 -602 0 -602[ 17 -602 29 -490[ 41 -381 41 -226| 41 -224| 41 -173"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

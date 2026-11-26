@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3149" itemID="6b03b580-000008b4" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3149" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#cdcccd" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#3c3c3c" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="3">
+<SolidColor color="#6e6e6e" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#bf2b2b" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#777676"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#292929"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="3">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3c3c3c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="4">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#515151"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="5">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#5d5d5d"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="6">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#7f3030"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="6" edges="! 1980 -5640| 2440 -6700"/>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 2000 -2940| 4060 -2940| 3460 -4440| 1980 -5640| 60 -6080| -1920 -5640| -3380 -4440| -3980 -2940| -1940 -2940"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="5" edges="! -1940 -2940| 2000 -2940"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 2000 -2940| 2000 -1660"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="2" edges="! 2000 -1660| 2960 -1660"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! 2960 -1660| 3160 -1220"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 3160 -1220| 4120 -2040| 5260 -2040| 6280 0| 3720 0"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! 3720 0| 700 0"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 700 0| -660 0"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! -660 0| -3660 0"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -3660 0| -6260 0| -5220 -2040| -4080 -2040| -3120 -1220"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="3" edges="! -3120 -1220| -2920 -1660"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="2" edges="! -2920 -1660| -1940 -1660"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -1940 -1660| -1940 -2940"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! 700 -1660| 2000 -1660"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -660 -1660| -660 -2040| 700 -2040| 700 -1660"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="4" edges="! 700 -1660| 700 0"/>
+<Edge fillStyle0="1" fillStyle1="4" strokeStyle="6" edges="! 1340 -4340[ 1340 -4060 1140 -3840[ 940 -3640 660 -3640| -580 -3640[ -860 -3640 -1080 -3840[ -1280 -4060 -1280 -4340[ -1280 -4620 -1080 -4820[ -860 -5020 -580 -5020| 660 -5020[ 940 -5020 1140 -4820[ 1340 -4620 1340 -4340"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="3" edges="! 3720 0| 3160 -1220"/>
+<Edge fillStyle0="0" fillStyle1="0" strokeStyle="6" edges="! -1920 -5640| -2360 -6660"/>
+<Edge fillStyle0="2" fillStyle1="3" strokeStyle="2" edges="! -1940 -1660| -660 -1660"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="4" edges="! -660 -1660| -660 0"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="3" edges="! -3120 -1220| -3660 0"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

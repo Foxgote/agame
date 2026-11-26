@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 1003" itemID="6b03b500-00000386" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 1003">
+<layers>
+<DOMLayer name="Layer 1" color="#9c44e2" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#65bcf6" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="7.35" ty="14.25" a="0.0101318359375" d="0.0113525390625"/>
+</matrix>
+<GradientEntry color="#131c2a" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#182435" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#324662" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="3">
+<RadialGradient focalPointRatio="0">
+<matrix>
+<Matrix tx="7.55" ty="6.55" a="0.0084228515625" d="0.008544921875"/>
+</matrix>
+<GradientEntry color="#131c2a" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#182435" alpha="1.0" ratio="0.65882355"/>
+<GradientEntry color="#324662" alpha="1.0" ratio="1.0"/>
+</RadialGradient>
+</FillStyle>
+<FillStyle index="4">
+<SolidColor color="#0f1213" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#070a0a"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! 31 140| 31 36| 109 -4| 109 33| 183 33| 183 -3| 259 36| 259 143"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 259 143| 294 143| 269 316| 233 344"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! 233 344| 233 382[ 148 527 78 434| 62 341"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 62 341| 34 319| -6 140| 31 140"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 31 140| 105 238"/>
+<Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="! 105 238| 105 147| 126 107| 168 107| 189 144| 189 238"/>
+<Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="! 189 238| 259 143"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! 189 238| 105 238"/>
+<Edge fillStyle0="4" fillStyle1="2" strokeStyle="1" edges="! 233 344| 213 359| 191 359| 191 312| 105 312| 105 356| 81 356| 62 341"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

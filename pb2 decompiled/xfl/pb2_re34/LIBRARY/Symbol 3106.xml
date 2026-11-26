@@ -1,0 +1,3031 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3106" itemID="6b03b580-00000897" lastModified="1789282414" linkageClassName="pb2_re34_fla.Symbol72_585" linkageExportInFirstFrame="false" linkageExportForAS="true">
+<timeline>
+<DOMTimeline name="Symbol 3106">
+<layers>
+<DOMLayer name="Script Layer" color="#d50bd1">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<Actionscript>
+<script>MovieClip(root).PlaySound_full(MovieClip(root).s_ship_incoming);
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="1" duration="58" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<Actionscript>
+<script>MovieClip(root).PlaySound_full(MovieClip(root).s_ship_explosion);
+MovieClip(root).PhysicsExplosion(this.parent.x,this.parent.y - 40,50 * 5,25 * 0.6,20 * 10,-1,"ship");
+MovieClip(root).PhysicsExplosion(this.parent.x - 150,this.parent.y - 40,30 * 5,15 * 0.6,10 * 10,-1,"ship");
+MovieClip(root).PhysicsExplosion(this.parent.x + 150,this.parent.y - 40,30 * 5,15 * 0.6,10 * 10,-1,"ship");
+if(!MovieClip(root).MP_mode &amp;&amp; MovieClip(root).CMPG_THIS_LEVEL == 39)
+{
+   MovieClip(root).EXEC_TRIGGER(1);
+}
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+<DOMFrame index="60" duration="29" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="89" keyMode="9728">
+<Actionscript>
+<script>this.stop();
+</script>
+</Actionscript>
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 2" color="#5291d3">
+<frames>
+<DOMFrame index="0" duration="34" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-149.3" centerPoint3DY="-853.95">
+<matrix>
+<Matrix tx="-183.3" ty="-870.45" a="-0.2894287109375" d="2.894256591796875" b="0.0774078369140625" c="0.7748565673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-146.3" centerPoint3DY="-839.6">
+<matrix>
+<Matrix tx="-180.3" ty="-856.1" a="-0.28912353515625" d="2.891326904296875" b="0.0776214599609375" c="0.776458740234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-143.15" centerPoint3DY="-824.2">
+<matrix>
+<Matrix tx="-177.15" ty="-840.7" a="-0.289093017578125" d="2.890960693359375" b="0.0777587890625" c="0.7777862548828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-139.85" centerPoint3DY="-807.5">
+<matrix>
+<Matrix tx="-173.85" ty="-824.0" a="-0.288787841796875" d="2.8879852294921875" b="0.0788421630859375" c="0.7885894775390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-136.25" centerPoint3DY="-789.65">
+<matrix>
+<Matrix tx="-170.25" ty="-806.15" a="-0.28875732421875" d="2.887664794921875" b="0.0789947509765625" c="0.79010009765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-132.6" centerPoint3DY="-770.7">
+<matrix>
+<Matrix tx="-166.6" ty="-787.2" a="-0.2884521484375" d="2.8845977783203125" b="0.0800933837890625" c="0.8011322021484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-128.35" centerPoint3DY="-750.8">
+<matrix>
+<Matrix tx="-162.35" ty="-767.3" a="-0.2884063720703125" d="2.8841400146484375" b="0.08026123046875" c="0.8027801513671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-124.25" centerPoint3DY="-729.55">
+<matrix>
+<Matrix tx="-158.25" ty="-746.05" a="-0.2880859375" d="2.8809814453125" b="0.0813751220703125" c="0.8139495849609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-119.6" centerPoint3DY="-707.4">
+<matrix>
+<Matrix tx="-153.6" ty="-723.9" a="-0.288055419921875" d="2.8805694580078125" b="0.0815582275390625" c="0.8157806396484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-115.05" centerPoint3DY="-683.75">
+<matrix>
+<Matrix tx="-149.05" ty="-700.25" a="-0.2877197265625" d="2.877227783203125" b="0.0826873779296875" c="0.827178955078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-110.1" centerPoint3DY="-659.15">
+<matrix>
+<Matrix tx="-144.1" ty="-675.65" a="-0.28765869140625" d="2.8739776611328125" b="0.0829010009765625" c="0.8386688232421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-104.75" centerPoint3DY="-633.35">
+<matrix>
+<Matrix tx="-138.75" ty="-649.85" a="-0.2873382568359375" d="2.8733367919921875" b="0.08404541015625" c="0.840728759765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-99.45" centerPoint3DY="-606.4">
+<matrix>
+<Matrix tx="-133.45" ty="-622.9" a="-0.2869720458984375" d="2.8698577880859375" b="0.0852203369140625" c="0.85235595703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-93.85" centerPoint3DY="-578.35">
+<matrix>
+<Matrix tx="-127.85" ty="-594.85" a="-0.2866363525390625" d="2.8663787841796875" b="0.0863800048828125" c="0.8640289306640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-87.75" centerPoint3DY="-549.2">
+<matrix>
+<Matrix tx="-121.75" ty="-565.7" a="-0.28656005859375" d="2.865692138671875" b="0.0866241455078125" c="0.866455078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-81.7" centerPoint3DY="-518.85">
+<matrix>
+<Matrix tx="-115.7" ty="-535.35" a="-0.28619384765625" d="2.86212158203125" b="0.0878143310546875" c="0.8783111572265625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-75.45" centerPoint3DY="-487.3">
+<matrix>
+<Matrix tx="-109.45" ty="-503.8" a="-0.28582763671875" d="2.858367919921875" b="0.0890045166015625" c="0.8902587890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-68.95" centerPoint3DY="-454.65">
+<matrix>
+<Matrix tx="-102.95" ty="-471.15" a="-0.2854461669921875" d="2.8545684814453125" b="0.0902099609375" c="0.9022979736328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-62.15" centerPoint3DY="-420.8">
+<matrix>
+<Matrix tx="-96.15" ty="-437.3" a="-0.285064697265625" d="2.8507232666015625" b="0.0914154052734375" c="0.9144287109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-55.05" centerPoint3DY="-385.9">
+<matrix>
+<Matrix tx="-89.05" ty="-402.4" a="-0.2846832275390625" d="2.8468780517578125" b="0.0926361083984375" c="0.926605224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-47.95" centerPoint3DY="-349.75">
+<matrix>
+<Matrix tx="-81.95" ty="-366.25" a="-0.284271240234375" d="2.842803955078125" b="0.0938720703125" c="0.9389190673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-40.35" centerPoint3DY="-312.55">
+<matrix>
+<Matrix tx="-74.35" ty="-329.05" a="-0.2838592529296875" d="2.838775634765625" b="0.0951080322265625" c="0.95123291015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-32.65" centerPoint3DY="-274.05">
+<matrix>
+<Matrix tx="-66.65" ty="-290.55" a="-0.283447265625" d="2.834564208984375" b="0.096343994140625" c="0.963592529296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-24.6" centerPoint3DY="-234.6">
+<matrix>
+<Matrix tx="-58.6" ty="-251.1" a="-0.28302001953125" d="2.83026123046875" b="0.09759521484375" c="0.976043701171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-16.5" centerPoint3DY="-194.0">
+<matrix>
+<Matrix tx="-50.5" ty="-210.5" a="-0.282867431640625" d="2.828521728515625" b="0.0989837646484375" c="0.99041748046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" duration="31" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 3" color="#5ab4a6">
+<frames>
+<DOMFrame index="0" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="7.85" centerPoint3DY="2.55">
+<matrix>
+<Matrix tx="-1.45" ty="-4.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-22.2" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-31.5" ty="-4.3" a="0.8529815673828125" d="0.8529815673828125" b="-0.5191497802734375" c="0.5191497802734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-49.15" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-58.45" ty="-4.3" a="0.5079193115234375" d="0.5079193115234375" b="-0.8597412109375" c="0.8597412109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-72.9" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-82.2" ty="-4.3" a="0.100616455078125" d="0.100616455078125" b="-0.9945831298828125" c="0.9945831298828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-93.45" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-102.75" ty="-4.3" a="-0.2676544189453125" d="-0.2676544189453125" b="-0.9626312255859375" c="0.9626312255859375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-110.9" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-120.2" ty="-4.3" a="-0.555572509765625" d="-0.555572509765625" b="-0.82965087890625" c="0.82965087890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-125.1" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-134.4" ty="-4.3" a="-0.7492523193359375" d="-0.7492523193359375" b="-0.6598358154296875" c="0.6598358154296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-136.2" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-145.5" ty="-4.3" a="-0.8663482666015625" d="-0.8663482666015625" b="-0.4965972900390625" c="0.4965972900390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-144.1" centerPoint3DY="2.55">
+<matrix>
+<Matrix tx="-153.4" ty="-4.25" a="-0.929046630859375" d="-0.929046630859375" b="-0.3668975830078125" c="0.3668975830078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-148.85" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-158.15" ty="-4.3" a="-0.95770263671875" d="-0.95770263671875" b="-0.284637451171875" c="0.284637451171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" duration="21" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3105" centerPoint3DX="-150.45" centerPoint3DY="2.5">
+<matrix>
+<Matrix tx="-159.75" ty="-4.3" a="-0.9659271240234375" d="-0.9659271240234375" b="-0.258819580078125" c="0.258819580078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 4" color="#b2d91e">
+<frames>
+<DOMFrame index="0" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-4.35" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-13.4" ty="-6.05"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-27.95" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-37.0" ty="-6.05" a="0.948394775390625" d="0.948394775390625" b="0.3139801025390625" c="-0.3139801025390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-50.3" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-59.35" ty="-6.05" a="0.80926513671875" d="0.80926513671875" b="0.5847930908203125" c="-0.5847930908203125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-71.35" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-80.4" ty="-6.05" a="0.6092681884765625" d="0.6092681884765625" b="0.7909698486328125" c="-0.7909698486328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-91.15" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-100.2" ty="-6.05" a="0.3753662109375" d="0.3753662109375" b="0.9256439208984375" c="-0.9256439208984375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-109.65" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-118.7" ty="-6.05" a="0.1315155029296875" d="0.1315155029296875" b="0.990875244140625" c="-0.990875244140625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-126.85" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-135.9" ty="-6.05" a="-0.09686279296875" d="-0.09686279296875" b="0.9949798583984375" c="-0.9949798583984375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-142.8" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-151.85" ty="-6.05" a="-0.309844970703125" d="-0.309844970703125" b="0.94976806640625" c="-0.94976806640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-157.5" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-166.55" ty="-6.05" a="-0.4930572509765625" d="-0.4930572509765625" b="0.868377685546875" c="-0.868377685546875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-170.9" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-179.95" ty="-6.05" a="-0.64324951171875" d="-0.64324951171875" b="0.7635498046875" c="-0.7635498046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-183.0" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-192.05" ty="-6.05" a="-0.7607269287109375" d="-0.7607269287109375" b="0.646575927734375" c="-0.646575927734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-193.85" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-202.9" ty="-6.05" a="-0.8482513427734375" d="-0.8482513427734375" b="0.5268096923828125" c="-0.5268096923828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-203.45" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-212.5" ty="-6.05" a="-0.9100799560546875" d="-0.9100799560546875" b="0.4114532470703125" c="-0.4114532470703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-211.75" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-220.8" ty="-6.05" a="-0.9511260986328125" d="-0.9511260986328125" b="0.305694580078125" c="-0.305694580078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-218.75" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-227.8" ty="-6.05" a="-0.9763336181640625" d="-0.9763336181640625" b="0.2130889892578125" c="-0.2130889892578125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-224.5" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-233.55" ty="-6.05" a="-0.9902801513671875" d="-0.9902801513671875" b="0.135833740234375" c="-0.135833740234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-228.95" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-238.0" ty="-6.05" a="-0.996917724609375" d="-0.996917724609375" b="0.0751495361328125" c="-0.0751495361328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-232.15" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-241.2" ty="-6.05" a="-0.9993896484375" d="-0.9993896484375" b="0.0316009521484375" c="-0.0316009521484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-234.05" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-243.1" ty="-6.05" a="-0.999969482421875" d="-0.999969482421875" b="0.0054473876953125" c="-0.0054473876953125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="78" duration="12" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3103" centerPoint3DX="-234.7" centerPoint3DY="-1.05">
+<matrix>
+<Matrix tx="-243.75" ty="-6.05" a="-1.0" d="-1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 5" color="#dca24c">
+<frames>
+<DOMFrame index="0" duration="34" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-126.25" centerPoint3DY="-757.25">
+<matrix>
+<Matrix tx="-160.25" ty="-773.75" a="-0.2894287109375" d="2.894256591796875" b="0.0774078369140625" c="0.7748565673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-123.2" centerPoint3DY="-743.0">
+<matrix>
+<Matrix tx="-157.2" ty="-759.5" a="-0.28912353515625" d="2.891326904296875" b="0.0776214599609375" c="0.776458740234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-120.0" centerPoint3DY="-727.55">
+<matrix>
+<Matrix tx="-154.0" ty="-744.05" a="-0.289093017578125" d="2.890960693359375" b="0.0777587890625" c="0.7777862548828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-116.35" centerPoint3DY="-710.95">
+<matrix>
+<Matrix tx="-150.35" ty="-727.45" a="-0.288787841796875" d="2.8879852294921875" b="0.0788421630859375" c="0.7885894775390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-112.7" centerPoint3DY="-693.15">
+<matrix>
+<Matrix tx="-146.7" ty="-709.65" a="-0.28875732421875" d="2.887664794921875" b="0.0789947509765625" c="0.79010009765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-108.65" centerPoint3DY="-674.3">
+<matrix>
+<Matrix tx="-142.65" ty="-690.8" a="-0.2884521484375" d="2.8845977783203125" b="0.0800933837890625" c="0.8011322021484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-104.35" centerPoint3DY="-654.4">
+<matrix>
+<Matrix tx="-138.35" ty="-670.9" a="-0.2884063720703125" d="2.8841400146484375" b="0.08026123046875" c="0.8027801513671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-99.9" centerPoint3DY="-633.25">
+<matrix>
+<Matrix tx="-133.9" ty="-649.75" a="-0.2880859375" d="2.8809814453125" b="0.0813751220703125" c="0.8139495849609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-95.2" centerPoint3DY="-611.1">
+<matrix>
+<Matrix tx="-129.2" ty="-627.6" a="-0.288055419921875" d="2.8805694580078125" b="0.0815582275390625" c="0.8157806396484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-90.2" centerPoint3DY="-587.6">
+<matrix>
+<Matrix tx="-124.2" ty="-604.1" a="-0.2877197265625" d="2.877227783203125" b="0.0826873779296875" c="0.827178955078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-84.9" centerPoint3DY="-563.1">
+<matrix>
+<Matrix tx="-118.9" ty="-579.6" a="-0.28765869140625" d="2.8739776611328125" b="0.0829010009765625" c="0.8386688232421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-79.5" centerPoint3DY="-537.25">
+<matrix>
+<Matrix tx="-113.5" ty="-553.75" a="-0.2873382568359375" d="2.8733367919921875" b="0.08404541015625" c="0.840728759765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-73.8" centerPoint3DY="-510.45">
+<matrix>
+<Matrix tx="-107.8" ty="-526.95" a="-0.2869720458984375" d="2.8698577880859375" b="0.0852203369140625" c="0.85235595703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-67.8" centerPoint3DY="-482.5">
+<matrix>
+<Matrix tx="-101.8" ty="-499.0" a="-0.2866363525390625" d="2.8663787841796875" b="0.0863800048828125" c="0.8640289306640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-61.65" centerPoint3DY="-453.4">
+<matrix>
+<Matrix tx="-95.65" ty="-469.9" a="-0.28656005859375" d="2.865692138671875" b="0.0866241455078125" c="0.866455078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-55.25" centerPoint3DY="-423.15">
+<matrix>
+<Matrix tx="-89.25" ty="-439.65" a="-0.28619384765625" d="2.86212158203125" b="0.0878143310546875" c="0.8783111572265625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-48.55" centerPoint3DY="-391.65">
+<matrix>
+<Matrix tx="-82.55" ty="-408.15" a="-0.28582763671875" d="2.858367919921875" b="0.0890045166015625" c="0.8902587890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-41.6" centerPoint3DY="-359.15">
+<matrix>
+<Matrix tx="-75.6" ty="-375.65" a="-0.2854461669921875" d="2.8545684814453125" b="0.0902099609375" c="0.9022979736328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-34.4" centerPoint3DY="-325.4">
+<matrix>
+<Matrix tx="-68.4" ty="-341.9" a="-0.285064697265625" d="2.8507232666015625" b="0.0914154052734375" c="0.9144287109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-27.0" centerPoint3DY="-290.6">
+<matrix>
+<Matrix tx="-61.0" ty="-307.1" a="-0.2846832275390625" d="2.8468780517578125" b="0.0926361083984375" c="0.926605224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-19.4" centerPoint3DY="-254.6">
+<matrix>
+<Matrix tx="-53.4" ty="-271.1" a="-0.284271240234375" d="2.842803955078125" b="0.0938720703125" c="0.9389190673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-11.4" centerPoint3DY="-217.55">
+<matrix>
+<Matrix tx="-45.4" ty="-234.05" a="-0.2838592529296875" d="2.838775634765625" b="0.0951080322265625" c="0.95123291015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-3.25" centerPoint3DY="-179.2">
+<matrix>
+<Matrix tx="-37.25" ty="-195.7" a="-0.283447265625" d="2.834564208984375" b="0.096343994140625" c="0.963592529296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="5.15" centerPoint3DY="-139.85">
+<matrix>
+<Matrix tx="-28.85" ty="-156.35" a="-0.28302001953125" d="2.83026123046875" b="0.09759521484375" c="0.976043701171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="13.75" centerPoint3DY="-99.3">
+<matrix>
+<Matrix tx="-20.25" ty="-115.8" a="-0.282867431640625" d="2.828521728515625" b="0.0989837646484375" c="0.99041748046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" duration="31" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 6" color="#ebe0fb">
+<frames>
+<DOMFrame index="0" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="3.6" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-9.45" ty="-4.25"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="-7.2" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-20.25" ty="-4.25" a="0.9954376220703125" d="0.9954376220703125" b="-0.0921478271484375" c="0.0921478271484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="-15.6" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-28.65" ty="-4.25" a="0.9856719970703125" d="0.9856719970703125" b="-0.1654815673828125" c="0.1654815673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="-21.6" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-34.65" ty="-4.25" a="0.9754791259765625" d="0.9754791259765625" b="-0.21685791015625" c="0.21685791015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="-25.2" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-38.25" ty="-4.25" a="0.96826171875" d="0.96826171875" b="-0.2467803955078125" c="0.2467803955078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" duration="26" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3101" centerPoint3DX="-26.4" centerPoint3DY="2.0">
+<matrix>
+<Matrix tx="-39.45" ty="-4.25" a="0.9659271240234375" d="0.9659271240234375" b="-0.258819580078125" c="0.258819580078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 7" color="#7283d4">
+<frames>
+<DOMFrame index="0" duration="59" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="30.2" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="17.85" ty="-3.95"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="56.15" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="43.8" ty="-3.95" a="0.9188690185546875" d="0.9188690185546875" b="0.39154052734375" c="-0.39154052734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="80.3" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="67.95" ty="-3.95" a="0.7077178955078125" d="0.7077178955078125" b="0.70416259765625" c="-0.70416259765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="102.65" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="90.3" ty="-3.95" a="0.42340087890625" d="0.42340087890625" b="0.904541015625" c="-0.904541015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="123.2" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="110.85" ty="-3.95" a="0.1177520751953125" d="0.1177520751953125" b="0.992645263671875" c="-0.992645263671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="141.95" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="129.6" ty="-3.95" a="-0.17041015625" d="-0.17041015625" b="0.98480224609375" c="-0.98480224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="158.95" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="146.6" ty="-3.95" a="-0.42340087890625" d="-0.42340087890625" b="0.904541015625" c="-0.904541015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="174.15" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="161.8" ty="-3.95" a="-0.6260833740234375" d="-0.6260833740234375" b="0.7776947021484375" c="-0.7776947021484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="187.6" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="175.25" ty="-3.95" a="-0.7745361328125" d="-0.7745361328125" b="0.6299896240234375" c="-0.6299896240234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="199.2" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="186.85" ty="-3.95" a="-0.8750457763671875" d="-0.8750457763671875" b="0.481170654296875" c="-0.481170654296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="209.05" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="196.7" ty="-3.95" a="-0.938568115234375" d="-0.938568115234375" b="0.3420257568359375" c="-0.3420257568359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="217.1" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="204.75" ty="-3.95" a="-0.9745635986328125" d="-0.9745635986328125" b="0.2209014892578125" c="-0.2209014892578125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="223.35" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="211.0" ty="-3.95" a="-0.992034912109375" d="-0.992034912109375" b="0.1227264404296875" c="-0.1227264404296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="227.8" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="215.45" ty="-3.95" a="-0.9983978271484375" d="-0.9983978271484375" b="0.0532073974609375" c="-0.0532073974609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="230.5" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="218.15" ty="-3.95" a="-0.9998626708984375" d="-0.9998626708984375" b="0.0133056640625" c="-0.0133056640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" duration="16" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3099" centerPoint3DX="231.4" centerPoint3DY="2.75">
+<matrix>
+<Matrix tx="219.05" ty="-3.95" a="-1.0" d="-1.0"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 8" color="#41fcd8">
+<frames>
+<DOMFrame index="0" duration="34" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-128.8" centerPoint3DY="-869.85">
+<matrix>
+<Matrix tx="-162.8" ty="-886.35" a="-0.2894287109375" d="2.894256591796875" b="0.0774078369140625" c="0.7748565673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-125.8" centerPoint3DY="-855.5">
+<matrix>
+<Matrix tx="-159.8" ty="-872.0" a="-0.28912353515625" d="2.891326904296875" b="0.0776214599609375" c="0.776458740234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-122.65" centerPoint3DY="-840.05">
+<matrix>
+<Matrix tx="-156.65" ty="-856.55" a="-0.289093017578125" d="2.890960693359375" b="0.0777587890625" c="0.7777862548828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-119.45" centerPoint3DY="-823.45">
+<matrix>
+<Matrix tx="-153.45" ty="-839.95" a="-0.288787841796875" d="2.8879852294921875" b="0.0788421630859375" c="0.7885894775390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-115.85" centerPoint3DY="-805.65">
+<matrix>
+<Matrix tx="-149.85" ty="-822.15" a="-0.28875732421875" d="2.887664794921875" b="0.0789947509765625" c="0.79010009765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-112.3" centerPoint3DY="-786.8">
+<matrix>
+<Matrix tx="-146.3" ty="-803.3" a="-0.2884521484375" d="2.8845977783203125" b="0.0800933837890625" c="0.8011322021484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-108.05" centerPoint3DY="-766.85">
+<matrix>
+<Matrix tx="-142.05" ty="-783.35" a="-0.2884063720703125" d="2.8841400146484375" b="0.08026123046875" c="0.8027801513671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-103.95" centerPoint3DY="-745.7">
+<matrix>
+<Matrix tx="-137.95" ty="-762.2" a="-0.2880859375" d="2.8809814453125" b="0.0813751220703125" c="0.8139495849609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-99.3" centerPoint3DY="-723.55">
+<matrix>
+<Matrix tx="-133.3" ty="-740.05" a="-0.288055419921875" d="2.8805694580078125" b="0.0815582275390625" c="0.8157806396484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-94.8" centerPoint3DY="-700.0">
+<matrix>
+<Matrix tx="-128.8" ty="-716.5" a="-0.2877197265625" d="2.877227783203125" b="0.0826873779296875" c="0.827178955078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-89.95" centerPoint3DY="-675.4">
+<matrix>
+<Matrix tx="-123.95" ty="-691.9" a="-0.28765869140625" d="2.8739776611328125" b="0.0829010009765625" c="0.8386688232421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-84.65" centerPoint3DY="-649.65">
+<matrix>
+<Matrix tx="-118.65" ty="-666.15" a="-0.2873382568359375" d="2.8733367919921875" b="0.08404541015625" c="0.840728759765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-79.4" centerPoint3DY="-622.85">
+<matrix>
+<Matrix tx="-113.4" ty="-639.35" a="-0.2869720458984375" d="2.8698577880859375" b="0.0852203369140625" c="0.85235595703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-73.85" centerPoint3DY="-594.85">
+<matrix>
+<Matrix tx="-107.85" ty="-611.35" a="-0.2866363525390625" d="2.8663787841796875" b="0.0863800048828125" c="0.8640289306640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-67.75" centerPoint3DY="-565.7">
+<matrix>
+<Matrix tx="-101.75" ty="-582.2" a="-0.28656005859375" d="2.865692138671875" b="0.0866241455078125" c="0.866455078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-61.8" centerPoint3DY="-535.45">
+<matrix>
+<Matrix tx="-95.8" ty="-551.95" a="-0.28619384765625" d="2.86212158203125" b="0.0878143310546875" c="0.8783111572265625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-55.6" centerPoint3DY="-503.95">
+<matrix>
+<Matrix tx="-89.6" ty="-520.45" a="-0.28582763671875" d="2.858367919921875" b="0.0890045166015625" c="0.8902587890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-49.15" centerPoint3DY="-471.4">
+<matrix>
+<Matrix tx="-83.15" ty="-487.9" a="-0.2854461669921875" d="2.8545684814453125" b="0.0902099609375" c="0.9022979736328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-42.4" centerPoint3DY="-437.65">
+<matrix>
+<Matrix tx="-76.4" ty="-454.15" a="-0.285064697265625" d="2.8507232666015625" b="0.0914154052734375" c="0.9144287109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-35.45" centerPoint3DY="-402.8">
+<matrix>
+<Matrix tx="-69.45" ty="-419.3" a="-0.2846832275390625" d="2.8468780517578125" b="0.0926361083984375" c="0.926605224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-28.4" centerPoint3DY="-366.75">
+<matrix>
+<Matrix tx="-62.4" ty="-383.25" a="-0.284271240234375" d="2.842803955078125" b="0.0938720703125" c="0.9389190673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-20.85" centerPoint3DY="-329.65">
+<matrix>
+<Matrix tx="-54.85" ty="-346.15" a="-0.2838592529296875" d="2.838775634765625" b="0.0951080322265625" c="0.95123291015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-13.25" centerPoint3DY="-291.25">
+<matrix>
+<Matrix tx="-47.25" ty="-307.75" a="-0.283447265625" d="2.834564208984375" b="0.096343994140625" c="0.963592529296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="-5.25" centerPoint3DY="-251.85">
+<matrix>
+<Matrix tx="-39.25" ty="-268.35" a="-0.28302001953125" d="2.83026123046875" b="0.09759521484375" c="0.976043701171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3078" name="rays" centerPoint3DX="2.8" centerPoint3DY="-211.4">
+<matrix>
+<Matrix tx="-31.2" ty="-227.9" a="-0.282867431640625" d="2.828521728515625" b="0.0989837646484375" c="0.99041748046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+<filters>
+<GlowFilter blurX="7" blurY="7" color="#0099cc" quality="2" strength="1"/>
+</filters>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="90.5" centerPoint3DY="-79.0">
+<matrix>
+<Matrix tx="-1.65" ty="-121.0" a="0.4033203125" d="0.4033203125" b="0.91448974609375" c="-0.91448974609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="99.4" centerPoint3DY="-74.55">
+<matrix>
+<Matrix tx="7.25" ty="-116.55" a="0.317718505859375" d="0.317718505859375" b="0.94659423828125" c="-0.94659423828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="106.65" centerPoint3DY="-70.85">
+<matrix>
+<Matrix tx="14.5" ty="-112.85" a="0.24676513671875" d="0.24676513671875" b="0.96771240234375" c="-0.96771240234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="112.4" centerPoint3DY="-68.1">
+<matrix>
+<Matrix tx="20.25" ty="-110.1" a="0.19134521484375" d="0.19134521484375" b="0.9803619384765625" c="-0.9803619384765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="116.45" centerPoint3DY="-66.05">
+<matrix>
+<Matrix tx="24.3" ty="-108.05" a="0.1528778076171875" d="0.1528778076171875" b="0.98773193359375" c="-0.98773193359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="120.25" centerPoint3DY="-65.4">
+<matrix>
+<Matrix tx="28.1" ty="-107.4" a="0.1090087890625" d="0.1090087890625" b="0.993133544921875" c="-0.993133544921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="124.1" centerPoint3DY="-64.7">
+<matrix>
+<Matrix tx="31.95" ty="-106.7" a="0.065582275390625" d="0.065582275390625" b="0.9970855712890625" c="-0.9970855712890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="127.9" centerPoint3DY="-64.05">
+<matrix>
+<Matrix tx="35.75" ty="-106.05" a="0.022003173828125" d="0.022003173828125" b="0.9991607666015625" c="-0.9991607666015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="131.75" centerPoint3DY="-63.4">
+<matrix>
+<Matrix tx="39.6" ty="-105.4" a="-0.018310546875" d="-0.018310546875" b="0.9992523193359375" c="-0.9992523193359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="135.6" centerPoint3DY="-62.7">
+<matrix>
+<Matrix tx="43.45" ty="-104.7" a="-0.0618896484375" d="-0.0618896484375" b="0.9973602294921875" c="-0.9973602294921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="139.45" centerPoint3DY="-62.05">
+<matrix>
+<Matrix tx="47.3" ty="-104.05" a="-0.10797119140625" d="-0.10797119140625" b="0.9936370849609375" c="-0.9936370849609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="141.45" centerPoint3DY="-58.9">
+<matrix>
+<Matrix tx="49.3" ty="-100.9" a="-0.1485443115234375" d="-0.1485443115234375" b="0.987884521484375" c="-0.987884521484375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="143.8" centerPoint3DY="-55.3">
+<matrix>
+<Matrix tx="51.65" ty="-97.3" a="-0.199371337890625" d="-0.199371337890625" b="0.978729248046875" c="-0.978729248046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="146.4" centerPoint3DY="-51.25">
+<matrix>
+<Matrix tx="54.25" ty="-93.25" a="-0.2511749267578125" d="-0.2511749267578125" b="0.9665679931640625" c="-0.9665679931640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="149.3" centerPoint3DY="-46.8">
+<matrix>
+<Matrix tx="57.15" ty="-88.8" a="-0.3131256103515625" d="-0.3131256103515625" b="0.948150634765625" c="-0.948150634765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="152.45" centerPoint3DY="-41.8">
+<matrix>
+<Matrix tx="60.3" ty="-83.8" a="-0.3751373291015625" d="-0.3751373291015625" b="0.9251708984375" c="-0.9251708984375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="155.95" centerPoint3DY="-36.45">
+<matrix>
+<Matrix tx="63.8" ty="-78.45" a="-0.44281005859375" d="-0.44281005859375" b="0.8945770263671875" c="-0.8945770263671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="159.75" centerPoint3DY="-30.6">
+<matrix>
+<Matrix tx="67.6" ty="-72.6" a="-0.514984130859375" d="-0.514984130859375" b="0.854888916015625" c="-0.854888916015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="163.85" centerPoint3DY="-24.35">
+<matrix>
+<Matrix tx="71.7" ty="-66.35" a="-0.5875701904296875" d="-0.5875701904296875" b="0.8065948486328125" c="-0.8065948486328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="78" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="168.15" centerPoint3DY="-17.65">
+<matrix>
+<Matrix tx="76.0" ty="-59.65" a="-0.6593170166015625" d="-0.6593170166015625" b="0.7489776611328125" c="-0.7489776611328125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="79" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="172.8" centerPoint3DY="-10.45">
+<matrix>
+<Matrix tx="80.65" ty="-52.45" a="-0.731048583984375" d="-0.731048583984375" b="0.6791229248046875" c="-0.6791229248046875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="80" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="177.75" centerPoint3DY="-2.85">
+<matrix>
+<Matrix tx="85.6" ty="-44.85" a="-0.7983856201171875" d="-0.7983856201171875" b="0.5986480712890625" c="-0.5986480712890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="81" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="182.95" centerPoint3DY="5.3">
+<matrix>
+<Matrix tx="90.8" ty="-36.7" a="-0.859405517578125" d="-0.859405517578125" b="0.5074310302734375" c="-0.5074310302734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="82" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="188.5" centerPoint3DY="13.85">
+<matrix>
+<Matrix tx="96.35" ty="-28.15" a="-0.91448974609375" d="-0.91448974609375" b="0.4033203125" c="-0.4033203125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="83" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="188.45" centerPoint3DY="14.35">
+<matrix>
+<Matrix tx="96.3" ty="-27.65" a="-0.9216766357421875" d="-0.9216766357421875" b="0.383392333984375" c="-0.383392333984375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="84" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="188.55" centerPoint3DY="14.8">
+<matrix>
+<Matrix tx="96.4" ty="-27.2" a="-0.9283294677734375" d="-0.9283294677734375" b="0.3669281005859375" c="-0.3669281005859375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="85" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="188.55" centerPoint3DY="15.3">
+<matrix>
+<Matrix tx="96.4" ty="-26.7" a="-0.9347381591796875" d="-0.9347381591796875" b="0.3503570556640625" c="-0.3503570556640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="86" duration="4" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3097" centerPoint3DX="188.5" centerPoint3DY="15.85">
+<matrix>
+<Matrix tx="96.35" ty="-26.15" a="-0.9417724609375" d="-0.9417724609375" b="0.333984375" c="-0.333984375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 9" color="#c9dc12">
+<frames>
+<DOMFrame index="0" duration="34" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-145.85" ty="-774.8" a="0.964813232421875" d="-0.964752197265625" b="-0.258056640625" c="-0.2582855224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-142.8" ty="-760.55" a="0.9637908935546875" d="-0.963775634765625" b="-0.2587738037109375" c="-0.258819580078125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-139.6" ty="-745.15" a="0.9636688232421875" d="-0.963653564453125" b="-0.25921630859375" c="-0.2592620849609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-136.0" ty="-728.6" a="0.962677001953125" d="-0.9626617431640625" b="-0.2628326416015625" c="-0.2628631591796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-132.35" ty="-710.8" a="0.9625701904296875" d="-0.962554931640625" b="-0.2633209228515625" c="-0.26336669921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-128.3" ty="-692.0" a="0.9615325927734375" d="-0.9615325927734375" b="-0.2669830322265625" c="-0.2670440673828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-124.0" ty="-672.1" a="0.961395263671875" d="-0.9613800048828125" b="-0.267547607421875" c="-0.2675933837890625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-119.5" ty="-651.0" a="0.9603424072265625" d="-0.9603271484375" b="-0.271270751953125" c="-0.2713165283203125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-114.8" ty="-628.85" a="0.960205078125" d="-0.9601898193359375" b="-0.2718658447265625" c="-0.2719268798828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-109.85" ty="-605.4" a="0.9590911865234375" d="-0.959075927734375" b="-0.2756500244140625" c="-0.275726318359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-104.55" ty="-580.9" a="0.9589080810546875" d="-0.9579925537109375" b="-0.2763519287109375" c="-0.2795562744140625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-99.15" ty="-555.15" a="0.9578094482421875" d="-0.9577789306640625" b="-0.280181884765625" c="-0.280242919921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-93.45" ty="-528.4" a="0.956634521484375" d="-0.9566192626953125" b="-0.2840728759765625" c="-0.28411865234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-87.45" ty="-500.5" a="0.955474853515625" d="-0.9554595947265625" b="-0.2879638671875" c="-0.2880096435546875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-81.3" ty="-471.4" a="0.9552459716796875" d="-0.955230712890625" b="-0.2887725830078125" c="-0.288818359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-74.9" ty="-441.2" a="0.95404052734375" d="-0.95404052734375" b="-0.292724609375" c="-0.2927703857421875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-68.2" ty="-409.8" a="0.952789306640625" d="-0.952789306640625" b="-0.29669189453125" c="-0.2967529296875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-61.3" ty="-377.35" a="0.9515380859375" d="-0.9515228271484375" b="-0.3007354736328125" c="-0.3007659912109375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-54.1" ty="-343.7" a="0.9502716064453125" d="-0.9502410888671875" b="-0.30474853515625" c="-0.3048095703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-46.65" ty="-308.95" a="0.9489593505859375" d="-0.9489593505859375" b="-0.308807373046875" c="-0.308868408203125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-39.1" ty="-273.0" a="0.9476165771484375" d="-0.947601318359375" b="-0.312896728515625" c="-0.3129730224609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-31.1" ty="-236.0" a="0.946258544921875" d="-0.946258544921875" b="-0.3170166015625" c="-0.31707763671875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-23.0" ty="-197.7" a="0.944854736328125" d="-0.944854736328125" b="-0.3211517333984375" c="-0.321197509765625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-14.55" ty="-158.4" a="0.943450927734375" d="-0.94342041015625" b="-0.3253173828125" c="-0.325347900390625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3093" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-5.95" ty="-117.95" a="0.9429168701171875" d="-0.942840576171875" b="-0.3299560546875" c="-0.33013916015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" duration="31" keyMode="9728">
+<elements/>
+</DOMFrame>
+</frames>
+</DOMLayer>
+<DOMLayer name="Layer 10" color="#c2cb82" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" duration="34" keyMode="9728">
+<elements/>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-145.85" ty="-774.8" a="0.04824066162109375" d="-0.04823761060833931" b="-0.01290283165872097" c="-0.012914275750517845"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="35" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-142.8" ty="-760.55" a="0.048189543187618256" d="-0.04818878322839737" b="-0.01293869037181139" c="-0.01294097863137722"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="36" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-139.6" ty="-745.15" a="0.048183441162109375" d="-0.04818267747759819" b="-0.01296081580221653" c="-0.01296310406178236"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="37" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-136.0" ty="-728.6" a="0.04813385009765625" d="-0.048133086413145065" b="-0.013141632080078125" c="-0.013143157586455345"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="38" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-132.35" ty="-710.8" a="0.048128508031368256" d="-0.04812774807214737" b="-0.013166045770049095" c="-0.0131683349609375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="39" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-128.3" ty="-692.0" a="0.048076629638671875" d="-0.048076629638671875" b="-0.013349151238799095" c="-0.01335220318287611"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="40" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-124.0" ty="-672.1" a="0.04806976392865181" d="-0.048069000244140625" b="-0.013377380557358265" c="-0.013379668816924095"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="41" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-119.5" ty="-651.0" a="0.048017121851444244" d="-0.04801635816693306" b="-0.01356353797018528" c="-0.01356582622975111"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="42" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-114.8" ty="-628.85" a="0.04801025241613388" d="-0.048009492456912994" b="-0.013593291863799095" c="-0.01359634380787611"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="43" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-109.85" ty="-605.4" a="0.047954559326171875" d="-0.04795379564166069" b="-0.013782501220703125" c="-0.01378631591796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-104.55" ty="-580.9" a="0.047945402562618256" d="-0.047899626195430756" b="-0.01381759624928236" c="-0.01397781353443861"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-99.15" ty="-555.15" a="0.047890473157167435" d="-0.047888945788145065" b="-0.01400909386575222" c="-0.014012145809829235"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-93.45" ty="-528.4" a="0.04783172532916069" d="-0.047830961644649506" b="-0.014203643426299095" c="-0.0142059326171875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-87.45" ty="-500.5" a="0.04777374118566513" d="-0.047772981226444244" b="-0.01439819298684597" c="-0.014400482177734375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-81.3" ty="-471.4" a="0.047762297093868256" d="-0.04776153713464737" b="-0.014438629150390625" c="-0.01444091834127903"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-74.9" ty="-441.2" a="0.04770202562212944" d="-0.04770202562212944" b="-0.014636230655014515" c="-0.014638518914580345"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-68.2" ty="-409.8" a="0.04763946682214737" d="-0.04763946682214737" b="-0.014834594912827015" c="-0.01483764685690403"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-61.3" ty="-377.35" a="0.047576904296875" d="-0.047576140612363815" b="-0.01503677386790514" c="-0.01503829937428236"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-54.1" ty="-343.7" a="0.047513581812381744" d="-0.047512054443359375" b="-0.01523742638528347" c="-0.015240478329360485"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-46.65" ty="-308.95" a="0.047447968274354935" d="-0.047447968274354935" b="-0.01544036902487278" c="-0.01544342003762722"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-39.1" ty="-273.0" a="0.047380827367305756" d="-0.04738006740808487" b="-0.01564483717083931" c="-0.015648651868104935"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-31.1" ty="-236.0" a="0.04731292650103569" d="-0.04731292650103569" b="-0.01585083082318306" c="-0.0158538818359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-23.0" ty="-197.7" a="0.04724273830652237" d="-0.04724273830652237" b="-0.016057586297392845" c="-0.01605987548828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-14.55" ty="-158.4" a="0.04717254638671875" d="-0.04717101901769638" b="-0.016265869140625" c="-0.01626739464700222"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 647" symbolType="graphic" loop="loop">
+<matrix>
+<Matrix tx="-5.95" ty="-117.95" a="0.047145843505859375" d="-0.04714202880859375" b="-0.01649780198931694" c="-0.01650695875287056"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="43.85" centerPoint3DY="-8.0">
+<matrix>
+<Matrix tx="-5.55" ty="-28.05" a="0.2588348388671875" d="0.2588348388671875" b="0.9659423828125" c="-0.9659271240234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="34.45" centerPoint3DY="-6.4">
+<matrix>
+<Matrix tx="-14.95" ty="-26.45" a="0.35888671875" d="0.35888671875" b="0.931854248046875" c="-0.9318389892578125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="24.8" centerPoint3DY="-4.75">
+<matrix>
+<Matrix tx="-24.6" ty="-24.8" a="0.45849609375" d="0.458526611328125" b="0.887939453125" c="-0.8879241943359375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="17.8" centerPoint3DY="-6.75">
+<matrix>
+<Matrix tx="-31.6" ty="-26.8" a="0.5303192138671875" d="0.530303955078125" b="0.8454437255859375" c="-0.845428466796875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="10.85" centerPoint3DY="-8.85">
+<matrix>
+<Matrix tx="-38.55" ty="-28.9" a="0.6022186279296875" d="0.6022186279296875" b="0.7978515625" c="-0.7978515625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="5.7" centerPoint3DY="-5.5">
+<matrix>
+<Matrix tx="-43.7" ty="-25.55" a="0.6690216064453125" d="0.6690216064453125" b="0.7405548095703125" c="-0.7405548095703125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="0.55" centerPoint3DY="-2.2">
+<matrix>
+<Matrix tx="-48.85" ty="-22.25" a="0.731231689453125" d="0.731231689453125" b="0.67919921875" c="-0.67919921875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-4.55" centerPoint3DY="1.15">
+<matrix>
+<Matrix tx="-53.95" ty="-18.9" a="0.7878570556640625" d="0.787841796875" b="0.6127166748046875" c="-0.612701416015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-9.75" centerPoint3DY="4.55">
+<matrix>
+<Matrix tx="-59.15" ty="-15.5" a="0.838470458984375" d="0.838470458984375" b="0.541534423828125" c="-0.541534423828125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-14.9" centerPoint3DY="7.8">
+<matrix>
+<Matrix tx="-64.3" ty="-12.25" a="0.8827362060546875" d="0.882720947265625" b="0.46624755859375" c="-0.466217041015625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-20.1" centerPoint3DY="11.2">
+<matrix>
+<Matrix tx="-69.5" ty="-8.85" a="0.92047119140625" d="0.92047119140625" b="0.3898773193359375" c="-0.389862060546875"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-25.15" centerPoint3DY="11.25">
+<matrix>
+<Matrix tx="-74.55" ty="-8.8" a="0.963348388671875" d="0.9633331298828125" b="0.2638092041015625" c="-0.2637939453125"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-30.1" centerPoint3DY="11.2">
+<matrix>
+<Matrix tx="-79.5" ty="-8.85" a="0.9900360107421875" d="0.9900360107421875" b="0.1383514404296875" c="-0.138336181640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-40.2" centerPoint3DY="11.15">
+<matrix>
+<Matrix tx="-89.6" ty="-8.9" a="0.9899444580078125" d="0.9899444580078125" b="0.1356964111328125" c="-0.13568115234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-48.0" centerPoint3DY="11.15">
+<matrix>
+<Matrix tx="-97.4" ty="-8.9" a="0.9899444580078125" d="0.9899444580078125" b="0.1356964111328125" c="-0.13568115234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-53.6" centerPoint3DY="11.15">
+<matrix>
+<Matrix tx="-103.0" ty="-8.9" a="0.9899444580078125" d="0.9899444580078125" b="0.1356964111328125" c="-0.13568115234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-57.0" centerPoint3DY="11.15">
+<matrix>
+<Matrix tx="-106.4" ty="-8.9" a="0.9899444580078125" d="0.9899444580078125" b="0.1356964111328125" c="-0.13568115234375"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+<DOMFrame index="76" duration="14" keyMode="9728">
+<elements>
+<DOMSymbolInstance libraryItemName="Symbol 3095" centerPoint3DX="-58.1" centerPoint3DY="11.2">
+<matrix>
+<Matrix tx="-107.5" ty="-8.85" a="0.9900360107421875" d="0.9900360107421875" b="0.1383514404296875" c="-0.138336181640625"/>
+</matrix>
+<transformationPoint>
+<Point/>
+</transformationPoint>
+</DOMSymbolInstance>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 2883" itemID="6b03b580-00000836" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 2883" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<SolidColor color="#555555" alpha="1.0"/>
+</FillStyle>
+<FillStyle index="2">
+<SolidColor color="#666666" alpha="1.0"/>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#3c3c3c"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+<StrokeStyle index="2">
+<SolidStroke weight="20.0" scaleMode="normal">
+<fill>
+<SolidColor color="#444444"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="1" fillStyle1="0" strokeStyle="1" edges="! 1420 920| 1420 1140| 1420 1200[ 2160 1080 2460 800[ 2680 560 2820 -20[ 2700 -560 2460 -760[ 2160 -1060 1420 -1100| 1420 -860"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 1420 -860| 1420 920"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! 1420 920| -1000 960"/>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! -1000 960| -1000 1200[ -1740 1140 -2040 860[ -2280 640 -2400 100[ -2260 -460 -2020 -700[ -1720 -1000 -1000 -1100| -1000 -860"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="2" edges="! -1000 -860| 1420 -860"/>
+<Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="! -1000 -860| -1000 960"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

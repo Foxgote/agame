@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3088" itemID="6b03b580-0000088c" lastModified="1789282414" symbolType="graphic">
+<timeline>
+<DOMTimeline name="Symbol 3088" currentFrame="0">
+<layers>
+<DOMLayer name="Layer 1">
+<frames>
+<DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="7.25" ty="-8.85" a="0.0" d="0.0" b="0.00335693359375" c="-0.0086669921875"/>
+</matrix>
+<GradientEntry color="#a2a2a2" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#cccccc" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="2">
+<LinearGradient>
+<matrix>
+<Matrix tx="28.1" ty="-4.1" a="0.0" d="0.0" b="0.010284423828125" c="-0.03424072265625"/>
+</matrix>
+<GradientEntry color="#777777" alpha="1.0" ratio="0.41568628"/>
+<GradientEntry color="#eeeeee" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="3">
+<LinearGradient>
+<matrix>
+<Matrix tx="-7.25" ty="-8.85" a="0.0" d="0.0" b="0.00335693359375" c="0.0086669921875"/>
+</matrix>
+<GradientEntry color="#a2a2a2" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#cccccc" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="4">
+<LinearGradient>
+<matrix>
+<Matrix tx="25.35" ty="-7.45" a="0.0" d="0.0" b="-0.00579833984375" c="0.0030975341796875"/>
+</matrix>
+<GradientEntry color="#a2a2a2" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#cccccc" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="5">
+<LinearGradient>
+<matrix>
+<Matrix tx="-28.1" ty="-4.1" a="0.0" d="0.0" b="0.010284423828125" c="0.03424072265625"/>
+</matrix>
+<GradientEntry color="#777777" alpha="1.0" ratio="0.41568628"/>
+<GradientEntry color="#eeeeee" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+<FillStyle index="6">
+<LinearGradient>
+<matrix>
+<Matrix tx="-25.35" ty="-7.45" a="0.0" d="0.0" b="-0.00579833984375" c="0.0030975341796875"/>
+</matrix>
+<GradientEntry color="#a2a2a2" alpha="1.0" ratio="0.0"/>
+<GradientEntry color="#cccccc" alpha="1.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<strokes>
+<StrokeStyle index="1">
+<SolidStroke weight="1.0" scaleMode="normal">
+<fill>
+<SolidColor color="#515151"/>
+</fill>
+</SolidStroke>
+</StrokeStyle>
+</strokes>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="1" edges="! 0 -202| 152 -187[ 200 -175 245 -147"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 245 -147[ 256 -147 298 -166[ 340 -185 350 -184| 365 -150"/>
+<Edge fillStyle0="0" fillStyle1="4" strokeStyle="1" edges="! 365 -150| 455 -183| 575 -160| 648 -115"/>
+<Edge fillStyle0="0" fillStyle1="2" strokeStyle="1" edges="! 648 -115| 690 -115[ 756 -98 760 -8| 682 63[ 664 75 462 87[ 480 38 0 10"/>
+<Edge fillStyle0="0" fillStyle1="5" strokeStyle="1" edges="! 0 10[ -480 38 -462 87[ -664 75 -682 63| -760 -8[ -752 -79 -690 -115| -648 -115"/>
+<Edge fillStyle0="0" fillStyle1="6" strokeStyle="1" edges="! -648 -115| -575 -160| -455 -183| -365 -150"/>
+<Edge fillStyle0="0" fillStyle1="5" strokeStyle="1" edges="! -365 -150| -350 -184[ -340 -185 -298 -166[ -256 -147 -245 -147"/>
+<Edge fillStyle0="0" fillStyle1="3" strokeStyle="1" edges="! -245 -147[ -200 -175 -152 -187| 0 -202"/>
+<Edge fillStyle0="1" fillStyle1="3" strokeStyle="0" edges="! 0 -202| 0 -72"/>
+<Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="! 0 -72[ 110 -79 167 -98[ 217 -115 245 -147"/>
+<Edge fillStyle0="4" fillStyle1="2" strokeStyle="1" edges="! 365 -150| 380 -115| 648 -115"/>
+<Edge fillStyle0="5" fillStyle1="2" strokeStyle="1" edges="! 0 10| 0 -72"/>
+<Edge fillStyle0="5" fillStyle1="3" strokeStyle="1" edges="! 0 -72[ -110 -79 -168 -98[ -217 -115 -245 -147"/>
+<Edge fillStyle0="6" fillStyle1="5" strokeStyle="1" edges="! -648 -115| -380 -115| -365 -150"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>

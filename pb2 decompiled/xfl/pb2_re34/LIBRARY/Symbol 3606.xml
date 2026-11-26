@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 3606" itemID="6b03b580-0000097e" lastModified="1789282414">
+<timeline>
+<DOMTimeline name="Symbol 3606">
+<layers>
+<DOMLayer name="Layer 1" color="#e29a64" current="true" isSelected="true">
+<frames>
+<DOMFrame index="0" keyMode="9728">
+<elements>
+<DOMShape isFloating="true">
+<fills>
+<FillStyle index="1">
+<LinearGradient>
+<matrix>
+<Matrix tx="100.0" ty="-13.0" a="0.0" d="0.0" b="-0.0142822265625" c="0.01220703125"/>
+</matrix>
+<GradientEntry color="#b4e1fe" alpha="0.3019608" ratio="0.0"/>
+<GradientEntry color="#b3e1fe" alpha="0.23137255" ratio="0.07058824"/>
+<GradientEntry color="#b0e2fe" alpha="0.16078432" ratio="0.1882353"/>
+<GradientEntry color="#9beafd" alpha="0.0" ratio="1.0"/>
+</LinearGradient>
+</FillStyle>
+</fills>
+<edges>
+<Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 4000 -520| 4000 0| 0 0| 0 -520| 4000 -520"/>
+</edges>
+</DOMShape>
+</elements>
+</DOMFrame>
+</frames>
+</DOMLayer>
+</layers>
+</DOMTimeline>
+</timeline>
+</DOMSymbolItem>
